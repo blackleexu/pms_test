@@ -1,0 +1,119 @@
+2018-08-02 17:08:11 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:index.php,module:core,controller:index,action:index  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms/index.php
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-02 17:21:05 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:index.php,module:core,controller:index,action:index  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms/index.php
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-02 17:23:41 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-02 17:23:44 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-02 17:26:12 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-02 17:26:13 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:admin,module:test,controller:test,action:index  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms/admin/test/test/index?_is_for_nav=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-02 17:28:55 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+

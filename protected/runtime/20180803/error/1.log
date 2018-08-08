@@ -1,0 +1,651 @@
+2018-08-03 17:36:26 [error] 
+[exception.CInteriorException]  array_flip(): Can only flip STRING and INTEGER values! (D:\wamp64\www\cc2\action\module\basic\dept\server\DeptServer.php:182)
+Stack trace:
+#0 D:\wamp64\www\cc2\action\module\basic\tree\UserDeptTreeJsData.php(88): getAllParentsDeptByDeptIds()
+#1 D:\wamp64\www\cc2\util\db\tree\TreeJsData.php(165): CC\action\module\basic\tree\UserDeptTreeJsData->getList()
+#2 D:\wamp64\www\pms\protected\module\project\manage\ProjectManageEditAdminAction.php(53): CC\action\module\basic\tree\UserDeptTreeJsData->getTreeList()
+#3 D:\wamp64\www\cc2\util\common\widget\form\creator\FormCreator.php(19): module\project\manage\ProjectManageEditAdminAction->createFormInputs()
+#4 D:\wamp64\www\cc2\util\common\widget\widget\FormWidget.php(53): create()
+#5 D:\wamp64\www\cc2\util\common\widget\widget\Widget.php(16): CC\util\common\widget\widget\FormWidget->onBuild()
+#6 D:\wamp64\www\cc2\util\common\widget\widget\WidgetBuilder.php(21): CC\util\common\widget\widget\FormWidget->build()
+#7 D:\wamp64\www\pms\protected\module\project\manage\view\editAdmin.php(10): build()
+#8 D:\wamp64\www\cc2\response\CRenderData.php(187): include()
+#9 D:\wamp64\www\cc2\response\CRenderData.php(201): module\project\manage\ProjectManageEditAdminAction->{closure}()
+#10 D:\wamp64\www\cc2\response\CRenderData.php(40): CRenderData->render()
+#11 D:\wamp64\www\cc2\response\CResponseData.php(16): CRenderData->onGetContent()
+#12 D:\wamp64\www\cc2\response\CResponse.php(99): CRenderData->getContent()
+#13 D:\wamp64\www\cc2\base\CApp.php(264): CResponse->send()
+#14 D:\wamp64\www\cc2\base\CApp.php(258): CApp->finish()
+#15 D:\wamp64\www\pms\index.php(29): CApp->run()
+
+
+REQUEST_URI=  /pms/admin/project/manage/edit
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-03 17:45:02 [error] 
+[exception.CInteriorException]  Invalid argument supplied for foreach() (D:\wamp64\www\pms\protected\module\test\test\view\indexAdmin.php:17)
+Stack trace:
+#0 D:\wamp64\www\cc2\response\CRenderData.php(201): module\test\test\TestTestIndexAdminAction->{closure}()
+#1 D:\wamp64\www\cc2\response\CRenderData.php(40): CRenderData->render()
+#2 D:\wamp64\www\cc2\response\CResponseData.php(16): CRenderData->onGetContent()
+#3 D:\wamp64\www\cc2\response\CResponse.php(99): CRenderData->getContent()
+#4 D:\wamp64\www\cc2\base\CApp.php(264): CResponse->send()
+#5 D:\wamp64\www\cc2\base\CApp.php(258): CApp->finish()
+#6 D:\wamp64\www\pms\index.php(29): CApp->run()
+
+
+REQUEST_URI=  /pms/admin/test/test/index?_is_for_nav=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-03 17:53:36 [error] 
+[exception.CInteriorException]  Argument 1 passed to CC\util\common\widget\widget\FilterWidget::__construct() must be an instance of CC\util\common\widget\listColumn\ITableViewCreator, instance of module\test\test\TestTestIndexAdminAction given, called in D:\wamp64\www\pms\protected\module\test\test\view\indexAdmin.php on line 38 and defined (D:\wamp64\www\cc2\util\common\widget\widget\FilterWidget.php:39)
+Stack trace:
+#0 D:\wamp64\www\cc2\response\CRenderData.php(187): include()
+#1 D:\wamp64\www\cc2\response\CRenderData.php(201): module\test\test\TestTestIndexAdminAction->{closure}()
+#2 D:\wamp64\www\cc2\response\CRenderData.php(40): CRenderData->render()
+#3 D:\wamp64\www\cc2\response\CResponseData.php(16): CRenderData->onGetContent()
+#4 D:\wamp64\www\cc2\response\CResponse.php(99): CRenderData->getContent()
+#5 D:\wamp64\www\cc2\base\CApp.php(264): CResponse->send()
+#6 D:\wamp64\www\cc2\base\CApp.php(258): CApp->finish()
+#7 D:\wamp64\www\pms\index.php(29): CApp->run()
+
+
+REQUEST_URI=  /pms/admin/test/test/index?_is_for_nav=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-03 17:54:19 [error] 
+[exception.CInteriorException]  Argument 1 passed to CC\util\common\widget\widget\FilterWidget::__construct() must be an instance of CC\util\common\widget\listColumn\ITableViewCreator, instance of module\test\test\TestTestIndexAdminAction given, called in D:\wamp64\www\pms\protected\module\test\test\view\indexAdmin.php on line 38 and defined (D:\wamp64\www\cc2\util\common\widget\widget\FilterWidget.php:39)
+Stack trace:
+#0 D:\wamp64\www\cc2\response\CRenderData.php(187): include()
+#1 D:\wamp64\www\cc2\response\CRenderData.php(201): module\test\test\TestTestIndexAdminAction->{closure}()
+#2 D:\wamp64\www\cc2\response\CRenderData.php(40): CRenderData->render()
+#3 D:\wamp64\www\cc2\response\CResponseData.php(16): CRenderData->onGetContent()
+#4 D:\wamp64\www\cc2\response\CResponse.php(99): CRenderData->getContent()
+#5 D:\wamp64\www\cc2\base\CApp.php(264): CResponse->send()
+#6 D:\wamp64\www\cc2\base\CApp.php(258): CApp->finish()
+#7 D:\wamp64\www\pms\index.php(29): CApp->run()
+
+
+REQUEST_URI=  /pms/admin/test/test/index?_is_for_nav=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-03 17:54:20 [error] 
+[exception.CInteriorException]  Argument 1 passed to CC\util\common\widget\widget\FilterWidget::__construct() must be an instance of CC\util\common\widget\listColumn\ITableViewCreator, instance of module\test\test\TestTestIndexAdminAction given, called in D:\wamp64\www\pms\protected\module\test\test\view\indexAdmin.php on line 38 and defined (D:\wamp64\www\cc2\util\common\widget\widget\FilterWidget.php:39)
+Stack trace:
+#0 D:\wamp64\www\cc2\response\CRenderData.php(187): include()
+#1 D:\wamp64\www\cc2\response\CRenderData.php(201): module\test\test\TestTestIndexAdminAction->{closure}()
+#2 D:\wamp64\www\cc2\response\CRenderData.php(40): CRenderData->render()
+#3 D:\wamp64\www\cc2\response\CResponseData.php(16): CRenderData->onGetContent()
+#4 D:\wamp64\www\cc2\response\CResponse.php(99): CRenderData->getContent()
+#5 D:\wamp64\www\cc2\base\CApp.php(264): CResponse->send()
+#6 D:\wamp64\www\cc2\base\CApp.php(258): CApp->finish()
+#7 D:\wamp64\www\pms\index.php(29): CApp->run()
+
+
+REQUEST_URI=  /pms/admin/test/test/index?_is_for_nav=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-03 17:54:20 [error] 
+[exception.CInteriorException]  Argument 1 passed to CC\util\common\widget\widget\FilterWidget::__construct() must be an instance of CC\util\common\widget\listColumn\ITableViewCreator, instance of module\test\test\TestTestIndexAdminAction given, called in D:\wamp64\www\pms\protected\module\test\test\view\indexAdmin.php on line 38 and defined (D:\wamp64\www\cc2\util\common\widget\widget\FilterWidget.php:39)
+Stack trace:
+#0 D:\wamp64\www\cc2\response\CRenderData.php(187): include()
+#1 D:\wamp64\www\cc2\response\CRenderData.php(201): module\test\test\TestTestIndexAdminAction->{closure}()
+#2 D:\wamp64\www\cc2\response\CRenderData.php(40): CRenderData->render()
+#3 D:\wamp64\www\cc2\response\CResponseData.php(16): CRenderData->onGetContent()
+#4 D:\wamp64\www\cc2\response\CResponse.php(99): CRenderData->getContent()
+#5 D:\wamp64\www\cc2\base\CApp.php(264): CResponse->send()
+#6 D:\wamp64\www\cc2\base\CApp.php(258): CApp->finish()
+#7 D:\wamp64\www\pms\index.php(29): CApp->run()
+
+
+REQUEST_URI=  /pms/admin/test/test/index?_is_for_nav=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-03 18:01:09 [error] 
+[exception.CInteriorException]  The use statement with non-compound name 'Crequest' has no effect (D:\wamp64\www\pms\protected\module\test\test\TestTestDeleteAdminAction.php:11)
+Stack trace:
+#0 D:\wamp64\www\cc2\route\process\CRequestProcess.php(57): CC\route\process\CActionProcess->onInit()
+#1 D:\wamp64\www\cc2\base\CApp.php(282): init()
+#2 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#3 D:\wamp64\www\pms\index.php(29): CApp->run()
+
+
+REQUEST_URI=  /pms/admin/test/test/delete
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-03 18:01:41 [error] 
+[exception.CInteriorException]  The use statement with non-compound name 'Crequest' has no effect (D:\wamp64\www\pms\protected\module\test\test\TestTestDeleteAdminAction.php:11)
+Stack trace:
+#0 D:\wamp64\www\cc2\route\process\CRequestProcess.php(57): CC\route\process\CActionProcess->onInit()
+#1 D:\wamp64\www\cc2\base\CApp.php(282): init()
+#2 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#3 D:\wamp64\www\pms\index.php(29): CApp->run()
+
+
+REQUEST_URI=  /pms/admin/test/test/delete
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-03 18:01:47 [error] 
+[exception.CInteriorException]  The use statement with non-compound name 'Crequest' has no effect (D:\wamp64\www\pms\protected\module\test\test\TestTestDeleteAdminAction.php:11)
+Stack trace:
+#0 D:\wamp64\www\cc2\route\process\CRequestProcess.php(57): CC\route\process\CActionProcess->onInit()
+#1 D:\wamp64\www\cc2\base\CApp.php(282): init()
+#2 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#3 D:\wamp64\www\pms\index.php(29): CApp->run()
+
+
+REQUEST_URI=  /pms/admin/test/test/delete
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-03 18:02:11 [error] 
+[exception.CInteriorException]  The use statement with non-compound name 'CRequest' has no effect (D:\wamp64\www\pms\protected\module\test\test\TestTestDeleteAdminAction.php:11)
+Stack trace:
+#0 D:\wamp64\www\cc2\route\process\CRequestProcess.php(57): CC\route\process\CActionProcess->onInit()
+#1 D:\wamp64\www\cc2\base\CApp.php(282): init()
+#2 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#3 D:\wamp64\www\pms\index.php(29): CApp->run()
+
+
+REQUEST_URI=  /pms/admin/test/test/delete
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-03 18:03:09 [error] 
+[exception.CDBException]  exception 'CDBException' with message 'SQLSTATE[HY000]: General error: 1364 Field 'position_name' doesn't have a default value' in D:\wamp64\www\cc2\db\CModel.php:830
+SQL:INSERT INTO t_user (`name`) VALUES ('lixu')
+Params:array (
+  0 => 'lixu',
+)
+
+Stack trace:
+#0 D:\wamp64\www\cc2\db\CModel.php(659): CModel->_execIn(Array, 'last_id')
+#1 D:\wamp64\www\cc2\db\base\core\CDbCommand.php(24): CModel->insert(Array)
+#2 D:\wamp64\www\cc2\db\base\insert\InsertModel.php(75): CC\db\base\core\CDbCommand::insert('user', Array, 't_', Array)
+#3 D:\wamp64\www\pms\protected\module\test\test\TestTestIndexAdminAction.php(31): CC\db\base\insert\InsertModel->execute()
+#4 D:\wamp64\www\cc2\action\base\CAction.php(129): module\test\test\TestTestIndexAdminAction->execute(Object(CRequest))
+#5 [internal function]: CAction->executeInner(Object(CRequest))
+#6 D:\wamp64\www\cc2\route\process\CActionProcess.php(74): call_user_func_array(Array, Array)
+#7 D:\wamp64\www\cc2\route\process\CRequestProcess.php(100): CC\route\process\CActionProcess->onProcess(Object(module\test\test\TestTestIndexAdminAction))
+#8 D:\wamp64\www\cc2\base\CApp.php(285): CC\route\process\CRequestProcess->process()
+#9 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#10 D:\wamp64\www\pms\index.php(29): CApp->run()
+#11 {main}
+
+REQUEST_URI=  /pms/admin/test/test/index?_is_for_nav=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-03 18:03:11 [error] 
+[exception.CDBException]  exception 'CDBException' with message 'SQLSTATE[HY000]: General error: 1364 Field 'position_name' doesn't have a default value' in D:\wamp64\www\cc2\db\CModel.php:830
+SQL:INSERT INTO t_user (`name`) VALUES ('lixu')
+Params:array (
+  0 => 'lixu',
+)
+
+Stack trace:
+#0 D:\wamp64\www\cc2\db\CModel.php(659): CModel->_execIn(Array, 'last_id')
+#1 D:\wamp64\www\cc2\db\base\core\CDbCommand.php(24): CModel->insert(Array)
+#2 D:\wamp64\www\cc2\db\base\insert\InsertModel.php(75): CC\db\base\core\CDbCommand::insert('user', Array, 't_', Array)
+#3 D:\wamp64\www\pms\protected\module\test\test\TestTestIndexAdminAction.php(31): CC\db\base\insert\InsertModel->execute()
+#4 D:\wamp64\www\cc2\action\base\CAction.php(129): module\test\test\TestTestIndexAdminAction->execute(Object(CRequest))
+#5 [internal function]: CAction->executeInner(Object(CRequest))
+#6 D:\wamp64\www\cc2\route\process\CActionProcess.php(74): call_user_func_array(Array, Array)
+#7 D:\wamp64\www\cc2\route\process\CRequestProcess.php(100): CC\route\process\CActionProcess->onProcess(Object(module\test\test\TestTestIndexAdminAction))
+#8 D:\wamp64\www\cc2\base\CApp.php(285): CC\route\process\CRequestProcess->process()
+#9 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#10 D:\wamp64\www\pms\index.php(29): CApp->run()
+#11 {main}
+
+REQUEST_URI=  /pms/admin/test/test/index?_is_for_nav=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-03 18:03:11 [error] 
+[exception.CDBException]  exception 'CDBException' with message 'SQLSTATE[HY000]: General error: 1364 Field 'position_name' doesn't have a default value' in D:\wamp64\www\cc2\db\CModel.php:830
+SQL:INSERT INTO t_user (`name`) VALUES ('lixu')
+Params:array (
+  0 => 'lixu',
+)
+
+Stack trace:
+#0 D:\wamp64\www\cc2\db\CModel.php(659): CModel->_execIn(Array, 'last_id')
+#1 D:\wamp64\www\cc2\db\base\core\CDbCommand.php(24): CModel->insert(Array)
+#2 D:\wamp64\www\cc2\db\base\insert\InsertModel.php(75): CC\db\base\core\CDbCommand::insert('user', Array, 't_', Array)
+#3 D:\wamp64\www\pms\protected\module\test\test\TestTestIndexAdminAction.php(31): CC\db\base\insert\InsertModel->execute()
+#4 D:\wamp64\www\cc2\action\base\CAction.php(129): module\test\test\TestTestIndexAdminAction->execute(Object(CRequest))
+#5 [internal function]: CAction->executeInner(Object(CRequest))
+#6 D:\wamp64\www\cc2\route\process\CActionProcess.php(74): call_user_func_array(Array, Array)
+#7 D:\wamp64\www\cc2\route\process\CRequestProcess.php(100): CC\route\process\CActionProcess->onProcess(Object(module\test\test\TestTestIndexAdminAction))
+#8 D:\wamp64\www\cc2\base\CApp.php(285): CC\route\process\CRequestProcess->process()
+#9 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#10 D:\wamp64\www\pms\index.php(29): CApp->run()
+#11 {main}
+
+REQUEST_URI=  /pms/admin/test/test/index?_is_for_nav=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-03 18:09:03 [error] 
+[exception.CDBException]  exception 'CDBException' with message 'SQLSTATE[22003]: Numeric value out of range: 1264 Out of range value for column 'user_type' at row 1' in D:\wamp64\www\cc2\db\CModel.php:830
+SQL:UPDATE t_user as t SET `user_type`='456' where 1 and (  `id`='924' ) 
+Params:array (
+  ':qp0' => 924,
+  ':qp1' => 456,
+)
+
+Stack trace:
+#0 D:\wamp64\www\cc2\db\CModel.php(539): CModel->_execIn(Array, 'bool')
+#1 D:\wamp64\www\cc2\db\base\core\CDbCommand.php(52): CModel->execSql('UPDATE t_user a...', Array)
+#2 D:\wamp64\www\cc2\db\base\update\UpdateModel.php(37): CC\db\base\core\CDbCommand::update(Array, Object(CC\db\base\update\UpdateModel), Array)
+#3 D:\wamp64\www\pms\protected\module\test\test\TestTestIndexAdminAction.php(30): CC\db\base\update\UpdateModel->execute()
+#4 D:\wamp64\www\cc2\action\base\CAction.php(129): module\test\test\TestTestIndexAdminAction->execute(Object(CRequest))
+#5 [internal function]: CAction->executeInner(Object(CRequest))
+#6 D:\wamp64\www\cc2\route\process\CActionProcess.php(74): call_user_func_array(Array, Array)
+#7 D:\wamp64\www\cc2\route\process\CRequestProcess.php(100): CC\route\process\CActionProcess->onProcess(Object(module\test\test\TestTestIndexAdminAction))
+#8 D:\wamp64\www\cc2\base\CApp.php(285): CC\route\process\CRequestProcess->process()
+#9 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#10 D:\wamp64\www\pms\index.php(29): CApp->run()
+#11 {main}
+
+REQUEST_URI=  /pms/admin/test/test/index?_is_for_nav=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-03 18:09:15 [error] 
+[exception.CDBException]  exception 'CDBException' with message 'SQLSTATE[22003]: Numeric value out of range: 1264 Out of range value for column 'user_type' at row 1' in D:\wamp64\www\cc2\db\CModel.php:830
+SQL:UPDATE t_user as t SET `user_type`='456' where 1 and (  `id`='924' ) 
+Params:array (
+  ':qp0' => 924,
+  ':qp1' => 456,
+)
+
+Stack trace:
+#0 D:\wamp64\www\cc2\db\CModel.php(539): CModel->_execIn(Array, 'bool')
+#1 D:\wamp64\www\cc2\db\base\core\CDbCommand.php(52): CModel->execSql('UPDATE t_user a...', Array)
+#2 D:\wamp64\www\cc2\db\base\update\UpdateModel.php(37): CC\db\base\core\CDbCommand::update(Array, Object(CC\db\base\update\UpdateModel), Array)
+#3 D:\wamp64\www\pms\protected\module\test\test\TestTestIndexAdminAction.php(30): CC\db\base\update\UpdateModel->execute()
+#4 D:\wamp64\www\cc2\action\base\CAction.php(129): module\test\test\TestTestIndexAdminAction->execute(Object(CRequest))
+#5 [internal function]: CAction->executeInner(Object(CRequest))
+#6 D:\wamp64\www\cc2\route\process\CActionProcess.php(74): call_user_func_array(Array, Array)
+#7 D:\wamp64\www\cc2\route\process\CRequestProcess.php(100): CC\route\process\CActionProcess->onProcess(Object(module\test\test\TestTestIndexAdminAction))
+#8 D:\wamp64\www\cc2\base\CApp.php(285): CC\route\process\CRequestProcess->process()
+#9 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#10 D:\wamp64\www\pms\index.php(29): CApp->run()
+#11 {main}
+
+REQUEST_URI=  /pms/admin/test/test/index?_is_for_nav=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-03 18:09:15 [error] 
+[exception.CDBException]  exception 'CDBException' with message 'SQLSTATE[22003]: Numeric value out of range: 1264 Out of range value for column 'user_type' at row 1' in D:\wamp64\www\cc2\db\CModel.php:830
+SQL:UPDATE t_user as t SET `user_type`='456' where 1 and (  `id`='924' ) 
+Params:array (
+  ':qp0' => 924,
+  ':qp1' => 456,
+)
+
+Stack trace:
+#0 D:\wamp64\www\cc2\db\CModel.php(539): CModel->_execIn(Array, 'bool')
+#1 D:\wamp64\www\cc2\db\base\core\CDbCommand.php(52): CModel->execSql('UPDATE t_user a...', Array)
+#2 D:\wamp64\www\cc2\db\base\update\UpdateModel.php(37): CC\db\base\core\CDbCommand::update(Array, Object(CC\db\base\update\UpdateModel), Array)
+#3 D:\wamp64\www\pms\protected\module\test\test\TestTestIndexAdminAction.php(30): CC\db\base\update\UpdateModel->execute()
+#4 D:\wamp64\www\cc2\action\base\CAction.php(129): module\test\test\TestTestIndexAdminAction->execute(Object(CRequest))
+#5 [internal function]: CAction->executeInner(Object(CRequest))
+#6 D:\wamp64\www\cc2\route\process\CActionProcess.php(74): call_user_func_array(Array, Array)
+#7 D:\wamp64\www\cc2\route\process\CRequestProcess.php(100): CC\route\process\CActionProcess->onProcess(Object(module\test\test\TestTestIndexAdminAction))
+#8 D:\wamp64\www\cc2\base\CApp.php(285): CC\route\process\CRequestProcess->process()
+#9 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#10 D:\wamp64\www\pms\index.php(29): CApp->run()
+#11 {main}
+
+REQUEST_URI=  /pms/admin/test/test/index?_is_for_nav=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-03 18:09:15 [error] 
+[exception.CDBException]  exception 'CDBException' with message 'SQLSTATE[22003]: Numeric value out of range: 1264 Out of range value for column 'user_type' at row 1' in D:\wamp64\www\cc2\db\CModel.php:830
+SQL:UPDATE t_user as t SET `user_type`='456' where 1 and (  `id`='924' ) 
+Params:array (
+  ':qp0' => 924,
+  ':qp1' => 456,
+)
+
+Stack trace:
+#0 D:\wamp64\www\cc2\db\CModel.php(539): CModel->_execIn(Array, 'bool')
+#1 D:\wamp64\www\cc2\db\base\core\CDbCommand.php(52): CModel->execSql('UPDATE t_user a...', Array)
+#2 D:\wamp64\www\cc2\db\base\update\UpdateModel.php(37): CC\db\base\core\CDbCommand::update(Array, Object(CC\db\base\update\UpdateModel), Array)
+#3 D:\wamp64\www\pms\protected\module\test\test\TestTestIndexAdminAction.php(30): CC\db\base\update\UpdateModel->execute()
+#4 D:\wamp64\www\cc2\action\base\CAction.php(129): module\test\test\TestTestIndexAdminAction->execute(Object(CRequest))
+#5 [internal function]: CAction->executeInner(Object(CRequest))
+#6 D:\wamp64\www\cc2\route\process\CActionProcess.php(74): call_user_func_array(Array, Array)
+#7 D:\wamp64\www\cc2\route\process\CRequestProcess.php(100): CC\route\process\CActionProcess->onProcess(Object(module\test\test\TestTestIndexAdminAction))
+#8 D:\wamp64\www\cc2\base\CApp.php(285): CC\route\process\CRequestProcess->process()
+#9 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#10 D:\wamp64\www\pms\index.php(29): CApp->run()
+#11 {main}
+
+REQUEST_URI=  /pms/admin/test/test/index?_is_for_nav=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-03 18:09:16 [error] 
+[exception.CDBException]  exception 'CDBException' with message 'SQLSTATE[22003]: Numeric value out of range: 1264 Out of range value for column 'user_type' at row 1' in D:\wamp64\www\cc2\db\CModel.php:830
+SQL:UPDATE t_user as t SET `user_type`='456' where 1 and (  `id`='924' ) 
+Params:array (
+  ':qp0' => 924,
+  ':qp1' => 456,
+)
+
+Stack trace:
+#0 D:\wamp64\www\cc2\db\CModel.php(539): CModel->_execIn(Array, 'bool')
+#1 D:\wamp64\www\cc2\db\base\core\CDbCommand.php(52): CModel->execSql('UPDATE t_user a...', Array)
+#2 D:\wamp64\www\cc2\db\base\update\UpdateModel.php(37): CC\db\base\core\CDbCommand::update(Array, Object(CC\db\base\update\UpdateModel), Array)
+#3 D:\wamp64\www\pms\protected\module\test\test\TestTestIndexAdminAction.php(30): CC\db\base\update\UpdateModel->execute()
+#4 D:\wamp64\www\cc2\action\base\CAction.php(129): module\test\test\TestTestIndexAdminAction->execute(Object(CRequest))
+#5 [internal function]: CAction->executeInner(Object(CRequest))
+#6 D:\wamp64\www\cc2\route\process\CActionProcess.php(74): call_user_func_array(Array, Array)
+#7 D:\wamp64\www\cc2\route\process\CRequestProcess.php(100): CC\route\process\CActionProcess->onProcess(Object(module\test\test\TestTestIndexAdminAction))
+#8 D:\wamp64\www\cc2\base\CApp.php(285): CC\route\process\CRequestProcess->process()
+#9 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#10 D:\wamp64\www\pms\index.php(29): CApp->run()
+#11 {main}
+
+REQUEST_URI=  /pms/admin/test/test/index?_is_for_nav=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-03 18:09:16 [error] 
+[exception.CDBException]  exception 'CDBException' with message 'SQLSTATE[22003]: Numeric value out of range: 1264 Out of range value for column 'user_type' at row 1' in D:\wamp64\www\cc2\db\CModel.php:830
+SQL:UPDATE t_user as t SET `user_type`='456' where 1 and (  `id`='924' ) 
+Params:array (
+  ':qp0' => 924,
+  ':qp1' => 456,
+)
+
+Stack trace:
+#0 D:\wamp64\www\cc2\db\CModel.php(539): CModel->_execIn(Array, 'bool')
+#1 D:\wamp64\www\cc2\db\base\core\CDbCommand.php(52): CModel->execSql('UPDATE t_user a...', Array)
+#2 D:\wamp64\www\cc2\db\base\update\UpdateModel.php(37): CC\db\base\core\CDbCommand::update(Array, Object(CC\db\base\update\UpdateModel), Array)
+#3 D:\wamp64\www\pms\protected\module\test\test\TestTestIndexAdminAction.php(30): CC\db\base\update\UpdateModel->execute()
+#4 D:\wamp64\www\cc2\action\base\CAction.php(129): module\test\test\TestTestIndexAdminAction->execute(Object(CRequest))
+#5 [internal function]: CAction->executeInner(Object(CRequest))
+#6 D:\wamp64\www\cc2\route\process\CActionProcess.php(74): call_user_func_array(Array, Array)
+#7 D:\wamp64\www\cc2\route\process\CRequestProcess.php(100): CC\route\process\CActionProcess->onProcess(Object(module\test\test\TestTestIndexAdminAction))
+#8 D:\wamp64\www\cc2\base\CApp.php(285): CC\route\process\CRequestProcess->process()
+#9 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#10 D:\wamp64\www\pms\index.php(29): CApp->run()
+#11 {main}
+
+REQUEST_URI=  /pms/admin/test/test/index?_is_for_nav=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-03 18:09:16 [error] 
+[exception.CDBException]  exception 'CDBException' with message 'SQLSTATE[22003]: Numeric value out of range: 1264 Out of range value for column 'user_type' at row 1' in D:\wamp64\www\cc2\db\CModel.php:830
+SQL:UPDATE t_user as t SET `user_type`='456' where 1 and (  `id`='924' ) 
+Params:array (
+  ':qp0' => 924,
+  ':qp1' => 456,
+)
+
+Stack trace:
+#0 D:\wamp64\www\cc2\db\CModel.php(539): CModel->_execIn(Array, 'bool')
+#1 D:\wamp64\www\cc2\db\base\core\CDbCommand.php(52): CModel->execSql('UPDATE t_user a...', Array)
+#2 D:\wamp64\www\cc2\db\base\update\UpdateModel.php(37): CC\db\base\core\CDbCommand::update(Array, Object(CC\db\base\update\UpdateModel), Array)
+#3 D:\wamp64\www\pms\protected\module\test\test\TestTestIndexAdminAction.php(30): CC\db\base\update\UpdateModel->execute()
+#4 D:\wamp64\www\cc2\action\base\CAction.php(129): module\test\test\TestTestIndexAdminAction->execute(Object(CRequest))
+#5 [internal function]: CAction->executeInner(Object(CRequest))
+#6 D:\wamp64\www\cc2\route\process\CActionProcess.php(74): call_user_func_array(Array, Array)
+#7 D:\wamp64\www\cc2\route\process\CRequestProcess.php(100): CC\route\process\CActionProcess->onProcess(Object(module\test\test\TestTestIndexAdminAction))
+#8 D:\wamp64\www\cc2\base\CApp.php(285): CC\route\process\CRequestProcess->process()
+#9 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#10 D:\wamp64\www\pms\index.php(29): CApp->run()
+#11 {main}
+
+REQUEST_URI=  /pms/admin/test/test/index?_is_for_nav=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-03 18:09:16 [error] 
+[exception.CDBException]  exception 'CDBException' with message 'SQLSTATE[22003]: Numeric value out of range: 1264 Out of range value for column 'user_type' at row 1' in D:\wamp64\www\cc2\db\CModel.php:830
+SQL:UPDATE t_user as t SET `user_type`='456' where 1 and (  `id`='924' ) 
+Params:array (
+  ':qp0' => 924,
+  ':qp1' => 456,
+)
+
+Stack trace:
+#0 D:\wamp64\www\cc2\db\CModel.php(539): CModel->_execIn(Array, 'bool')
+#1 D:\wamp64\www\cc2\db\base\core\CDbCommand.php(52): CModel->execSql('UPDATE t_user a...', Array)
+#2 D:\wamp64\www\cc2\db\base\update\UpdateModel.php(37): CC\db\base\core\CDbCommand::update(Array, Object(CC\db\base\update\UpdateModel), Array)
+#3 D:\wamp64\www\pms\protected\module\test\test\TestTestIndexAdminAction.php(30): CC\db\base\update\UpdateModel->execute()
+#4 D:\wamp64\www\cc2\action\base\CAction.php(129): module\test\test\TestTestIndexAdminAction->execute(Object(CRequest))
+#5 [internal function]: CAction->executeInner(Object(CRequest))
+#6 D:\wamp64\www\cc2\route\process\CActionProcess.php(74): call_user_func_array(Array, Array)
+#7 D:\wamp64\www\cc2\route\process\CRequestProcess.php(100): CC\route\process\CActionProcess->onProcess(Object(module\test\test\TestTestIndexAdminAction))
+#8 D:\wamp64\www\cc2\base\CApp.php(285): CC\route\process\CRequestProcess->process()
+#9 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#10 D:\wamp64\www\pms\index.php(29): CApp->run()
+#11 {main}
+
+REQUEST_URI=  /pms/admin/test/test/index?_is_for_nav=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-03 18:17:43 [error] 
+[exception.CDBException]  exception 'CDBException' with message 'SQLSTATE[HY000]: General error: 1364 Field 'position_name' doesn't have a default value' in D:\wamp64\www\cc2\db\CModel.php:830
+SQL:INSERT INTO t_user (`name`) VALUES ('lixu')
+Params:array (
+  0 => 'lixu',
+)
+
+Stack trace:
+#0 D:\wamp64\www\cc2\db\CModel.php(659): CModel->_execIn(Array, 'last_id')
+#1 D:\wamp64\www\cc2\db\base\core\CDbCommand.php(24): CModel->insert(Array)
+#2 D:\wamp64\www\cc2\db\base\insert\InsertModel.php(75): CC\db\base\core\CDbCommand::insert('user', Array, 't_', Array)
+#3 D:\wamp64\www\pms\protected\module\test\test\TestTestIndexAdminAction.php(27): CC\db\base\insert\InsertModel->execute()
+#4 D:\wamp64\www\cc2\action\base\CAction.php(129): module\test\test\TestTestIndexAdminAction->execute(Object(CRequest))
+#5 [internal function]: CAction->executeInner(Object(CRequest))
+#6 D:\wamp64\www\cc2\route\process\CActionProcess.php(74): call_user_func_array(Array, Array)
+#7 D:\wamp64\www\cc2\route\process\CRequestProcess.php(100): CC\route\process\CActionProcess->onProcess(Object(module\test\test\TestTestIndexAdminAction))
+#8 D:\wamp64\www\cc2\base\CApp.php(285): CC\route\process\CRequestProcess->process()
+#9 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#10 D:\wamp64\www\pms\index.php(29): CApp->run()
+#11 {main}
+
+REQUEST_URI=  /pms/admin/test/test/index?_is_for_nav=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-03 18:18:24 [error] 
+[exception.CDBException]  exception 'CDBException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'postion_name' in 'field list'' in D:\wamp64\www\cc2\db\CModel.php:830
+SQL:INSERT INTO t_user (`name`,`postion_name`) VALUES ('lixu','hahha')
+Params:array (
+  0 => 'lixu',
+  1 => 'hahha',
+)
+
+Stack trace:
+#0 D:\wamp64\www\cc2\db\CModel.php(659): CModel->_execIn(Array, 'last_id')
+#1 D:\wamp64\www\cc2\db\base\core\CDbCommand.php(24): CModel->insert(Array)
+#2 D:\wamp64\www\cc2\db\base\insert\InsertModel.php(75): CC\db\base\core\CDbCommand::insert('user', Array, 't_', Array)
+#3 D:\wamp64\www\pms\protected\module\test\test\TestTestIndexAdminAction.php(27): CC\db\base\insert\InsertModel->execute()
+#4 D:\wamp64\www\cc2\action\base\CAction.php(129): module\test\test\TestTestIndexAdminAction->execute(Object(CRequest))
+#5 [internal function]: CAction->executeInner(Object(CRequest))
+#6 D:\wamp64\www\cc2\route\process\CActionProcess.php(74): call_user_func_array(Array, Array)
+#7 D:\wamp64\www\cc2\route\process\CRequestProcess.php(100): CC\route\process\CActionProcess->onProcess(Object(module\test\test\TestTestIndexAdminAction))
+#8 D:\wamp64\www\cc2\base\CApp.php(285): CC\route\process\CRequestProcess->process()
+#9 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#10 D:\wamp64\www\pms\index.php(29): CApp->run()
+#11 {main}
+
+REQUEST_URI=  /pms/admin/test/test/index?_is_for_nav=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-03 18:18:24 [error] 
+[exception.CDBException]  exception 'CDBException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'postion_name' in 'field list'' in D:\wamp64\www\cc2\db\CModel.php:830
+SQL:INSERT INTO t_user (`name`,`postion_name`) VALUES ('lixu','hahha')
+Params:array (
+  0 => 'lixu',
+  1 => 'hahha',
+)
+
+Stack trace:
+#0 D:\wamp64\www\cc2\db\CModel.php(659): CModel->_execIn(Array, 'last_id')
+#1 D:\wamp64\www\cc2\db\base\core\CDbCommand.php(24): CModel->insert(Array)
+#2 D:\wamp64\www\cc2\db\base\insert\InsertModel.php(75): CC\db\base\core\CDbCommand::insert('user', Array, 't_', Array)
+#3 D:\wamp64\www\pms\protected\module\test\test\TestTestIndexAdminAction.php(27): CC\db\base\insert\InsertModel->execute()
+#4 D:\wamp64\www\cc2\action\base\CAction.php(129): module\test\test\TestTestIndexAdminAction->execute(Object(CRequest))
+#5 [internal function]: CAction->executeInner(Object(CRequest))
+#6 D:\wamp64\www\cc2\route\process\CActionProcess.php(74): call_user_func_array(Array, Array)
+#7 D:\wamp64\www\cc2\route\process\CRequestProcess.php(100): CC\route\process\CActionProcess->onProcess(Object(module\test\test\TestTestIndexAdminAction))
+#8 D:\wamp64\www\cc2\base\CApp.php(285): CC\route\process\CRequestProcess->process()
+#9 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#10 D:\wamp64\www\pms\index.php(29): CApp->run()
+#11 {main}
+
+REQUEST_URI=  /pms/admin/test/test/index?_is_for_nav=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-03 18:18:25 [error] 
+[exception.CDBException]  exception 'CDBException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'postion_name' in 'field list'' in D:\wamp64\www\cc2\db\CModel.php:830
+SQL:INSERT INTO t_user (`name`,`postion_name`) VALUES ('lixu','hahha')
+Params:array (
+  0 => 'lixu',
+  1 => 'hahha',
+)
+
+Stack trace:
+#0 D:\wamp64\www\cc2\db\CModel.php(659): CModel->_execIn(Array, 'last_id')
+#1 D:\wamp64\www\cc2\db\base\core\CDbCommand.php(24): CModel->insert(Array)
+#2 D:\wamp64\www\cc2\db\base\insert\InsertModel.php(75): CC\db\base\core\CDbCommand::insert('user', Array, 't_', Array)
+#3 D:\wamp64\www\pms\protected\module\test\test\TestTestIndexAdminAction.php(27): CC\db\base\insert\InsertModel->execute()
+#4 D:\wamp64\www\cc2\action\base\CAction.php(129): module\test\test\TestTestIndexAdminAction->execute(Object(CRequest))
+#5 [internal function]: CAction->executeInner(Object(CRequest))
+#6 D:\wamp64\www\cc2\route\process\CActionProcess.php(74): call_user_func_array(Array, Array)
+#7 D:\wamp64\www\cc2\route\process\CRequestProcess.php(100): CC\route\process\CActionProcess->onProcess(Object(module\test\test\TestTestIndexAdminAction))
+#8 D:\wamp64\www\cc2\base\CApp.php(285): CC\route\process\CRequestProcess->process()
+#9 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#10 D:\wamp64\www\pms\index.php(29): CApp->run()
+#11 {main}
+
+REQUEST_URI=  /pms/admin/test/test/index?_is_for_nav=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-03 18:18:51 [error] 
+[exception.CDBException]  exception 'CDBException' with message 'SQLSTATE[HY000]: General error: 1364 Field 'id_card' doesn't have a default value' in D:\wamp64\www\cc2\db\CModel.php:830
+SQL:INSERT INTO t_user (`name`,`position_name`) VALUES ('lixu','hahha')
+Params:array (
+  0 => 'lixu',
+  1 => 'hahha',
+)
+
+Stack trace:
+#0 D:\wamp64\www\cc2\db\CModel.php(659): CModel->_execIn(Array, 'last_id')
+#1 D:\wamp64\www\cc2\db\base\core\CDbCommand.php(24): CModel->insert(Array)
+#2 D:\wamp64\www\cc2\db\base\insert\InsertModel.php(75): CC\db\base\core\CDbCommand::insert('user', Array, 't_', Array)
+#3 D:\wamp64\www\pms\protected\module\test\test\TestTestIndexAdminAction.php(27): CC\db\base\insert\InsertModel->execute()
+#4 D:\wamp64\www\cc2\action\base\CAction.php(129): module\test\test\TestTestIndexAdminAction->execute(Object(CRequest))
+#5 [internal function]: CAction->executeInner(Object(CRequest))
+#6 D:\wamp64\www\cc2\route\process\CActionProcess.php(74): call_user_func_array(Array, Array)
+#7 D:\wamp64\www\cc2\route\process\CRequestProcess.php(100): CC\route\process\CActionProcess->onProcess(Object(module\test\test\TestTestIndexAdminAction))
+#8 D:\wamp64\www\cc2\base\CApp.php(285): CC\route\process\CRequestProcess->process()
+#9 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#10 D:\wamp64\www\pms\index.php(29): CApp->run()
+#11 {main}
+
+REQUEST_URI=  /pms/admin/test/test/index?_is_for_nav=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+

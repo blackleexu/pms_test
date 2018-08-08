@@ -1,0 +1,28 @@
+/**
+ * User: fu
+ * Date: 12-8-13
+ * Time: ����3:59
+ */
+
+.f_cal{ font-size: 12px; width: 600px;background: #fff; }
+.f_cal table { font-size: 12px; width: 100%;}
+.f_cal table tbody td,.f_cal table thead th,.f_cal table,.f_cal .f_cal_hd_w{border: 1px solid #a9a9a9;}
+.f_cal .f_cal_hd_w{  border-bottom: none;}
+.f_cal .f_cal_hd {   margin: auto; padding: 10px 0; position: relative; }
+.f_cal .f_cal_hd_l,.f_cal .f_cal_hd_r,.f_cal_hd_ln,.f_cal_hd_rn{
+    position: absolute; left:30px; width: 10px;height: 16px;cursor: pointer;
+    background: url(btn_03.jpg) no-repeat left;}
+.f_cal .f_cal_hd_r{ left: auto; right: 30px;   background: url(btn_05.jpg) no-repeat right;}
+.f_cal .f_cal_hd_ln{ width: 15px; background-image: url(btn_0312.jpg); left: 5px;}
+.f_cal .f_cal_hd_rn{width: 15px;  left: auto; right: 5px;   background-image: url(btn_052.jpg);  }
+
+.f_cal .f_cal_hd_txt{ width: 100%; text-align: center; font-size: 14px; color: #5f5f5f;}
+.f_cal table { border-collapse: collapse; border-spacing: 0; text-align: center;}
+.f_cal table thead th{ font-size: 14px; font-weight: normal;color: #5f5f5f; background: #eee; padding: 5px;}
+.f_cal table .f_tb_day{cursor: pointer;padding: 15px;position: relative; }
+.f_cal table .f_tb_day:hover,.f_cal table .today{background: #FFF0D4;}
+.f_cal table .f_tb_day .check_box{position: absolute;font-size: 16px;left:4px;top: 4px; width: 20px;height: 20px;}
+.f_cal table .f_tb_day .check_box.icon-check{background: url("checked.jpg") no-repeat center;}
+.f_cal table .f_tb_day .check_box.icon-check-empty{background: url("empty.jpg") no-repeat center;}
+.f_cal table .f_tb_day .fake{position: absolute;right:4px;top: 4px;color: #fff;background: #FF67AA;width: 20px;height: 20px;}
+.f_cal table .f_tb_day .fwork{position: absolute;right:4px;top: 4px;color: #fff;background: #0088cc;width: 20px;height: 20px;}

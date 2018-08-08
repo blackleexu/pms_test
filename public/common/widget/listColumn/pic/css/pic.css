@@ -1,0 +1,8 @@
+.pic-img-vam{vertical-align: middle;}
+.s-image{height: 40px;width: 40px;border: 1px solid #ccc;margin-right: 5px; margin-left:5px;}
+.ss-image{height: 40px;width: 40px;border-radius: 5px}
+.count-num{display: inline-block;height: 40px;width: 40px;position: absolute;top: 50%;margin-top:-20px;left: 50%;margin-left:-20px;line-height: 40px;background: #000;opacity: 0.5;border-radius: 5px;}
+.count-num:hover{cursor: pointer;}
+.count-num-mask{display: inline-block;height: 40px;width: 40px;position: absolute;top: 50%;margin-top:-20px;left: 50%;margin-left:-20px;line-height: 40px;border-radius: 5px;color: #fff;}
+.count-num-mask:hover{cursor: pointer;}
+.pics-td{position: relative;vertical-align: middle;}

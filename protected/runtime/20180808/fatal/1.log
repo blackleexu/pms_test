@@ -1,0 +1,307 @@
+2018-08-08 09:21:56 [fatal] 
+Class 'module\test\test\DeleteModel' not foundD:\wamp64\www\pms_test\protected\module\test\test\TestTestDeleteAdminAction.php(22)
+
+SQL:     select t.* from t_test as t   where 1 and (  `id`='941' )      limit 1 
+Params:  array (
+  ':qp0' => '941',
+)
+Line:  
+D:\wamp64\www\cc2\db\base\core\CDbCommand.php(100): CModel->query()
+args:["1 and (  `id`=:qp0 ) ",{":qp0":"941"},"t.*",""]
+D:\wamp64\www\cc2\db\base\select\ItemModel.php(19): query()
+args:[{},[{},"beforeModel"]]
+D:\wamp64\www\cc2\db\base\select\ItemModel.php(27): CC\db\base\select\ItemModel->getData()
+D:\wamp64\www\cc2\action\DeleteAction.php(54): CC\db\base\select\ItemModel->execute()
+
+Time:  0.0003
+
+ConnectTime:  0.0116
+
+CurTime:  1533691316.1705
+
+Memory:  1856.75k
+
+
+
+SQL:     UPDATE t_user as t SET `is_delete`='1' where 1 and (  `id`='941' ) 
+Params:  array (
+  ':qp0' => '941',
+  ':qp1' => 1,
+)
+Line:  
+D:\wamp64\www\cc2\db\base\core\CDbCommand.php(52): CModel->execSql()
+args:["UPDATE t_user as t SET `is_delete`=:qp1 where 1 and (  `id`=:qp0 ) ",{":qp0":"941",":qp1":1}]
+D:\wamp64\www\cc2\db\base\update\UpdateModel.php(37): update()
+args:[{"is_delete":1},{},[{},"beforeModel"]]
+D:\wamp64\www\pms_test\protected\module\test\test\TestTestDeleteAdminAction.php(21): CC\db\base\update\UpdateModel->execute()
+D:\wamp64\www\cc2\action\DeleteAction.php(70): module\test\test\TestTestDeleteAdminAction->deleteData()
+args:[{}]
+
+Time:  0.0003
+
+ConnectTime:  
+
+CurTime:  1533691316.1992
+
+Memory:  1942.5390625k
+
+last_memory:1933.640625k
+
+REQUEST_URI=  /pms_test/admin/test/test/delete
+
+POST 数据：   array (
+  'id' => '941',
+)
+
+==========================================================================
+
+2018-08-08 12:16:10 [fatal] 
+Call to a member function onBuild() on arrayD:\wamp64\www\cc2\db\base\core\CDbConditionTrait.php(524)last_memory:1613.5546875k
+
+REQUEST_URI=  /pms_test/admin/test/test/index?_is_for_nav=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 12:16:54 [fatal] 
+Call to a member function onBuild() on integerD:\wamp64\www\cc2\db\base\core\CDbConditionTrait.php(524)last_memory:1612.4375k
+
+REQUEST_URI=  /pms_test/admin/test/test/index?_is_for_nav=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 12:16:55 [fatal] 
+Call to a member function onBuild() on integerD:\wamp64\www\cc2\db\base\core\CDbConditionTrait.php(524)last_memory:1612.4375k
+
+REQUEST_URI=  /pms_test/admin/test/test/index?_is_for_nav=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 12:17:22 [fatal] 
+Call to a member function onBuild() on integerD:\wamp64\www\cc2\db\base\core\CDbConditionTrait.php(524)last_memory:1610.609375k
+
+REQUEST_URI=  /pms_test/admin/test/test/index?_is_for_nav=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 12:17:23 [fatal] 
+Call to a member function onBuild() on integerD:\wamp64\www\cc2\db\base\core\CDbConditionTrait.php(524)last_memory:1610.609375k
+
+REQUEST_URI=  /pms_test/admin/test/test/index?_is_for_nav=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 12:21:59 [fatal] 
+Call to a member function onBuild() on arrayD:\wamp64\www\cc2\db\base\core\CDbConditionTrait.php(524)last_memory:1613.6171875k
+
+REQUEST_URI=  /pms_test/admin/test/test/index?_is_for_nav=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 14:41:29 [fatal] 
+Class 'module\test\test\SimpleColumnValueSetterWrapper' not foundD:\wamp64\www\pms_test\protected\module\test\test\TestTestIndexAdminAction.php(76)
+
+SQL:     select t.* from t_user as t   where 1 and (id like '%%' or name like '%%' or account like '%%')  and (  `is_delete`='0' )      order by id DESC  limit 0, 11 
+Params:  array (
+  ':id' => '%%',
+  ':name' => '%%',
+  ':account' => '%%',
+  ':qp3' => 0,
+)
+Line:  
+D:\wamp64\www\cc2\db\base\core\CDbCommand.php(166): CModel->queryAll()
+args:["1 and (id like :id or name like :name or account like :account)  and (  `is_delete`=:qp3 ) ",{":id":"%%",":name":"%%",":account":"%%",":qp3":0},"t.*","id DESC",11,0,false]
+D:\wamp64\www\cc2\db\base\select\ListModel.php(36): queryAll()
+args:[{},0,null,[{},"beforeModel"]]
+D:\wamp64\www\cc2\action\ListAction.php(128): CC\db\base\select\ListModel->execute()
+D:\wamp64\www\cc2\action\base\CAction.php(129): module\test\test\TestTestIndexAdminAction->execute()
+args:[{}]
+
+Time:  0.0006
+
+ConnectTime:  0.0133
+
+CurTime:  1533710489.6917
+
+Memory:  1950.140625k
+
+
+
+SQL:     select count(*) count_num from t_user as t   where 1 and (id like '%%' or name like '%%' or account like '%%')  and (  `is_delete`='0' )      limit 1 
+Params:  array (
+  ':id' => '%%',
+  ':name' => '%%',
+  ':account' => '%%',
+  ':qp3' => 0,
+)
+Line:  
+D:\wamp64\www\cc2\db\base\core\CDbCommand.php(100): CModel->query()
+args:["1 and (id like :id or name like :name or account like :account)  and (  `is_delete`=:qp3 ) ",{":id":"%%",":name":"%%",":account":"%%",":qp3":0},"count(*) count_num",""]
+D:\wamp64\www\cc2\db\base\core\CDbCommand.php(138): query()
+args:[{},[{},"beforeModel"]]
+D:\wamp64\www\cc2\db\base\select\ListModel.php(26): count()
+args:[{},"*",[{},"beforeModel"]]
+D:\wamp64\www\cc2\action\ListAction.php(213): CC\db\base\select\ListModel->getPage()
+
+Time:  0.0003
+
+ConnectTime:  0.0000
+
+CurTime:  1533710489.7074
+
+Memory:  2096.671875k
+
+
+
+SQL:     select id,name,last_id from t_department as t   where 1     order by sort_id  
+Params:  array (
+)
+Line:  
+D:\wamp64\www\cc2\db\base\core\CDbCommand.php(166): CModel->queryAll()
+args:["1",[],"id,name,last_id","sort_id",0,0,false]
+D:\wamp64\www\cc2\db\base\select\ListModel.php(36): queryAll()
+args:[{},0,null,[{},"beforeModel"]]
+D:\wamp64\www\cc2\util\db\tree\TreeJsData.php(79): CC\db\base\select\ListModel->execute()
+D:\wamp64\www\cc2\util\db\tree\TreeJsData.php(165): CC\action\module\basic\tree\DeptTreeJsData->getList()
+
+Time:  0.0003
+
+ConnectTime:  0.0000
+
+CurTime:  1533710489.7446
+
+Memory:  3110.84375k
+
+last_memory:3271.953125k
+
+REQUEST_URI=  /pms_test/admin/test/test/index?_is_for_nav=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 14:56:40 [fatal] 
+Class 'module\test\test\DeptEnum' not foundD:\wamp64\www\pms_test\protected\module\test\test\TestTestIndexAdminAction.php(81)
+
+SQL:     select id,last_id from t_department as t   where 1     
+Params:  array (
+)
+Line:  
+D:\wamp64\www\cc2\db\base\core\CDbCommand.php(166): CModel->queryAll()
+args:["1",[],"id,last_id","",0,0,false]
+D:\wamp64\www\cc2\db\base\select\ListModel.php(36): queryAll()
+args:[{},0,null,[{},"beforeModel"]]
+D:\wamp64\www\cc2\db\base\core\condition\SubCondition.php(56): CC\db\base\select\ListModel->execute()
+D:\wamp64\www\cc2\db\base\core\CDbConditionTrait.php(524): CC\db\base\core\condition\SubCondition->onBuild()
+args:[{},{}]
+
+Time:  0.0002
+
+ConnectTime:  0.0037
+
+CurTime:  1533711400.6581
+
+Memory:  2083.4921875k
+
+
+
+SQL:     select t.* from t_user as t   where 1 and (id like '%%' or name like '%%' or account like '%%')  and (  `is_delete`='0' )  and (  `dept_id` IN('375') )      order by t.dept_sort_id  limit 0, 11 
+Params:  array (
+  ':id' => '%%',
+  ':name' => '%%',
+  ':account' => '%%',
+  ':qp3' => 0,
+  ':qp4' => '375',
+)
+Line:  
+D:\wamp64\www\cc2\db\base\core\CDbCommand.php(166): CModel->queryAll()
+args:["1 and (id like :id or name like :name or account like :account)  and (  `is_delete`=:qp3 )  and (  `dept_id` IN(:qp4) ) ",{":id":"%%",":name":"%%",":account":"%%",":qp3":0,":qp4":"375"},"t.*","t.dept_sort_id",11,0,false]
+D:\wamp64\www\cc2\db\base\select\ListModel.php(36): queryAll()
+args:[{},0,null,[{},"beforeModel"]]
+D:\wamp64\www\cc2\action\ListAction.php(128): CC\db\base\select\ListModel->execute()
+D:\wamp64\www\cc2\action\base\CAction.php(129): module\test\test\TestTestIndexAdminAction->execute()
+args:[{}]
+
+Time:  0.0005
+
+ConnectTime:  0.0000
+
+CurTime:  1533711400.6688
+
+Memory:  2242.7421875k
+
+
+
+SQL:     select count(*) count_num from t_user as t   where 1 and (id like '%%' or name like '%%' or account like '%%')  and (  `is_delete`='0' )  and (  `dept_id` IN('375') )      limit 1 
+Params:  array (
+  ':id' => '%%',
+  ':name' => '%%',
+  ':account' => '%%',
+  ':qp3' => 0,
+  ':qp4' => '375',
+)
+Line:  
+D:\wamp64\www\cc2\db\base\core\CDbCommand.php(100): CModel->query()
+args:["1 and (id like :id or name like :name or account like :account)  and (  `is_delete`=:qp3 )  and (  `dept_id` IN(:qp4) ) ",{":id":"%%",":name":"%%",":account":"%%",":qp3":0,":qp4":"375"},"count(*) count_num",""]
+D:\wamp64\www\cc2\db\base\core\CDbCommand.php(138): query()
+args:[{},[{},"beforeModel"]]
+D:\wamp64\www\cc2\db\base\select\ListModel.php(26): count()
+args:[{},"*",[{},"beforeModel"]]
+D:\wamp64\www\cc2\action\ListAction.php(213): CC\db\base\select\ListModel->getPage()
+
+Time:  0.0002
+
+ConnectTime:  0.0000
+
+CurTime:  1533711400.6707
+
+Memory:  2259.140625k
+
+
+
+SQL:     select id,name,last_id from t_department as t   where 1     order by sort_id  
+Params:  array (
+)
+Line:  
+D:\wamp64\www\cc2\db\base\core\CDbCommand.php(166): CModel->queryAll()
+args:["1",[],"id,name,last_id","sort_id",0,0,false]
+D:\wamp64\www\cc2\db\base\select\ListModel.php(36): queryAll()
+args:[{},0,null,[{},"beforeModel"]]
+D:\wamp64\www\cc2\util\db\tree\TreeJsData.php(79): CC\db\base\select\ListModel->execute()
+D:\wamp64\www\cc2\util\db\tree\TreeJsData.php(165): CC\action\module\basic\tree\DeptTreeJsData->getList()
+
+Time:  0.0003
+
+ConnectTime:  0.0000
+
+CurTime:  1533711400.705
+
+Memory:  3106.90625k
+
+last_memory:3286.015625k
+
+REQUEST_URI=  /pms_test/admin/test/test/index?_is_for_nav=1&dept_id=375&dept_id_is_node=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+

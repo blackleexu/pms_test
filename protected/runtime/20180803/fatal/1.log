@@ -1,0 +1,135 @@
+2018-08-03 18:06:25 [fatal] 
+Call to a member function getData() on nullD:\wamp64\www\cc2\action\base\CAction.php(133)
+
+SQL:     delete from t_user where 1 and (  `id`='944' ) 
+Params:  array (
+  ':qp0' => 944,
+)
+Line:  
+D:\wamp64\www\cc2\db\base\core\CDbCommand.php(84): CModel->delete()
+args:["1 and (  `id`=:qp0 ) ",{":qp0":944}]
+D:\wamp64\www\cc2\db\base\delete\DeleteModel.php(19): delete()
+args:[{},[{},"beforeModel"]]
+D:\wamp64\www\pms\protected\module\test\test\TestTestIndexAdminAction.php(32): CC\db\base\delete\DeleteModel->execute()
+D:\wamp64\www\cc2\action\base\CAction.php(129): module\test\test\TestTestIndexAdminAction->execute()
+args:[{}]
+
+Time:  0.0294
+
+ConnectTime:  
+
+CurTime:  1533290785.7333
+
+Memory:  1722.1328125k
+
+last_memory:1755.015625k
+
+REQUEST_URI=  /pms/admin/test/test/index?_is_for_nav=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-03 18:07:31 [fatal] 
+Call to a member function getData() on nullD:\wamp64\www\cc2\action\base\CAction.php(133)
+
+SQL:     UPDATE t_user as t SET `name`='456' where 1 and (  `id`='1' ) 
+Params:  array (
+  ':qp0' => 1,
+  ':qp1' => 456,
+)
+Line:  
+D:\wamp64\www\cc2\db\base\core\CDbCommand.php(52): CModel->execSql()
+args:["UPDATE t_user as t SET `name`=:qp1 where 1 and (  `id`=:qp0 ) ",{":qp0":1,":qp1":456}]
+D:\wamp64\www\cc2\db\base\update\UpdateModel.php(37): update()
+args:[{"name":456},{},[{},"beforeModel"]]
+D:\wamp64\www\pms\protected\module\test\test\TestTestIndexAdminAction.php(30): CC\db\base\update\UpdateModel->execute()
+D:\wamp64\www\cc2\action\base\CAction.php(129): module\test\test\TestTestIndexAdminAction->execute()
+args:[{}]
+
+Time:  0.0004
+
+ConnectTime:  
+
+CurTime:  1533290851.4323
+
+Memory:  1728.5625k
+
+last_memory:1760.1484375k
+
+REQUEST_URI=  /pms/admin/test/test/index?_is_for_nav=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-03 18:07:32 [fatal] 
+Call to a member function getData() on nullD:\wamp64\www\cc2\action\base\CAction.php(133)
+
+SQL:     UPDATE t_user as t SET `name`='456' where 1 and (  `id`='1' ) 
+Params:  array (
+  ':qp0' => 1,
+  ':qp1' => 456,
+)
+Line:  
+D:\wamp64\www\cc2\db\base\core\CDbCommand.php(52): CModel->execSql()
+args:["UPDATE t_user as t SET `name`=:qp1 where 1 and (  `id`=:qp0 ) ",{":qp0":1,":qp1":456}]
+D:\wamp64\www\cc2\db\base\update\UpdateModel.php(37): update()
+args:[{"name":456},{},[{},"beforeModel"]]
+D:\wamp64\www\pms\protected\module\test\test\TestTestIndexAdminAction.php(30): CC\db\base\update\UpdateModel->execute()
+D:\wamp64\www\cc2\action\base\CAction.php(129): module\test\test\TestTestIndexAdminAction->execute()
+args:[{}]
+
+Time:  0.0003
+
+ConnectTime:  
+
+CurTime:  1533290852.5548
+
+Memory:  1728.5625k
+
+last_memory:1760.1484375k
+
+REQUEST_URI=  /pms/admin/test/test/index?_is_for_nav=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-03 18:07:32 [fatal] 
+Call to a member function getData() on nullD:\wamp64\www\cc2\action\base\CAction.php(133)
+
+SQL:     UPDATE t_user as t SET `name`='456' where 1 and (  `id`='1' ) 
+Params:  array (
+  ':qp0' => 1,
+  ':qp1' => 456,
+)
+Line:  
+D:\wamp64\www\cc2\db\base\core\CDbCommand.php(52): CModel->execSql()
+args:["UPDATE t_user as t SET `name`=:qp1 where 1 and (  `id`=:qp0 ) ",{":qp0":1,":qp1":456}]
+D:\wamp64\www\cc2\db\base\update\UpdateModel.php(37): update()
+args:[{"name":456},{},[{},"beforeModel"]]
+D:\wamp64\www\pms\protected\module\test\test\TestTestIndexAdminAction.php(30): CC\db\base\update\UpdateModel->execute()
+D:\wamp64\www\cc2\action\base\CAction.php(129): module\test\test\TestTestIndexAdminAction->execute()
+args:[{}]
+
+Time:  0.0003
+
+ConnectTime:  
+
+CurTime:  1533290852.7707
+
+Memory:  1728.5625k
+
+last_memory:1760.1484375k
+
+REQUEST_URI=  /pms/admin/test/test/index?_is_for_nav=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+

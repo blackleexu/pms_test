@@ -1,0 +1,198 @@
+2018-08-07 11:24:02 [fatal] 
+Class module\test\test\TestTestEditAdminAction contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (CC\action\SaveAction::getPostNames)D:\wamp64\www\pms_test\protected\module\test\test\TestTestEditAdminAction.php(87)last_memory:1415.1328125k
+
+REQUEST_URI=  /pms_test/admin/test/test/edit?id=5
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-07 12:15:14 [fatal] 
+Call to a member function onBuild() on stringD:\wamp64\www\cc2\db\base\core\CDbConditionTrait.php(524)
+
+SQL:     select t.* from t_user as t   where 1 and (  `id`='919' )      limit 1 
+Params:  array (
+  ':qp0' => '919',
+)
+Line:  
+D:\wamp64\www\cc2\db\base\core\CDbCommand.php(100): CModel->query()
+args:["1 and (  `id`=:qp0 ) ",{":qp0":"919"},"t.*",""]
+D:\wamp64\www\cc2\db\base\select\ItemModel.php(19): query()
+args:[{},[{},"beforeModel"]]
+D:\wamp64\www\cc2\db\base\select\ItemModel.php(27): CC\db\base\select\ItemModel->getData()
+D:\wamp64\www\cc2\action\SaveAction.php(200): CC\db\base\select\ItemModel->execute()
+
+Time:  0.0004
+
+ConnectTime:  0.0019
+
+CurTime:  1533615314.306
+
+Memory:  1852.7890625k
+
+last_memory:1938.3671875k
+
+REQUEST_URI=  /pms_test/admin/test/test/edit?id=919
+
+POST 数据：   array (
+  'account' => 'liuhan',
+  'pwd' => 'dsadas',
+  'name' => 'lixu',
+  'sex' => '1',
+  'dept_id' => '374',
+  'id_card' => 'dsada',
+)
+
+==========================================================================
+
+2018-08-07 12:15:26 [fatal] 
+Call to a member function onBuild() on stringD:\wamp64\www\cc2\db\base\core\CDbConditionTrait.php(524)
+
+SQL:     select t.* from t_user as t   where 1 and (  `id`='919' )      limit 1 
+Params:  array (
+  ':qp0' => '919',
+)
+Line:  
+D:\wamp64\www\cc2\db\base\core\CDbCommand.php(100): CModel->query()
+args:["1 and (  `id`=:qp0 ) ",{":qp0":"919"},"t.*",""]
+D:\wamp64\www\cc2\db\base\select\ItemModel.php(19): query()
+args:[{},[{},"beforeModel"]]
+D:\wamp64\www\cc2\db\base\select\ItemModel.php(27): CC\db\base\select\ItemModel->getData()
+D:\wamp64\www\cc2\action\SaveAction.php(200): CC\db\base\select\ItemModel->execute()
+
+Time:  0.0005
+
+ConnectTime:  0.0017
+
+CurTime:  1533615326.25
+
+Memory:  1852.7890625k
+
+last_memory:1938.3671875k
+
+REQUEST_URI=  /pms_test/admin/test/test/edit?id=919
+
+POST 数据：   array (
+  'account' => 'liuhan',
+  'pwd' => 'fdsfsdf',
+  'name' => 'lixu',
+  'sex' => '1',
+  'dept_id' => '370',
+  'id_card' => 'fdsfsd',
+)
+
+==========================================================================
+
+2018-08-07 12:28:13 [fatal] 
+Class 'DeleteAction' not foundD:\wamp64\www\pms_test\protected\module\test\test\TestTestDeleteAdminAction.php(15)last_memory:1200.8515625k
+
+REQUEST_URI=  /pms_test/admin/test/test/delete
+
+POST 数据：   array (
+  'id' => '954',
+)
+
+==========================================================================
+
+2018-08-07 12:30:02 [fatal] 
+Call to a member function getData() on stringD:\wamp64\www\cc2\action\base\CAction.php(133)
+
+SQL:     UPDATE t_user as t SET `is_delete`='1' where 1 and (  `id`='954' ) 
+Params:  array (
+  ':qp0' => '954',
+  ':qp1' => 1,
+)
+Line:  
+D:\wamp64\www\cc2\db\base\core\CDbCommand.php(52): CModel->execSql()
+args:["UPDATE t_user as t SET `is_delete`=:qp1 where 1 and (  `id`=:qp0 ) ",{":qp0":"954",":qp1":1}]
+D:\wamp64\www\cc2\db\base\update\UpdateModel.php(37): update()
+args:[{"is_delete":1},{},[{},"beforeModel"]]
+D:\wamp64\www\pms_test\protected\module\test\test\TestTestDeleteAdminAction.php(18): CC\db\base\update\UpdateModel->execute()
+D:\wamp64\www\cc2\action\base\CAction.php(129): module\test\test\TestTestDeleteAdminAction->execute()
+args:[{}]
+
+Time:  0.0386
+
+ConnectTime:  
+
+CurTime:  1533616202.4885
+
+Memory:  1702.2578125k
+
+last_memory:1733.8046875k
+
+REQUEST_URI=  /pms_test/admin/test/test/delete
+
+POST 数据：   array (
+  'id' => '954',
+)
+
+==========================================================================
+
+2018-08-07 12:30:36 [fatal] 
+Class 'module\test\test\DeleteCAction' not foundD:\wamp64\www\pms_test\protected\module\test\test\TestTestDeleteAdminAction.php(16)last_memory:1201.1796875k
+
+REQUEST_URI=  /pms_test/admin/test/test/delete
+
+POST 数据：   array (
+  'id' => '954',
+)
+
+==========================================================================
+
+2018-08-07 15:25:41 [fatal] 
+Class 'module\test\test\ItemModel' not foundD:\wamp64\www\pms_test\protected\module\test\test\TestTestDeleteAdminAction.php(28)last_memory:1436.203125k
+
+REQUEST_URI=  /pms_test/admin/test/test/delete
+
+POST 数据：   array (
+  'id' => '943',
+)
+
+==========================================================================
+
+2018-08-07 15:26:48 [fatal] 
+Class 'module\test\test\ItemModel' not foundD:\wamp64\www\pms_test\protected\module\test\test\TestTestDeleteAdminAction.php(28)last_memory:1437.09375k
+
+REQUEST_URI=  /pms_test/admin/test/test/delete
+
+POST 数据：   array (
+  'id' => '943',
+)
+
+==========================================================================
+
+2018-08-07 15:27:22 [fatal] 
+Class 'module\test\test\ItemModel' not foundD:\wamp64\www\pms_test\protected\module\test\test\TestTestDeleteAdminAction.php(28)last_memory:1437.09375k
+
+REQUEST_URI=  /pms_test/admin/test/test/delete
+
+POST 数据：   array (
+  'id' => '924',
+)
+
+==========================================================================
+
+2018-08-07 15:28:01 [fatal] 
+Class 'module\test\test\ItemModel' not foundD:\wamp64\www\pms_test\protected\module\test\test\TestTestDeleteAdminAction.php(28)last_memory:1437.09375k
+
+REQUEST_URI=  /pms_test/admin/test/test/delete
+
+POST 数据：   array (
+  'id' => '924',
+)
+
+==========================================================================
+
+2018-08-07 15:34:38 [fatal] 
+Class 'module\test\test\ItemModel' not foundD:\wamp64\www\pms_test\protected\module\test\test\TestTestDeleteAdminAction.php(33)last_memory:1437.625k
+
+REQUEST_URI=  /pms_test/admin/test/test/delete
+
+POST 数据：   array (
+  'id' => '923',
+)
+
+==========================================================================
+

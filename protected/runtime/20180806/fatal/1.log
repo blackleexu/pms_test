@@ -1,0 +1,411 @@
+2018-08-06 10:01:00 [fatal] 
+Class 'ListBodyPanel' not foundD:\wamp64\www\pms\protected\module\test\test\view\indexAdmin.php(19)
+
+SQL:     select t.* from t_test as t   where 1     limit 0, 11 
+Params:  array (
+)
+Line:  
+D:\wamp64\www\cc2\db\base\core\CDbCommand.php(166): CModel->queryAll()
+args:["1",[],"t.*","",11,0,false]
+D:\wamp64\www\cc2\db\base\select\ListModel.php(36): queryAll()
+args:[{},0,null,[{},"beforeModel"]]
+D:\wamp64\www\cc2\action\ListAction.php(128): CC\db\base\select\ListModel->execute()
+D:\wamp64\www\cc2\action\base\CAction.php(129): module\test\test\TestTestIndexAdminAction->execute()
+args:[{}]
+
+Time:  0.0002
+
+ConnectTime:  0.0017
+
+CurTime:  1533520860.5472
+
+Memory:  1874.78125k
+
+
+
+SQL:     select count(*) count_num from t_test as t   where 1     limit 1 
+Params:  array (
+)
+Line:  
+D:\wamp64\www\cc2\db\base\core\CDbCommand.php(100): CModel->query()
+args:["1",[],"count(*) count_num",""]
+D:\wamp64\www\cc2\db\base\core\CDbCommand.php(138): query()
+args:[{},[{},"beforeModel"]]
+D:\wamp64\www\cc2\db\base\select\ListModel.php(26): count()
+args:[{},"*",[{},"beforeModel"]]
+D:\wamp64\www\cc2\action\ListAction.php(213): CC\db\base\select\ListModel->getPage()
+
+Time:  0.0001
+
+ConnectTime:  0.0000
+
+CurTime:  1533520860.551
+
+Memory:  1924.65625k
+
+last_memory:2132.828125k
+
+REQUEST_URI=  /pms/admin/test/test/index?_is_for_nav=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-06 10:01:18 [fatal] 
+Class 'WidgetBuilder' not foundD:\wamp64\www\pms\protected\module\test\test\view\indexAdmin.php(49)
+
+SQL:     select t.* from t_test as t   where 1     limit 0, 11 
+Params:  array (
+)
+Line:  
+D:\wamp64\www\cc2\db\base\core\CDbCommand.php(166): CModel->queryAll()
+args:["1",[],"t.*","",11,0,false]
+D:\wamp64\www\cc2\db\base\select\ListModel.php(36): queryAll()
+args:[{},0,null,[{},"beforeModel"]]
+D:\wamp64\www\cc2\action\ListAction.php(128): CC\db\base\select\ListModel->execute()
+D:\wamp64\www\cc2\action\base\CAction.php(129): module\test\test\TestTestIndexAdminAction->execute()
+args:[{}]
+
+Time:  0.0004
+
+ConnectTime:  0.0018
+
+CurTime:  1533520878.4882
+
+Memory:  1875.1015625k
+
+
+
+SQL:     select count(*) count_num from t_test as t   where 1     limit 1 
+Params:  array (
+)
+Line:  
+D:\wamp64\www\cc2\db\base\core\CDbCommand.php(100): CModel->query()
+args:["1",[],"count(*) count_num",""]
+D:\wamp64\www\cc2\db\base\core\CDbCommand.php(138): query()
+args:[{},[{},"beforeModel"]]
+D:\wamp64\www\cc2\db\base\select\ListModel.php(26): count()
+args:[{},"*",[{},"beforeModel"]]
+D:\wamp64\www\cc2\action\ListAction.php(213): CC\db\base\select\ListModel->getPage()
+
+Time:  0.0002
+
+ConnectTime:  0.0000
+
+CurTime:  1533520878.4931
+
+Memory:  1924.96875k
+
+last_memory:2142.984375k
+
+REQUEST_URI=  /pms/admin/test/test/index?_is_for_nav=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-06 10:01:34 [fatal] 
+Class 'module\test\test\OperateButtonWidget' not foundD:\wamp64\www\pms\protected\module\test\test\TestTestIndexAdminAction.php(83)
+
+SQL:     select t.* from t_test as t   where 1     limit 0, 11 
+Params:  array (
+)
+Line:  
+D:\wamp64\www\cc2\db\base\core\CDbCommand.php(166): CModel->queryAll()
+args:["1",[],"t.*","",11,0,false]
+D:\wamp64\www\cc2\db\base\select\ListModel.php(36): queryAll()
+args:[{},0,null,[{},"beforeModel"]]
+D:\wamp64\www\cc2\action\ListAction.php(128): CC\db\base\select\ListModel->execute()
+D:\wamp64\www\cc2\action\base\CAction.php(129): module\test\test\TestTestIndexAdminAction->execute()
+args:[{}]
+
+Time:  0.0002
+
+ConnectTime:  0.0015
+
+CurTime:  1533520894.496
+
+Memory:  1875.1015625k
+
+
+
+SQL:     select count(*) count_num from t_test as t   where 1     limit 1 
+Params:  array (
+)
+Line:  
+D:\wamp64\www\cc2\db\base\core\CDbCommand.php(100): CModel->query()
+args:["1",[],"count(*) count_num",""]
+D:\wamp64\www\cc2\db\base\core\CDbCommand.php(138): query()
+args:[{},[{},"beforeModel"]]
+D:\wamp64\www\cc2\db\base\select\ListModel.php(26): count()
+args:[{},"*",[{},"beforeModel"]]
+D:\wamp64\www\cc2\action\ListAction.php(213): CC\db\base\select\ListModel->getPage()
+
+Time:  0.0001
+
+ConnectTime:  0.0000
+
+CurTime:  1533520894.4994
+
+Memory:  1924.96875k
+
+last_memory:2306.0390625k
+
+REQUEST_URI=  /pms/admin/test/test/index?_is_for_nav=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-06 10:09:08 [fatal] 
+Class 'ButtonWidget' not foundD:\wamp64\www\pms\protected\module\test\test\view\indexAdmin.php(28)
+
+SQL:     select t.* from t_test as t   where 1     limit 0, 11 
+Params:  array (
+)
+Line:  
+D:\wamp64\www\cc2\db\base\core\CDbCommand.php(166): CModel->queryAll()
+args:["1",[],"t.*","",11,0,false]
+D:\wamp64\www\cc2\db\base\select\ListModel.php(36): queryAll()
+args:[{},0,null,[{},"beforeModel"]]
+D:\wamp64\www\cc2\action\ListAction.php(128): CC\db\base\select\ListModel->execute()
+D:\wamp64\www\cc2\action\base\CAction.php(129): module\test\test\TestTestIndexAdminAction->execute()
+args:[{}]
+
+Time:  0.0002
+
+ConnectTime:  0.0015
+
+CurTime:  1533521347.9407
+
+Memory:  1880.9375k
+
+
+
+SQL:     select count(*) count_num from t_test as t   where 1     limit 1 
+Params:  array (
+)
+Line:  
+D:\wamp64\www\cc2\db\base\core\CDbCommand.php(100): CModel->query()
+args:["1",[],"count(*) count_num",""]
+D:\wamp64\www\cc2\db\base\core\CDbCommand.php(138): query()
+args:[{},[{},"beforeModel"]]
+D:\wamp64\www\cc2\db\base\select\ListModel.php(26): count()
+args:[{},"*",[{},"beforeModel"]]
+D:\wamp64\www\cc2\action\ListAction.php(213): CC\db\base\select\ListModel->getPage()
+
+Time:  0.0001
+
+ConnectTime:  0.0000
+
+CurTime:  1533521347.9434
+
+Memory:  1930.8046875k
+
+last_memory:2157.5703125k
+
+REQUEST_URI=  /pms/admin/test/test/index?_is_for_nav=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-06 10:11:57 [fatal] 
+Class 'module\test\test\UserSortNameEnum' not foundD:\wamp64\www\pms\protected\module\test\test\TestTestIndexAdminAction.php(72)
+
+SQL:     select t.* from t_test as t   where 1     limit 0, 11 
+Params:  array (
+)
+Line:  
+D:\wamp64\www\cc2\db\base\core\CDbCommand.php(166): CModel->queryAll()
+args:["1",[],"t.*","",11,0,false]
+D:\wamp64\www\cc2\db\base\select\ListModel.php(36): queryAll()
+args:[{},0,null,[{},"beforeModel"]]
+D:\wamp64\www\cc2\action\ListAction.php(128): CC\db\base\select\ListModel->execute()
+D:\wamp64\www\cc2\action\base\CAction.php(129): module\test\test\TestTestIndexAdminAction->execute()
+args:[{}]
+
+Time:  0.0002
+
+ConnectTime:  0.0016
+
+CurTime:  1533521517.5705
+
+Memory:  1880.390625k
+
+
+
+SQL:     select count(*) count_num from t_test as t   where 1     limit 1 
+Params:  array (
+)
+Line:  
+D:\wamp64\www\cc2\db\base\core\CDbCommand.php(100): CModel->query()
+args:["1",[],"count(*) count_num",""]
+D:\wamp64\www\cc2\db\base\core\CDbCommand.php(138): query()
+args:[{},[{},"beforeModel"]]
+D:\wamp64\www\cc2\db\base\select\ListModel.php(26): count()
+args:[{},"*",[{},"beforeModel"]]
+D:\wamp64\www\cc2\action\ListAction.php(213): CC\db\base\select\ListModel->getPage()
+
+Time:  0.0002
+
+ConnectTime:  0.0000
+
+CurTime:  1533521517.5733
+
+Memory:  1930.2578125k
+
+last_memory:2249.7109375k
+
+REQUEST_URI=  /pms/admin/test/test/index?_is_for_nav=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-06 11:56:23 [fatal] 
+Class 'DeleteCAction' not foundD:\wamp64\www\pms\protected\module\test\test\TestTestDeleteAdminAction.php(14)last_memory:1193.34375k
+
+REQUEST_URI=  /pms/admin/test/test/delete
+
+POST 数据：   array (
+  'id' => '5',
+)
+
+==========================================================================
+
+2018-08-06 12:05:25 [fatal] 
+Class 'DeleteAction' not foundD:\wamp64\www\pms\protected\module\test\test\TestTestDeleteAdminAction.php(15)last_memory:1193.328125k
+
+REQUEST_URI=  /pms/admin/test/test/delete
+
+POST 数据：   array (
+  'id' => '5',
+)
+
+==========================================================================
+
+2018-08-06 12:10:04 [fatal] 
+Class 'TreeWidget' not foundD:\wamp64\www\pms\protected\module\test\test\view\indexAdmin.php(96)
+
+SQL:     select t.* from t_user as t   where 1     limit 0, 11 
+Params:  array (
+)
+Line:  
+D:\wamp64\www\cc2\db\base\core\CDbCommand.php(166): CModel->queryAll()
+args:["1",[],"t.*","",11,0,false]
+D:\wamp64\www\cc2\db\base\select\ListModel.php(36): queryAll()
+args:[{},0,null,[{},"beforeModel"]]
+D:\wamp64\www\cc2\action\ListAction.php(128): CC\db\base\select\ListModel->execute()
+D:\wamp64\www\cc2\action\base\CAction.php(129): module\test\test\TestTestIndexAdminAction->execute()
+args:[{}]
+
+Time:  0.0005
+
+ConnectTime:  0.0119
+
+CurTime:  1533528603.9451
+
+Memory:  1889.296875k
+
+
+
+SQL:     select count(*) count_num from t_user as t   where 1     limit 1 
+Params:  array (
+)
+Line:  
+D:\wamp64\www\cc2\db\base\core\CDbCommand.php(100): CModel->query()
+args:["1",[],"count(*) count_num",""]
+D:\wamp64\www\cc2\db\base\core\CDbCommand.php(138): query()
+args:[{},[{},"beforeModel"]]
+D:\wamp64\www\cc2\db\base\select\ListModel.php(26): count()
+args:[{},"*",[{},"beforeModel"]]
+D:\wamp64\www\cc2\action\ListAction.php(213): CC\db\base\select\ListModel->getPage()
+
+Time:  0.0002
+
+ConnectTime:  0.0000
+
+CurTime:  1533528603.9593
+
+Memory:  2036.5859375k
+
+last_memory:2767.7734375k
+
+REQUEST_URI=  /pms/admin/test/test/index?_is_for_nav=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-06 12:20:24 [fatal] 
+Class 'CAtion' not foundD:\wamp64\www\pms\protected\module\test\test\TestTestDeleteAdminAction.php(14)last_memory:1190.8203125k
+
+REQUEST_URI=  /pms/admin/test/test/delete
+
+POST 数据：   array (
+  'id' => '5',
+)
+
+==========================================================================
+
+2018-08-06 16:15:37 [fatal] 
+Class 'module\basic\user\enum\UserTypeEnum' not foundD:\wamp64\www\pms_test\protected\module\test\test\TestTestIndexAdminAction.php(80)
+
+SQL:     select t.* from t_user as t   where 1     limit 0, 11 
+Params:  array (
+)
+Line:  
+D:\wamp64\www\cc2\db\base\core\CDbCommand.php(166): CModel->queryAll()
+args:["1",[],"t.*","",11,0,false]
+D:\wamp64\www\cc2\db\base\select\ListModel.php(36): queryAll()
+args:[{},0,null,[{},"beforeModel"]]
+D:\wamp64\www\cc2\action\ListAction.php(128): CC\db\base\select\ListModel->execute()
+D:\wamp64\www\cc2\action\base\CAction.php(129): module\test\test\TestTestIndexAdminAction->execute()
+args:[{}]
+
+Time:  0.0004
+
+ConnectTime:  0.0017
+
+CurTime:  1533543337.2474
+
+Memory:  1898.921875k
+
+
+
+SQL:     select count(*) count_num from t_user as t   where 1     limit 1 
+Params:  array (
+)
+Line:  
+D:\wamp64\www\cc2\db\base\core\CDbCommand.php(100): CModel->query()
+args:["1",[],"count(*) count_num",""]
+D:\wamp64\www\cc2\db\base\core\CDbCommand.php(138): query()
+args:[{},[{},"beforeModel"]]
+D:\wamp64\www\cc2\db\base\select\ListModel.php(26): count()
+args:[{},"*",[{},"beforeModel"]]
+D:\wamp64\www\cc2\action\ListAction.php(213): CC\db\base\select\ListModel->getPage()
+
+Time:  0.0001
+
+ConnectTime:  0.0000
+
+CurTime:  1533543337.251
+
+Memory:  2046.234375k
+
+last_memory:2428.6796875k
+
+REQUEST_URI=  /pms_test/admin/test/test/index
+
+POST 数据：   array (
+)
+
+==========================================================================
+

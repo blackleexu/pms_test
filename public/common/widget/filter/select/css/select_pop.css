@@ -1,0 +1,11 @@
+.widget-select-box{display: inline-block;position: relative;cursor:pointer;}
+.widget-select-button {width: auto;padding:2px 10px;text-align:center; color: #5d5d5d;border: #E5E6E7 solid 1px;
+    display: inline-block;background-color: #fff; line-height:26px;vertical-align: middle;box-sizing: border-box;}
+.widget-select-triangle{width: 19px;height: 19px;position: relative;top:5px;left: 5px;display: inline-block;background:  url("../images/select_triangle.png") no-repeat center;}
+
+.widget-select-list { display:block;z-index:15;position: absolute;max-height:300px; overflow: auto;background:#fff; border: 2px solid #E0E0E0;box-sizing: border-box;}
+.widget-select-list li{text-align: center;white-space: nowrap;}
+.widget-select-list li a{display:block;}
+.widget-select-list li:hover {background-color:#E0E0E0;}
+.widget-select-label{ color: #a9a9a9;}
+

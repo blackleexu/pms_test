@@ -1,0 +1,62 @@
+.online { position: relative; height: 150px; }
+
+.online_success { display: inline-block; vertical-align: top; width: 23%; text-align: center; margin-top: 50px; font-size: 14px; }
+
+.offduty_middle { width: 50%; display: inline-block; text-align: center; }
+
+.online_error { display: inline-block; vertical-align: top; width: 23%; text-align: center; margin-top: 50px; font-size: 14px; }
+
+.online_success span { color: #5FB14D; }
+
+.online_chart { position: relative; display: inline-block; width: 135px; height: 135px; }
+
+.online_bg { display: inline-block; vertical-align: top; top: -60px; left: -68px; }
+
+.online_bg { background: url(../images/radar1_bg.png) no-repeat; width: 270px; height: 270px; -webkit-transform: scale(0.5); position: absolute; }
+
+.offduty_bg div, .online_bg div { position: absolute; }
+
+.online_ring { background: url(../images/radar1_pointer.png) no-repeat; width: 270px; height: 270px; -webkit-animation: ring 3s linear infinite; animation-play-state: running; }
+
+.online_points div { background-color: #fff; width: 15px; height: 15px; border-radius: 100%; opacity: 0.8; }
+
+.online_points div.online_point_1 { -webkit-animation: point 6s linear 2s infinite; top: 50px; left: 100px; width: 10px; height: 10px }
+
+.online_point_2 { -webkit-animation: point 5s linear infinite; top: 100px; left: 200px; }
+
+.online_point_3 { -webkit-animation: point 4s linear 3s infinite; top: 190px; left: 60px; }
+
+.online_points div.online_point_4 { -webkit-animation: point 4s linear 3s infinite; top: 75px; left: 50px; width: 20px; height: 20px }
+
+.online_waves div { background-color: rgba(255, 255, 255, 0.5); border: 1px #fff solid; width: 102px; height: 102px; top: 83px; left: 82px; border-radius: 100%; }
+
+.online_wave_1 { -webkit-animation: wave 6s linear infinite; }
+
+.online_wave_2 { -webkit-animation: wave 6s linear 3s infinite; }
+
+.online_button { background: url(../images/radar1_btn.png) no-repeat; width: 270px; height: 270px; cursor: pointer; }
+
+.online_error span { color: #FD841B; }
+
+.ouline_big { font-size: 20px; }
+
+@-webkit-keyframes ring {
+    0% { -webkit-transform: rotate(0deg); }
+    50% { -webkit-transform: rotate(180deg); }
+    100% { -webkit-transform: rotate(360deg); }
+}
+
+@-webkit-keyframes point {
+    0% { -webkit-transform: scale(1); opacity: 0.4 }
+    30% { -webkit-transform: scale(1.2); opacity: 0.8 }
+    60% { -webkit-transform: scale(1.8); opacity: 0.6 }
+    80% { -webkit-transform: scale(3); opacity: 0 }
+    100% { -webkit-transform: scale(1); opacity: 0 }
+}
+
+@-webkit-keyframes wave {
+    0% { -webkit-transform: scale(1); opacity: 0.5 }
+    50% { -webkit-transform: scale(1.65); opacity: 0.5 }
+    75% { -webkit-transform: scale(2); opacity: 0.3 }
+    100% { -webkit-transform: scale(2.3); opacity: 0 }
+}

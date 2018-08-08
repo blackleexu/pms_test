@@ -1,0 +1,30 @@
+.manage_child { border: solid rgb(197, 208, 220) 1px; margin-bottom: 5px; overflow: hidden; padding: 10px; }
+.manage_child .manage_choose { float: left; margin-left: 20px;; }
+.manage_child .row_check { padding: 5px 0; }
+.configuration_child { border: solid rgb(197, 208, 220) 1px; padding: 15px; }
+.configuration_child .man_label_s { float: left; width: 70px; }
+.manage_child_s label { display: inline-block; margin-right: 10px; }
+.configuration_child .manage_child_s { float: left; margin-left: 10px;; }
+.configuration_choose { overflow: hidden; margin-bottom: 10px; }
+.manage_child2 { border: solid rgb(197, 208, 220) 1px; height: 80px; width: 460px; padding: 10px; float: left; margin-left: 10px; }
+.man_label { font-weight: bold; margin: 0; }
+.title_label { margin-right: 15px; }
+.row_check2 { margin-left: 88px; }
+.row_check input[type=radio] { margin-left: 10px; }
+.tab-content { font-size: 14px; width: 780px; }
+.mar-left { margin-left: 95px; margin-bottom: 5px; }
+#myTab li { width: 140px; text-align: center; }
+#myTab li a { font-size: 14px; }
+.nodisplay { display: none; }
+.tab-content input:hover, .tab-content label:hover { cursor: pointer; }
+.order_child { margin-bottom: 10px; }
+.order_child .title_label { position: absolute; }
+.order_child .title_order { margin-left: 90px; }
+#error_box { margin-bottom: 5px; }
+#search_submit, #error_box { margin-left: 100px; }
+
+.choose_user_box { margin-left: 100px; margin-bottom: 15px; max-width: 780px; }
+.user_list { margin-top: 5px; position: relative; }
+.user_list span { margin-right: 10px; display: inline-block; }
+.user_list span a { font-size: 24px; position: relative; top: 4px; text-decoration: none; color: red; font-weight: bold; }
+.user_list span a:hover { cursor: pointer; }

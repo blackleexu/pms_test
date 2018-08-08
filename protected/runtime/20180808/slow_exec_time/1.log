@@ -1,0 +1,75 @@
+2018-08-08 09:20:16 [slow_exec_time] 
+
+total_exec_time:3.0613341331482
+
+
+
+REQUEST_URI=  /pms_test/admin/test/test/index
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 09:20:27 [slow_exec_time] 
+
+
+SQL:     select t.* from t_admin_user as t   where 1 and (  `account`='admin' and `com_id`='0' )      limit 1 
+Params:  array (
+  ':qp0' => 'admin',
+  ':qp1' => 0,
+)
+Line:  
+D:\wamp64\www\cc2\db\base\core\CDbCommand.php(100): CModel->query()
+args:["1 and (  `account`=:qp0 and `com_id`=:qp1 ) ",{":qp0":"admin",":qp1":0},"t.*",""]
+D:\wamp64\www\cc2\db\base\select\ItemModel.php(19): query()
+args:[{},[{},"beforeModel"]]
+D:\wamp64\www\cc2\db\base\select\ItemModel.php(27): CC\db\base\select\ItemModel->getData()
+D:\wamp64\www\pms_test\protected\module\core\login\CoreLoginIndexAdminAction.php(167): CC\db\base\select\ItemModel->execute()
+
+Time:  0.4113
+
+ConnectTime:  1.5669
+
+CurTime:  1533691223.2575
+
+Memory:  1851.9609375k
+
+
+
+SQL:     UPDATE t_admin_user as t SET `last_login_time`='1533691226' where 1 and (  `id`='1' ) 
+Params:  array (
+  ':qp0' => '1',
+  ':qp1' => 1533691226,
+)
+Line:  
+D:\wamp64\www\cc2\db\base\core\CDbCommand.php(52): CModel->execSql()
+args:["UPDATE t_admin_user as t SET `last_login_time`=:qp1 where 1 and (  `id`=:qp0 ) ",{":qp0":"1",":qp1":1533691226}]
+D:\wamp64\www\cc2\db\base\update\UpdateModel.php(37): update()
+args:[{"last_login_time":1533691226},{},[{},"beforeModel"]]
+D:\wamp64\www\pms_test\protected\module\core\login\CoreLoginIndexAdminAction.php(119): CC\db\base\update\UpdateModel->execute()
+D:\wamp64\www\pms_test\protected\module\core\login\CoreLoginIndexAdminAction.php(105): module\core\login\CoreLoginIndexAdminAction->updateLastLoginTime()
+args:[{"id":"1","com_id":"0","account":"admin","pwd":"3e1520eaacdb10567952b9aec864abcd","name":"\u7ba1\u7406\u5458","status":"1","last_login_time":"1533201797","browser":null,"last_do_time":"0","earning_report":"0","task_max_id":"0","user_data":null,"lastupdate":"2018-08-02 17:23:40","firstupdate":"2018-01-10 20:02:23","user_classify":1}]
+
+Time:  0.9365
+
+ConnectTime:  
+
+CurTime:  1533691226.6393
+
+Memory:  1951.7734375k
+
+
+total_exec_time:4.8194310665131
+
+
+
+REQUEST_URI=  /pms_test/admin/core/login/index
+
+POST 数据：   array (
+  'account' => 'admin',
+  'pass' => 'admin123',
+)
+
+==========================================================================
+

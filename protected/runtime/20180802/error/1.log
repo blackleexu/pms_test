@@ -1,0 +1,68 @@
+2018-08-02 17:21:16 [error] 
+[exception.CDBException]  exception 'CDBException' with message 'invalid data source name' in D:\wamp64\www\cc2\db\CDBConnect.php:34
+
+
+Stack trace:
+#0 D:\wamp64\www\cc2\db\CModel.php(87): CDBConnect->getPdo()
+#1 D:\wamp64\www\cc2\db\CModel.php(337): CModel->getConnect()
+#2 D:\wamp64\www\cc2\db\CModel.php(262): CModel->_queryIn('ONE', Array)
+#3 D:\wamp64\www\cc2\db\CModel.php(556): CModel->querySql('select t.* from...', Array)
+#4 D:\wamp64\www\cc2\db\CModel.php(208): CModel->_queryOn('1 and (  `accou...', Array, 't.*', true, '')
+#5 D:\wamp64\www\cc2\db\base\core\CDbCommand.php(100): CModel->query('1 and (  `accou...', Array, 't.*', '')
+#6 D:\wamp64\www\cc2\db\base\select\ItemModel.php(19): CC\db\base\core\CDbCommand::query(Object(CC\db\base\select\ItemModel), Array)
+#7 D:\wamp64\www\cc2\db\base\select\ItemModel.php(27): CC\db\base\select\ItemModel->getData()
+#8 D:\wamp64\www\pms\protected\module\core\login\CoreLoginIndexAdminAction.php(167): CC\db\base\select\ItemModel->execute()
+#9 D:\wamp64\www\pms\protected\module\core\login\CoreLoginIndexAdminAction.php(96): module\core\login\CoreLoginIndexAdminAction->getUser()
+#10 D:\wamp64\www\pms\protected\module\core\login\CoreLoginIndexAdminAction.php(147): module\core\login\CoreLoginIndexAdminAction->login()
+#11 D:\wamp64\www\cc2\action\base\CAction.php(129): module\core\login\CoreLoginIndexAdminAction->execute(Object(CRequest))
+#12 [internal function]: CAction->executeInner(Object(CRequest))
+#13 D:\wamp64\www\cc2\route\process\CActionProcess.php(74): call_user_func_array(Array, Array)
+#14 D:\wamp64\www\cc2\route\process\CRequestProcess.php(100): CC\route\process\CActionProcess->onProcess(Object(module\core\login\CoreLoginIndexAdminAction))
+#15 D:\wamp64\www\cc2\base\CApp.php(285): CC\route\process\CRequestProcess->process()
+#16 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#17 D:\wamp64\www\pms\index.php(29): CApp->run()
+#18 {main}
+
+REQUEST_URI=  /pms/admin/core/login/index
+
+POST 数据：   array (
+  'account' => 'admin',
+  'pass' => 'admin123',
+)
+
+==========================================================================
+
+2018-08-02 17:21:20 [error] 
+[exception.CDBException]  exception 'CDBException' with message 'invalid data source name' in D:\wamp64\www\cc2\db\CDBConnect.php:34
+
+
+Stack trace:
+#0 D:\wamp64\www\cc2\db\CModel.php(87): CDBConnect->getPdo()
+#1 D:\wamp64\www\cc2\db\CModel.php(337): CModel->getConnect()
+#2 D:\wamp64\www\cc2\db\CModel.php(262): CModel->_queryIn('ONE', Array)
+#3 D:\wamp64\www\cc2\db\CModel.php(556): CModel->querySql('select t.* from...', Array)
+#4 D:\wamp64\www\cc2\db\CModel.php(208): CModel->_queryOn('1 and (  `accou...', Array, 't.*', true, '')
+#5 D:\wamp64\www\cc2\db\base\core\CDbCommand.php(100): CModel->query('1 and (  `accou...', Array, 't.*', '')
+#6 D:\wamp64\www\cc2\db\base\select\ItemModel.php(19): CC\db\base\core\CDbCommand::query(Object(CC\db\base\select\ItemModel), Array)
+#7 D:\wamp64\www\cc2\db\base\select\ItemModel.php(27): CC\db\base\select\ItemModel->getData()
+#8 D:\wamp64\www\pms\protected\module\core\login\CoreLoginIndexAdminAction.php(167): CC\db\base\select\ItemModel->execute()
+#9 D:\wamp64\www\pms\protected\module\core\login\CoreLoginIndexAdminAction.php(96): module\core\login\CoreLoginIndexAdminAction->getUser()
+#10 D:\wamp64\www\pms\protected\module\core\login\CoreLoginIndexAdminAction.php(147): module\core\login\CoreLoginIndexAdminAction->login()
+#11 D:\wamp64\www\cc2\action\base\CAction.php(129): module\core\login\CoreLoginIndexAdminAction->execute(Object(CRequest))
+#12 [internal function]: CAction->executeInner(Object(CRequest))
+#13 D:\wamp64\www\cc2\route\process\CActionProcess.php(74): call_user_func_array(Array, Array)
+#14 D:\wamp64\www\cc2\route\process\CRequestProcess.php(100): CC\route\process\CActionProcess->onProcess(Object(module\core\login\CoreLoginIndexAdminAction))
+#15 D:\wamp64\www\cc2\base\CApp.php(285): CC\route\process\CRequestProcess->process()
+#16 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#17 D:\wamp64\www\pms\index.php(29): CApp->run()
+#18 {main}
+
+REQUEST_URI=  /pms/admin/core/login/index
+
+POST 数据：   array (
+  'account' => 'admin',
+  'pass' => 'admin123',
+)
+
+==========================================================================
+

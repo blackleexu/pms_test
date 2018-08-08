@@ -1,0 +1,4743 @@
+2018-08-08 09:20:43 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 09:21:44 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 09:21:46 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 09:21:50 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 09:21:52 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 09:22:23 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 09:22:24 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 09:28:39 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 09:28:40 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 09:29:05 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 09:29:06 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 09:29:38 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 09:29:40 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 09:32:14 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 09:32:16 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 09:32:18 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 09:34:28 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 09:34:28 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 09:34:29 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 09:34:31 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 09:34:33 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 09:34:36 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 09:36:40 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 09:36:42 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 09:36:43 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:admin,module:test,controller:test,action:test  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/admin/test/test/test
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 09:36:49 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:admin,module:test,controller:test,action:test  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/admin/test/test/test
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 09:36:51 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 09:36:52 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 09:36:53 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:admin,module:test,controller:test,action:test  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/admin/test/test/test
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 09:36:58 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:admin,module:test,controller:test,action:test  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/admin/test/test/test
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 09:37:00 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 09:37:01 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 09:37:02 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 10:22:18 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 10:22:26 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 10:25:30 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 10:28:14 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 10:28:32 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 10:28:34 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 10:28:36 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 10:28:39 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 10:30:53 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 10:31:31 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 10:31:37 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 10:31:57 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 10:32:01 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 10:32:45 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 10:32:47 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 10:33:19 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 10:36:40 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 10:38:07 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 10:39:55 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 10:40:48 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 10:40:50 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 10:41:47 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 10:41:48 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 10:48:18 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 10:48:20 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 10:49:43 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 10:49:46 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 11:10:41 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 11:10:45 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 11:10:56 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 11:11:09 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 11:11:10 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 11:11:14 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 11:11:20 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 11:15:00 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 11:15:02 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 11:16:39 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 11:16:40 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 11:24:51 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 11:24:55 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 11:24:57 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 11:25:02 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 11:25:03 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 11:25:43 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 11:25:46 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 11:26:16 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 11:26:17 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 11:27:44 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 11:27:47 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 11:28:55 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 11:36:03 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 11:36:04 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 11:44:48 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 11:44:58 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 11:45:08 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 11:45:48 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 11:48:59 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 11:55:02 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 11:55:06 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 12:17:52 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 12:22:45 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 12:22:53 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 12:23:08 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 12:23:14 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 12:26:49 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 12:27:05 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 12:27:22 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 12:27:33 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 12:27:36 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 12:27:41 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 12:27:44 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 12:27:46 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 12:28:12 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 12:28:20 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 12:31:01 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 12:31:16 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 12:31:22 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 12:31:26 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 12:31:30 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 12:31:31 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 12:31:32 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 12:31:36 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 12:31:39 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 12:31:45 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 12:32:54 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 12:32:59 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 12:33:04 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 12:33:26 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 12:33:28 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 14:31:31 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 14:31:46 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 14:32:00 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 14:32:02 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 14:32:04 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 14:41:29 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 14:41:37 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 14:41:44 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 14:41:46 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 14:41:50 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 14:41:55 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 14:41:58 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 14:42:00 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 14:42:02 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 14:42:03 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 14:42:05 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 14:42:10 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 14:42:15 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 14:42:19 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 14:45:18 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 14:45:43 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 14:45:46 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 14:45:50 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 14:45:57 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 14:46:01 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 14:46:05 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 14:46:08 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 14:46:10 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 14:46:11 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 14:46:16 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 14:46:19 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 14:46:20 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 14:46:25 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 14:46:28 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 14:46:34 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 14:46:46 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 14:46:49 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 14:46:55 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 14:47:01 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 14:50:55 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 14:55:16 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 14:55:21 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 14:55:28 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 14:56:40 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 14:56:47 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 14:56:49 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 14:56:51 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 14:56:53 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 14:56:56 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 14:59:09 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 14:59:11 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 14:59:15 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 14:59:18 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 14:59:19 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 14:59:20 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:00:26 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:00:27 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:00:35 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:00:57 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:01:13 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:01:36 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:02:20 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:05:28 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:05:29 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:08:03 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:21:34 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:21:36 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:21:38 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:22:51 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:22:52 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:22:57 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:23:08 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:23:09 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:23:11 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:23:17 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:23:27 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:32:06 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:34:04 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:34:41 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:34:46 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:34:48 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:34:49 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:34:51 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:35:56 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:35:58 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:36:00 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:36:01 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:36:01 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:36:02 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:36:04 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:36:05 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:38:00 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:38:01 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:38:03 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:38:05 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:38:06 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:38:07 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:38:10 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:38:11 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:38:12 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:38:30 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:38:34 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:38:37 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:38:40 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:39:40 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:39:43 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:39:50 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:39:58 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:40:03 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:40:08 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:40:11 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:40:12 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:40:13 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:41:27 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:41:29 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:41:36 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:41:46 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:41:49 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:41:53 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:47:03 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:47:06 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:47:09 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:47:16 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:47:20 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:49:52 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:49:56 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:49:59 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:50:01 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:50:04 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:50:09 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:50:13 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:50:14 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:50:15 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:50:18 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:50:19 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:50:20 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:50:21 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:50:26 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:50:26 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:50:27 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:50:29 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:50:33 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:50:35 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:50:37 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:50:38 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:50:40 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:50:54 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:51:00 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:51:03 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:51:05 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:51:06 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:51:06 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:51:08 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:51:10 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:51:11 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:51:13 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 15:51:13 [application] 
+[exception.CErrorException]  exception 'CErrorException' with message '未找到action， 
+
+group:public,module:biz,controller:admin,action:household  ' in D:\wamp64\www\cc2\route\process\CRequestProcess.php:72
+Stack trace:
+#0 D:\wamp64\www\cc2\base\CApp.php(282): CC\route\process\CRequestProcess::init()
+#1 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#2 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#3 {main}
+
+REQUEST_URI=  /pms_test/public/biz/admin/household/js/import.js
+
+POST 数据：   array (
+)
+
+==========================================================================
+

@@ -1,0 +1,9 @@
+.more-select-box{position:relative;display: inline-block;vertical-align:middle;margin-left:-4px;}
+
+.more-select-box-ipt{height:30px;line-height:30px;border-radius:2px;cursor:pointer;background:#818ca0;color:#fff;}
+.more-select-box-ipt p{padding:0 10px;}
+.more-select-box-ipt p i{margin-left: 3px;font-size:18px;}
+.more-select-box-list{position:absolute;display:none;min-width:110px;padding:5px;background:#fff;border:1px solid #dbdbdb;z-index:12;}
+.more-select-box-list li{height:40px;line-height:40px;white-space: nowrap;background-color: #FFF;color:#343434;cursor:pointer;}
+.more-select-box-list li a{display:block;padding-left:10px;}
+.more-select-box-list li a:hover{background:#dfe1e2;}

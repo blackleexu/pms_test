@@ -1,0 +1,487 @@
+2018-08-03 16:51:20 [session_error] 
+key:user_classify
+,trace:
+D:\wamp64\www\cc2\util\common\server\SessionAbs.php(98): get()
+args:["user_classify"]
+D:\wamp64\www\cc2\util\common\server\SessionAbs.php(127): getUserClassify()
+D:\wamp64\www\pms\protected\module\core\login\CoreLoginIndexAdminAction.php(140): isSuperAdmin()
+D:\wamp64\www\cc2\action\base\CAction.php(129): module\core\login\CoreLoginIndexAdminAction->execute()
+args:[{}]
+unknown(0): module\core\login\CoreLoginIndexAdminAction->executeInner()
+args:[{}]
+D:\wamp64\www\cc2\route\process\CActionProcess.php(74): call_user_func_array()
+args:[[{"company":null,"account":null,"pass":null,"remember":null},"executeInner"],{"request":{}}]
+
+
+REQUEST_URI=  /pms/admin/core/login/index
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-03 16:52:02 [session_error] 
+key:user_classify
+,trace:
+D:\wamp64\www\cc2\util\common\server\SessionAbs.php(98): get()
+args:["user_classify"]
+D:\wamp64\www\cc2\util\common\server\SessionAbs.php(127): getUserClassify()
+D:\wamp64\www\pms\protected\module\core\login\CoreLoginIndexAdminAction.php(140): isSuperAdmin()
+D:\wamp64\www\cc2\action\base\CAction.php(129): module\core\login\CoreLoginIndexAdminAction->execute()
+args:[{}]
+unknown(0): module\core\login\CoreLoginIndexAdminAction->executeInner()
+args:[{}]
+D:\wamp64\www\cc2\route\process\CActionProcess.php(74): call_user_func_array()
+args:[[{"company":null,"account":"admin","pass":"admin123","remember":null},"executeInner"],{"request":{}}]
+
+
+REQUEST_URI=  /pms/admin/core/login/index
+
+POST 数据：   array (
+  'account' => 'admin',
+  'pass' => 'admin123',
+)
+
+==========================================================================
+
+2018-08-03 16:52:10 [session_error] 
+key:auth_type_string
+,trace:
+D:\wamp64\www\cc2\util\common\server\SessionAbs.php(123): get()
+args:["auth_type_string"]
+D:\wamp64\www\pms\protected\module\basic\user\BasicUserIndexAdminAction.php(67): getAuthTypeString()
+D:\wamp64\www\cc2\action\ListAction.php(75): module\basic\user\BasicUserIndexAdminAction->getSearchCondition()
+D:\wamp64\www\cc2\action\ListAction.php(126): module\basic\user\BasicUserIndexAdminAction->getListModel()
+D:\wamp64\www\cc2\action\base\CAction.php(129): module\basic\user\BasicUserIndexAdminAction->execute()
+args:[{}]
+unknown(0): module\basic\user\BasicUserIndexAdminAction->executeInner()
+args:[{}]
+
+key:auth_type_string
+,trace:
+D:\wamp64\www\cc2\util\common\server\SessionAbs.php(123): get()
+args:["auth_type_string"]
+D:\wamp64\www\cc2\util\db\tree\TreeJsData.php(103): getAuthTypeString()
+D:\wamp64\www\cc2\action\module\basic\tree\DeptTreeJsData.php(42): CC\action\module\basic\tree\DeptTreeJsData->getAuthType()
+D:\wamp64\www\cc2\util\db\tree\TreeJsData.php(78): CC\action\module\basic\tree\DeptTreeJsData->getConditions()
+D:\wamp64\www\cc2\util\db\tree\TreeJsData.php(165): CC\action\module\basic\tree\DeptTreeJsData->getList()
+D:\wamp64\www\pms\protected\module\basic\user\view\indexAdmin.php(49): CC\action\module\basic\tree\DeptTreeJsData->getTreeList()
+
+
+REQUEST_URI=  /pms/admin/basic/user/index?_is_for_nav=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-03 16:52:18 [session_error] 
+key:auth_type_string
+,trace:
+D:\wamp64\www\cc2\util\common\server\SessionAbs.php(123): get()
+args:["auth_type_string"]
+D:\wamp64\www\pms\protected\module\basic\user\BasicUserIndexAdminAction.php(67): getAuthTypeString()
+D:\wamp64\www\cc2\action\ListAction.php(75): module\basic\user\BasicUserIndexAdminAction->getSearchCondition()
+D:\wamp64\www\cc2\action\ListAction.php(126): module\basic\user\BasicUserIndexAdminAction->getListModel()
+D:\wamp64\www\cc2\action\base\CAction.php(129): module\basic\user\BasicUserIndexAdminAction->execute()
+args:[{}]
+unknown(0): module\basic\user\BasicUserIndexAdminAction->executeInner()
+args:[{}]
+
+key:auth_type_string
+,trace:
+D:\wamp64\www\cc2\util\common\server\SessionAbs.php(123): get()
+args:["auth_type_string"]
+D:\wamp64\www\cc2\util\db\tree\TreeJsData.php(103): getAuthTypeString()
+D:\wamp64\www\cc2\action\module\basic\tree\DeptTreeJsData.php(42): CC\action\module\basic\tree\DeptTreeJsData->getAuthType()
+D:\wamp64\www\cc2\util\db\tree\TreeJsData.php(78): CC\action\module\basic\tree\DeptTreeJsData->getConditions()
+D:\wamp64\www\cc2\util\db\tree\TreeJsData.php(165): CC\action\module\basic\tree\DeptTreeJsData->getList()
+D:\wamp64\www\pms\protected\module\basic\user\view\indexAdmin.php(49): CC\action\module\basic\tree\DeptTreeJsData->getTreeList()
+
+
+REQUEST_URI=  /pms/admin/basic/user/index?_is_for_nav=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-03 16:54:01 [session_error] 
+key:auth_type_string
+,trace:
+D:\wamp64\www\cc2\util\common\server\SessionAbs.php(123): get()
+args:["auth_type_string"]
+D:\wamp64\www\pms\protected\module\basic\user\BasicUserIndexAdminAction.php(67): getAuthTypeString()
+D:\wamp64\www\cc2\action\ListAction.php(75): module\basic\user\BasicUserIndexAdminAction->getSearchCondition()
+D:\wamp64\www\cc2\action\ListAction.php(126): module\basic\user\BasicUserIndexAdminAction->getListModel()
+D:\wamp64\www\cc2\action\base\CAction.php(129): module\basic\user\BasicUserIndexAdminAction->execute()
+args:[{}]
+unknown(0): module\basic\user\BasicUserIndexAdminAction->executeInner()
+args:[{}]
+
+key:auth_type_string
+,trace:
+D:\wamp64\www\cc2\util\common\server\SessionAbs.php(123): get()
+args:["auth_type_string"]
+D:\wamp64\www\cc2\util\db\tree\TreeJsData.php(103): getAuthTypeString()
+D:\wamp64\www\cc2\action\module\basic\tree\DeptTreeJsData.php(42): CC\action\module\basic\tree\DeptTreeJsData->getAuthType()
+D:\wamp64\www\cc2\util\db\tree\TreeJsData.php(78): CC\action\module\basic\tree\DeptTreeJsData->getConditions()
+D:\wamp64\www\cc2\util\db\tree\TreeJsData.php(165): CC\action\module\basic\tree\DeptTreeJsData->getList()
+D:\wamp64\www\pms\protected\module\basic\user\view\indexAdmin.php(49): CC\action\module\basic\tree\DeptTreeJsData->getTreeList()
+
+
+REQUEST_URI=  /pms/admin/basic/user/index?_is_for_nav=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-03 16:54:04 [session_error] 
+key:auth_type_string
+,trace:
+D:\wamp64\www\cc2\util\common\server\SessionAbs.php(123): get()
+args:["auth_type_string"]
+D:\wamp64\www\pms\protected\module\basic\user\BasicUserIndexAdminAction.php(67): getAuthTypeString()
+D:\wamp64\www\cc2\action\ListAction.php(75): module\basic\user\BasicUserIndexAdminAction->getSearchCondition()
+D:\wamp64\www\cc2\action\ListAction.php(126): module\basic\user\BasicUserIndexAdminAction->getListModel()
+D:\wamp64\www\cc2\action\base\CAction.php(129): module\basic\user\BasicUserIndexAdminAction->execute()
+args:[{}]
+unknown(0): module\basic\user\BasicUserIndexAdminAction->executeInner()
+args:[{}]
+
+key:auth_type_string
+,trace:
+D:\wamp64\www\cc2\util\common\server\SessionAbs.php(123): get()
+args:["auth_type_string"]
+D:\wamp64\www\cc2\util\db\tree\TreeJsData.php(103): getAuthTypeString()
+D:\wamp64\www\cc2\action\module\basic\tree\DeptTreeJsData.php(42): CC\action\module\basic\tree\DeptTreeJsData->getAuthType()
+D:\wamp64\www\cc2\util\db\tree\TreeJsData.php(78): CC\action\module\basic\tree\DeptTreeJsData->getConditions()
+D:\wamp64\www\cc2\util\db\tree\TreeJsData.php(165): CC\action\module\basic\tree\DeptTreeJsData->getList()
+D:\wamp64\www\pms\protected\module\basic\user\view\indexAdmin.php(49): CC\action\module\basic\tree\DeptTreeJsData->getTreeList()
+
+
+REQUEST_URI=  /pms/admin/basic/user/index?_is_for_nav=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-03 16:55:02 [session_error] 
+key:auth_type_string
+,trace:
+D:\wamp64\www\cc2\util\common\server\SessionAbs.php(123): get()
+args:["auth_type_string"]
+D:\wamp64\www\cc2\util\db\tree\TreeJsData.php(103): getAuthTypeString()
+D:\wamp64\www\cc2\action\module\basic\tree\DeptTreeJsData.php(42): CC\action\module\basic\tree\DeptTreeJsData->getAuthType()
+D:\wamp64\www\cc2\util\db\tree\TreeJsData.php(78): CC\action\module\basic\tree\DeptTreeJsData->getConditions()
+D:\wamp64\www\cc2\util\db\tree\TreeJsData.php(165): CC\action\module\basic\tree\DeptTreeJsData->getList()
+D:\wamp64\www\pms\protected\module\basic\user\BasicUserEditAdminAction.php(68): CC\action\module\basic\tree\DeptTreeJsData->getTreeList()
+
+
+REQUEST_URI=  /pms/admin/basic/user/edit?id=918
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-03 16:56:19 [session_error] 
+key:auth_type_string
+,trace:
+D:\wamp64\www\cc2\util\common\server\SessionAbs.php(123): get()
+args:["auth_type_string"]
+D:\wamp64\www\pms\protected\module\basic\user\BasicUserIndexAdminAction.php(67): getAuthTypeString()
+D:\wamp64\www\cc2\action\ListAction.php(75): module\basic\user\BasicUserIndexAdminAction->getSearchCondition()
+D:\wamp64\www\cc2\action\ListAction.php(126): module\basic\user\BasicUserIndexAdminAction->getListModel()
+D:\wamp64\www\cc2\action\base\CAction.php(129): module\basic\user\BasicUserIndexAdminAction->execute()
+args:[{}]
+unknown(0): module\basic\user\BasicUserIndexAdminAction->executeInner()
+args:[{}]
+
+key:auth_type_string
+,trace:
+D:\wamp64\www\cc2\util\common\server\SessionAbs.php(123): get()
+args:["auth_type_string"]
+D:\wamp64\www\cc2\util\db\tree\TreeJsData.php(103): getAuthTypeString()
+D:\wamp64\www\cc2\action\module\basic\tree\DeptTreeJsData.php(42): CC\action\module\basic\tree\DeptTreeJsData->getAuthType()
+D:\wamp64\www\cc2\util\db\tree\TreeJsData.php(78): CC\action\module\basic\tree\DeptTreeJsData->getConditions()
+D:\wamp64\www\cc2\util\db\tree\TreeJsData.php(165): CC\action\module\basic\tree\DeptTreeJsData->getList()
+D:\wamp64\www\pms\protected\module\basic\user\view\indexAdmin.php(49): CC\action\module\basic\tree\DeptTreeJsData->getTreeList()
+
+
+REQUEST_URI=  /pms/admin/basic/user/index
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-03 16:56:34 [session_error] 
+key:auth_type_string
+,trace:
+D:\wamp64\www\cc2\util\common\server\SessionAbs.php(123): get()
+args:["auth_type_string"]
+D:\wamp64\www\pms\protected\module\basic\user\BasicUserIndexAdminAction.php(67): getAuthTypeString()
+D:\wamp64\www\cc2\action\ListAction.php(75): module\basic\user\BasicUserIndexAdminAction->getSearchCondition()
+D:\wamp64\www\cc2\action\ListAction.php(126): module\basic\user\BasicUserIndexAdminAction->getListModel()
+D:\wamp64\www\cc2\action\base\CAction.php(129): module\basic\user\BasicUserIndexAdminAction->execute()
+args:[{}]
+unknown(0): module\basic\user\BasicUserIndexAdminAction->executeInner()
+args:[{}]
+
+key:auth_type_string
+,trace:
+D:\wamp64\www\cc2\util\common\server\SessionAbs.php(123): get()
+args:["auth_type_string"]
+D:\wamp64\www\cc2\util\db\tree\TreeJsData.php(103): getAuthTypeString()
+D:\wamp64\www\cc2\action\module\basic\tree\DeptTreeJsData.php(42): CC\action\module\basic\tree\DeptTreeJsData->getAuthType()
+D:\wamp64\www\cc2\util\db\tree\TreeJsData.php(78): CC\action\module\basic\tree\DeptTreeJsData->getConditions()
+D:\wamp64\www\cc2\util\db\tree\TreeJsData.php(165): CC\action\module\basic\tree\DeptTreeJsData->getList()
+D:\wamp64\www\pms\protected\module\basic\user\view\indexAdmin.php(49): CC\action\module\basic\tree\DeptTreeJsData->getTreeList()
+
+
+REQUEST_URI=  /pms/admin/basic/user/index
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-03 17:15:02 [session_error] 
+key:auth_type_string
+,trace:
+D:\wamp64\www\cc2\util\common\server\SessionAbs.php(123): get()
+args:["auth_type_string"]
+D:\wamp64\www\pms\protected\module\basic\user\BasicUserIndexAdminAction.php(67): getAuthTypeString()
+D:\wamp64\www\cc2\action\ListAction.php(75): module\basic\user\BasicUserIndexAdminAction->getSearchCondition()
+D:\wamp64\www\cc2\action\ListAction.php(126): module\basic\user\BasicUserIndexAdminAction->getListModel()
+D:\wamp64\www\cc2\action\base\CAction.php(129): module\basic\user\BasicUserIndexAdminAction->execute()
+args:[{}]
+unknown(0): module\basic\user\BasicUserIndexAdminAction->executeInner()
+args:[{}]
+
+key:auth_type_string
+,trace:
+D:\wamp64\www\cc2\util\common\server\SessionAbs.php(123): get()
+args:["auth_type_string"]
+D:\wamp64\www\cc2\util\db\tree\TreeJsData.php(103): getAuthTypeString()
+D:\wamp64\www\cc2\action\module\basic\tree\DeptTreeJsData.php(42): CC\action\module\basic\tree\DeptTreeJsData->getAuthType()
+D:\wamp64\www\cc2\util\db\tree\TreeJsData.php(78): CC\action\module\basic\tree\DeptTreeJsData->getConditions()
+D:\wamp64\www\cc2\util\db\tree\TreeJsData.php(165): CC\action\module\basic\tree\DeptTreeJsData->getList()
+D:\wamp64\www\pms\protected\module\basic\user\view\indexAdmin.php(49): CC\action\module\basic\tree\DeptTreeJsData->getTreeList()
+
+
+REQUEST_URI=  /pms/admin/basic/user/index
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-03 17:15:05 [session_error] 
+key:auth_type_string
+,trace:
+D:\wamp64\www\cc2\util\common\server\SessionAbs.php(123): get()
+args:["auth_type_string"]
+D:\wamp64\www\pms\protected\module\basic\user\BasicUserIndexAdminAction.php(67): getAuthTypeString()
+D:\wamp64\www\cc2\action\ListAction.php(75): module\basic\user\BasicUserIndexAdminAction->getSearchCondition()
+D:\wamp64\www\cc2\action\ListAction.php(126): module\basic\user\BasicUserIndexAdminAction->getListModel()
+D:\wamp64\www\cc2\action\base\CAction.php(129): module\basic\user\BasicUserIndexAdminAction->execute()
+args:[{}]
+unknown(0): module\basic\user\BasicUserIndexAdminAction->executeInner()
+args:[{}]
+
+key:auth_type_string
+,trace:
+D:\wamp64\www\cc2\util\common\server\SessionAbs.php(123): get()
+args:["auth_type_string"]
+D:\wamp64\www\cc2\util\db\tree\TreeJsData.php(103): getAuthTypeString()
+D:\wamp64\www\cc2\action\module\basic\tree\DeptTreeJsData.php(42): CC\action\module\basic\tree\DeptTreeJsData->getAuthType()
+D:\wamp64\www\cc2\util\db\tree\TreeJsData.php(78): CC\action\module\basic\tree\DeptTreeJsData->getConditions()
+D:\wamp64\www\cc2\util\db\tree\TreeJsData.php(165): CC\action\module\basic\tree\DeptTreeJsData->getList()
+D:\wamp64\www\pms\protected\module\basic\user\view\indexAdmin.php(49): CC\action\module\basic\tree\DeptTreeJsData->getTreeList()
+
+
+REQUEST_URI=  /pms/admin/basic/user/index
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-03 17:15:07 [session_error] 
+key:auth_type_string
+,trace:
+D:\wamp64\www\cc2\util\common\server\SessionAbs.php(123): get()
+args:["auth_type_string"]
+D:\wamp64\www\pms\protected\module\basic\user\BasicUserIndexAdminAction.php(67): getAuthTypeString()
+D:\wamp64\www\cc2\action\ListAction.php(75): module\basic\user\BasicUserIndexAdminAction->getSearchCondition()
+D:\wamp64\www\cc2\action\ListAction.php(126): module\basic\user\BasicUserIndexAdminAction->getListModel()
+D:\wamp64\www\cc2\action\base\CAction.php(129): module\basic\user\BasicUserIndexAdminAction->execute()
+args:[{}]
+unknown(0): module\basic\user\BasicUserIndexAdminAction->executeInner()
+args:[{}]
+
+key:auth_type_string
+,trace:
+D:\wamp64\www\cc2\util\common\server\SessionAbs.php(123): get()
+args:["auth_type_string"]
+D:\wamp64\www\cc2\util\db\tree\TreeJsData.php(103): getAuthTypeString()
+D:\wamp64\www\cc2\action\module\basic\tree\DeptTreeJsData.php(42): CC\action\module\basic\tree\DeptTreeJsData->getAuthType()
+D:\wamp64\www\cc2\util\db\tree\TreeJsData.php(78): CC\action\module\basic\tree\DeptTreeJsData->getConditions()
+D:\wamp64\www\cc2\util\db\tree\TreeJsData.php(165): CC\action\module\basic\tree\DeptTreeJsData->getList()
+D:\wamp64\www\pms\protected\module\basic\user\view\indexAdmin.php(49): CC\action\module\basic\tree\DeptTreeJsData->getTreeList()
+
+
+REQUEST_URI=  /pms/admin/basic/user/index?_is_for_nav=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-03 17:16:05 [session_error] 
+key:auth_type_string
+,trace:
+D:\wamp64\www\cc2\util\common\server\SessionAbs.php(123): get()
+args:["auth_type_string"]
+D:\wamp64\www\pms\protected\module\basic\user\BasicUserIndexAdminAction.php(67): getAuthTypeString()
+D:\wamp64\www\cc2\action\ListAction.php(75): module\basic\user\BasicUserIndexAdminAction->getSearchCondition()
+D:\wamp64\www\cc2\action\ListAction.php(126): module\basic\user\BasicUserIndexAdminAction->getListModel()
+D:\wamp64\www\cc2\action\base\CAction.php(129): module\basic\user\BasicUserIndexAdminAction->execute()
+args:[{}]
+unknown(0): module\basic\user\BasicUserIndexAdminAction->executeInner()
+args:[{}]
+
+key:auth_type_string
+,trace:
+D:\wamp64\www\cc2\util\common\server\SessionAbs.php(123): get()
+args:["auth_type_string"]
+D:\wamp64\www\cc2\util\db\tree\TreeJsData.php(103): getAuthTypeString()
+D:\wamp64\www\cc2\action\module\basic\tree\DeptTreeJsData.php(42): CC\action\module\basic\tree\DeptTreeJsData->getAuthType()
+D:\wamp64\www\cc2\util\db\tree\TreeJsData.php(78): CC\action\module\basic\tree\DeptTreeJsData->getConditions()
+D:\wamp64\www\cc2\util\db\tree\TreeJsData.php(165): CC\action\module\basic\tree\DeptTreeJsData->getList()
+D:\wamp64\www\pms\protected\module\basic\user\view\indexAdmin.php(49): CC\action\module\basic\tree\DeptTreeJsData->getTreeList()
+
+
+REQUEST_URI=  /pms/admin/basic/user/index?_is_for_nav=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-03 17:36:26 [session_error] 
+key:auth_type_string
+,trace:
+D:\wamp64\www\cc2\util\common\server\SessionAbs.php(123): get()
+args:["auth_type_string"]
+D:\wamp64\www\cc2\util\db\tree\TreeJsData.php(103): getAuthTypeString()
+D:\wamp64\www\cc2\action\module\basic\tree\UserDeptTreeJsData.php(115): CC\action\module\basic\tree\UserDeptTreeJsData->getAuthType()
+D:\wamp64\www\cc2\util\db\tree\TreeJsData.php(78): CC\action\module\basic\tree\UserDeptTreeJsData->getConditions()
+D:\wamp64\www\cc2\action\module\basic\tree\UserDeptTreeJsData.php(86): CC\action\module\basic\tree\UserDeptTreeJsData->getList()
+D:\wamp64\www\cc2\util\db\tree\TreeJsData.php(165): CC\action\module\basic\tree\UserDeptTreeJsData->getList()
+
+
+REQUEST_URI=  /pms/admin/project/manage/edit
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-03 17:47:52 [session_error] 
+key:auth_type_string
+,trace:
+D:\wamp64\www\cc2\util\common\server\SessionAbs.php(123): get()
+args:["auth_type_string"]
+D:\wamp64\www\pms\protected\module\basic\user\BasicUserIndexAdminAction.php(67): getAuthTypeString()
+D:\wamp64\www\cc2\action\ListAction.php(75): module\basic\user\BasicUserIndexAdminAction->getSearchCondition()
+D:\wamp64\www\cc2\action\ListAction.php(126): module\basic\user\BasicUserIndexAdminAction->getListModel()
+D:\wamp64\www\cc2\action\base\CAction.php(129): module\basic\user\BasicUserIndexAdminAction->execute()
+args:[{}]
+unknown(0): module\basic\user\BasicUserIndexAdminAction->executeInner()
+args:[{}]
+
+key:auth_type_string
+,trace:
+D:\wamp64\www\cc2\util\common\server\SessionAbs.php(123): get()
+args:["auth_type_string"]
+D:\wamp64\www\cc2\util\db\tree\TreeJsData.php(103): getAuthTypeString()
+D:\wamp64\www\cc2\action\module\basic\tree\DeptTreeJsData.php(42): CC\action\module\basic\tree\DeptTreeJsData->getAuthType()
+D:\wamp64\www\cc2\util\db\tree\TreeJsData.php(78): CC\action\module\basic\tree\DeptTreeJsData->getConditions()
+D:\wamp64\www\cc2\util\db\tree\TreeJsData.php(165): CC\action\module\basic\tree\DeptTreeJsData->getList()
+D:\wamp64\www\pms\protected\module\basic\user\view\indexAdmin.php(49): CC\action\module\basic\tree\DeptTreeJsData->getTreeList()
+
+
+REQUEST_URI=  /pms/admin/basic/user/index?_is_for_nav=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-03 18:00:48 [session_error] 
+key:auth_type_string
+,trace:
+D:\wamp64\www\cc2\util\common\server\SessionAbs.php(123): get()
+args:["auth_type_string"]
+D:\wamp64\www\pms\protected\module\basic\user\BasicUserIndexAdminAction.php(67): getAuthTypeString()
+D:\wamp64\www\cc2\action\ListAction.php(75): module\basic\user\BasicUserIndexAdminAction->getSearchCondition()
+D:\wamp64\www\cc2\action\ListAction.php(126): module\basic\user\BasicUserIndexAdminAction->getListModel()
+D:\wamp64\www\cc2\action\base\CAction.php(129): module\basic\user\BasicUserIndexAdminAction->execute()
+args:[{}]
+unknown(0): module\basic\user\BasicUserIndexAdminAction->executeInner()
+args:[{}]
+
+key:auth_type_string
+,trace:
+D:\wamp64\www\cc2\util\common\server\SessionAbs.php(123): get()
+args:["auth_type_string"]
+D:\wamp64\www\cc2\util\db\tree\TreeJsData.php(103): getAuthTypeString()
+D:\wamp64\www\cc2\action\module\basic\tree\DeptTreeJsData.php(42): CC\action\module\basic\tree\DeptTreeJsData->getAuthType()
+D:\wamp64\www\cc2\util\db\tree\TreeJsData.php(78): CC\action\module\basic\tree\DeptTreeJsData->getConditions()
+D:\wamp64\www\cc2\util\db\tree\TreeJsData.php(165): CC\action\module\basic\tree\DeptTreeJsData->getList()
+D:\wamp64\www\pms\protected\module\basic\user\view\indexAdmin.php(49): CC\action\module\basic\tree\DeptTreeJsData->getTreeList()
+
+
+REQUEST_URI=  /pms/admin/basic/user/index?_is_for_nav=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-03 18:10:28 [session_error] 
+key:auth_type_string
+,trace:
+D:\wamp64\www\cc2\util\common\server\SessionAbs.php(123): get()
+args:["auth_type_string"]
+D:\wamp64\www\pms\protected\module\basic\user\BasicUserIndexAdminAction.php(67): getAuthTypeString()
+D:\wamp64\www\cc2\action\ListAction.php(75): module\basic\user\BasicUserIndexAdminAction->getSearchCondition()
+D:\wamp64\www\cc2\action\ListAction.php(126): module\basic\user\BasicUserIndexAdminAction->getListModel()
+D:\wamp64\www\cc2\action\base\CAction.php(129): module\basic\user\BasicUserIndexAdminAction->execute()
+args:[{}]
+unknown(0): module\basic\user\BasicUserIndexAdminAction->executeInner()
+args:[{}]
+
+key:auth_type_string
+,trace:
+D:\wamp64\www\cc2\util\common\server\SessionAbs.php(123): get()
+args:["auth_type_string"]
+D:\wamp64\www\cc2\util\db\tree\TreeJsData.php(103): getAuthTypeString()
+D:\wamp64\www\cc2\action\module\basic\tree\DeptTreeJsData.php(42): CC\action\module\basic\tree\DeptTreeJsData->getAuthType()
+D:\wamp64\www\cc2\util\db\tree\TreeJsData.php(78): CC\action\module\basic\tree\DeptTreeJsData->getConditions()
+D:\wamp64\www\cc2\util\db\tree\TreeJsData.php(165): CC\action\module\basic\tree\DeptTreeJsData->getList()
+D:\wamp64\www\pms\protected\module\basic\user\view\indexAdmin.php(49): CC\action\module\basic\tree\DeptTreeJsData->getTreeList()
+
+
+REQUEST_URI=  /pms/admin/basic/user/index?_is_for_nav=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+

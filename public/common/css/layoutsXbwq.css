@@ -1,0 +1,39 @@
+
+/************ layout 布局 *****************/
+
+.sidebar{  position: fixed;width: 180px; height: 100%;border: 1px solid #ccc;background-color: #f9f9f9;top: 61px;z-index: 20}
+.main-content{ margin-left: 180px;   padding-top:61px; }
+
+
+
+/************  user 头部 *****************/
+
+.header{background: #50545d; color: #ffffff; line-height:60px;position: fixed;width: 100%;z-index: 100}
+.header .top_logo{font-size: 24px;margin-left: 15px; width:220px; height:60px;padding-left: 44px;background: url("../images/logo.png") no-repeat  left center}
+.header a{ color: #ffffff;}
+.header .fr_btn{ margin-right:10px;}
+.header .btn_exit{vertical-align: middle;}
+
+
+/************  user 主导航 *****************/
+
+ 
+.main_nav{ }
+.main_nav li img{margin:0 3px;}
+.main_nav ul li{position: relative;}
+.main_nav ul li .f_a{ font-size:14px; color: #505050; height: 30px; line-height: 30px; display: block; padding: 5px 15px 5px 20px; font-weight: bold;border-bottom:1px solid #dbdbdb}
+.main_nav ul li .f_a:hover{background: #eeeeee;}
+.main_nav ul .li_ac .child{display: block;}
+.main_nav ul .li_ac .f_a{ color: #e45e41;}
+.main_nav ul li .m_a{display:block; color: #505050; overflow: hidden;white-space: nowrap;text-overflow:ellipsis; padding: 10px 1px 10px 25px; /*border-left: 1px dashed #898989;*/position: relative;}
+.main_nav .span-waite-deal{display:inline-block;background: #fe9842;width: 20px;height: 18px;border-radius: 50%;color: white;text-align: center;font-size: 12px;padding:2px 3px;}
+.main_nav .dashed{position: absolute; left: -3px;top: -2px; color:#898989 }
+
+
+
+.main_nav ul li .m_a:hover,.main_nav ul li .m_a_ac{color: #e45e41; background: url("../images/layoutsXbwq/active.png") no-repeat right center;font-weight: bold}
+.main_nav .leftbar_lists{border-bottom: 1px solid #dbdbdb;padding-left: 40px}
+.main_nav .last_list .m_a{border-left: none}
+.main_nav .last_list .dashed{left: -3px}
+
+

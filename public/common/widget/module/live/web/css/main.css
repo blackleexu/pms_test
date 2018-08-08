@@ -1,0 +1,20 @@
+body { font-family: "Microsoft YaHei",Arial,Helvetica,sans-serif; -webkit-user-select: none; -webkit-text-size-adjust: none; -webkit-tap-highlight-color: rgba(0,0,0,0); -webkit-tap-highlight-color: transparent; -webkit-touch-callout: none; font-size: 12px; }
+*{margin: 0;padding: 0}
+
+img { border: 0; vertical-align: middle; }
+.image_card { margin-top: -10px; margin-left: 4px; width: 98%; height: 140px; background-size: 100% 100%; background-image: url(../images/live/bg.png); overflow: hidden; }
+.live { position: relative; padding: 10px; }
+.live_left { width: 52%; height: 140px; float: left; position: relative; }
+.live_right { text-align: left; width: 38%; display: inline-block; float: right; }
+
+.live_camera { position: absolute; display: inline-block; width: 37px; height: 65px; top: 35px; left: 35px; }
+.live_ing { position: absolute; display: none; width: 15px; height: 15px; top: 34px; left: 35px; z-index: 10; }
+.live_wave3 { position: absolute; display: none; width: 6px; height: 16px; top: 60px; left: 80px; }
+.live_wave2 { position: absolute; display: none; width: 9px; height: 27px; top: 54px; left: 92px; }
+.live_wave1 { position: absolute; display: none; width: 11px; height: 36px; top: 50px; left: 104px; }
+.live_phone { position: absolute; display: inline-block; width: 37px; height: 65px; top: 35px; left: 125px; }
+.live_video { position: absolute; display: none; width: 28px; height: 28px; top: 52px; left: 130px; }
+
+.live_right .live_num { color: white; line-height: 40px; vertical-align: middle; font-size: 14px; margin-top: 30px; }
+.live_right .live_desc { color: rgba(255, 255, 255, 0.7); font-size: 15px; }
+.live_right .live_num_big { font-size: 40px; }

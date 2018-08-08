@@ -1,0 +1,61 @@
+body{font-family: "\5FAE\8F6F\96C5\9ED1",sans-serif;}
+.login-layout{background: rgb(252,252,252)}
+.main-content{ height: 600px;background: url(../images/gen_bg_gray.png) bottom;}
+.main_c{width: 1000px;margin: auto;position: relative;}
+.main_c .logo{margin-top: 20px;margin-left: 10px;display: inline-block; width:148px; height:38px;background: url("../images/cms_logo.png") no-repeat center;}
+.main_c .form_w{background: url(../images/cms_hand.png) no-repeat 0 22px; height: 495px;margin-top: 45px;}
+.main_c .form_act{width: 324px;height: 375px;background: url(../images/cms_login_form.png)  no-repeat center;  float: right;margin-top: 15px;}
+.main_c .login_tit{height: 94px;text-align: center;line-height: 94px;font-family: "\5FAE\8F6F\96C5\9ED1",sans-serif;
+    font-size: 22px;color: rgb(222,78,39);}
+.copyright{color: rgb(125,125,125);text-align: center;padding-top: 10px;}
+.top_nav{height: 95px;background: url(../images/cms_nav.png) repeat-x;}
+.call{display: inline-block;position: absolute;right: 0px;top: 25px}
+.call .call_icon{ width:24px; height:28px;display: inline-block;background: url("../images/cms_call.png");vertical-align: middle;}
+.call .call_w{display: inline-block; width:140px;vertical-align: middle;}
+.call_us{color: #636363;display: inline-block;}
+.tell_num{position: relative;font-size: 20px;font-weight: bold;color: #575757;display: inline-block;}
+.block{
+    display: block;
+    width: 276px;
+    margin: 10px auto;
+    *margin: 4px auto;
+}
+.the-padding-left { background-color: #FFFFFF;
+        background-image: none;
+        border: 1px solid #e5e6e7;
+        color: inherit;
+        display: block;
+        padding: 6px 12px;
+        width: 250px;
+        font-size: 14px }
+
+
+    .btn-block { display: block; padding-left: 0; padding-right: 0; width: 100%; }
+
+    .btn:focus { outline: 0 none; text-decoration: none; }
+
+
+
+    .login_btn {
+        width: 276px;
+        display: block;
+        padding: 6px 0;
+        margin: 0 auto;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 1.42857143;
+        text-align: center;
+        white-space: nowrap;
+        vertical-align: middle;
+        -ms-touch-action: manipulation;
+        touch-action: manipulation;
+        cursor: pointer;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+        background-image: none;
+        border: 1px solid transparent;
+        background-color: #d15b47;
+        color: #FFFFFF;
+    }

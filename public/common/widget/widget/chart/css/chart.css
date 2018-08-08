@@ -1,0 +1,36 @@
+.page_stat_con{width: 100%;height: 100%;}
+.page_stat_con .page_stat_ctop{background: #e5e5e5; color: #333;font-size: 14px; height:5%; line-height:30px;  border-radius: 5px 5px 0 0;text-align: center; }
+.page_stat_con .page_stat_cmiddle{height: 90%;border-bottom:none;border-top: none;border-radius: 0 0 5px 5px;position: relative;box-sizing: border-box;}
+
+.page_stat_con .page_stat_cmiddlet{padding: 10px;height:100%;box-sizing: border-box;background: #ffffff;}
+.page_stat_con .page_stat_ctimes{background-color: #f0f0f0;}
+.page_stat_con .page_stat_ctimes_lists{text-align: center;border-bottom: 1px solid #dbdbdb}
+.page_stat_con .page_stat_ctimes_lists li{line-height: 45px;padding: 0 1%;cursor: pointer;color: #505050;display: inline-block;}
+.page_stat_con .page_stat_ctimes_lists li.active{font-weight:bold;color: #59a6e2;border-bottom: 2px solid #59a6e2;}
+.page_stat_con .page_times{text-align: center;line-height: 50px;background-color: #fff;}
+.page_stat_con .page_times input{width: 25%;border: 1px solid #dbdbdb;border-radius: 5px;padding-right: 20px;background:#fff url("../images/page-time.png") no-repeat right 7px center;margin-right: 5px;}
+.page_stat_con .page_search{padding: 5px 13px;background-color: #59a6e2;border-radius: 3px;color: white;cursor: pointer}
+.page_stat_con .select-year-btn{display: none}
+.page_stat_con .page_stat_tit{margin-top: 64px;font-size: 18px;color: #454545;text-align: center}
+.page_stat_con .page_stat_tit2{font-size: 20px;color: #1b1b1b;line-height: 50px;text-align: center}
+.page_stat_con .pics_contain{clear: both;}
+.page_stat_con .page_stat_btn{height: 5%; color: #9c9c9c;text-align: center;line-height: 31px;background: #ebebeb url("../images/fd.png") no-repeat left 63% center;cursor: pointer;bottom: 0;width: 100%}
+.page_stat_con .page_stat_dc{display: inline-block; float: right; padding: 3px 3px 3px 23px;background:url("../images/state_dc.png") no-repeat 5px 3px; color: #64B9E0;border: 1px solid;border-radius: 3px;cursor: pointer}
+
+.page_stat_con .page_stat_check{padding-left: 23px;line-height: 52px;color: #404040}
+.page_stat_con .page_stat_check select{width: 150px;margin-left: 5px}
+
+.pic1_text{display: none}
+
+.list-chart-panel{padding: 10px 0 40px;width: 1200px;height: 600px;}
+
+/*上报总量全屏*/
+.page_stat_full .select-year-btn{display: inline;margin-left:5px;}
+.page_stat_full{min-width: 800px;height: 620px;}
+.page_stat_full .page_stat_ctimes{background-color: #f0f0f0;}
+.page_stat_full .page_stat_btn,.page_stat_full2 .page_stat_btn{display: none}
+.page_stat_full .page_stat_ctimes_lists{width: 100%;margin: 0 auto; height: 51px;}
+.page_stat_full .page_stat_ctimes_lists li{line-height: 50px;display: inline-block;float: none;}
+.page_stat_full .page_times{width: 100%;display: block;background-color: #fff;}
+.page_stat_full .page_stat_tit2{display: block}
+.page_stat_full .page_stat_check{text-align: center;line-height: 51px}

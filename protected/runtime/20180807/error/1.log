@@ -1,0 +1,909 @@
+2018-08-07 10:13:57 [error] 
+[exception.CInteriorException]  array_flip(): Can only flip STRING and INTEGER values! (D:\wamp64\www\cc2\action\module\basic\dept\server\DeptServer.php:182)
+Stack trace:
+#0 D:\wamp64\www\cc2\action\module\basic\tree\UserDeptTreeJsData.php(88): getAllParentsDeptByDeptIds()
+#1 D:\wamp64\www\cc2\util\db\tree\TreeJsData.php(165): CC\action\module\basic\tree\UserDeptTreeJsData->getList()
+#2 D:\wamp64\www\pms_test\protected\module\project\manage\ProjectManageEditAdminAction.php(53): CC\action\module\basic\tree\UserDeptTreeJsData->getTreeList()
+#3 D:\wamp64\www\cc2\util\common\widget\form\creator\FormCreator.php(19): module\project\manage\ProjectManageEditAdminAction->createFormInputs()
+#4 D:\wamp64\www\cc2\util\common\widget\widget\FormWidget.php(53): create()
+#5 D:\wamp64\www\cc2\util\common\widget\widget\Widget.php(16): CC\util\common\widget\widget\FormWidget->onBuild()
+#6 D:\wamp64\www\cc2\util\common\widget\widget\WidgetBuilder.php(21): CC\util\common\widget\widget\FormWidget->build()
+#7 D:\wamp64\www\pms_test\protected\module\project\manage\view\editAdmin.php(10): build()
+#8 D:\wamp64\www\cc2\response\CRenderData.php(187): include()
+#9 D:\wamp64\www\cc2\response\CRenderData.php(201): module\project\manage\ProjectManageEditAdminAction->{closure}()
+#10 D:\wamp64\www\cc2\response\CRenderData.php(40): CRenderData->render()
+#11 D:\wamp64\www\cc2\response\CResponseData.php(16): CRenderData->onGetContent()
+#12 D:\wamp64\www\cc2\response\CResponse.php(99): CRenderData->getContent()
+#13 D:\wamp64\www\cc2\base\CApp.php(264): CResponse->send()
+#14 D:\wamp64\www\cc2\base\CApp.php(258): CApp->finish()
+#15 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+
+
+REQUEST_URI=  /pms_test/admin/project/manage/edit?id=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-07 12:07:26 [error] 
+[exception.CInteriorException]  Illegal string offset 'account' (D:\wamp64\www\cc2\util\common\widget\form\BaseInput.php:304)
+Stack trace:
+#0 D:\wamp64\www\cc2\util\common\widget\form\BaseInput.php(158): CC\util\common\widget\form\TextInput->onCreateInputInternal()
+#1 D:\wamp64\www\cc2\util\common\widget\form\BaseInput.php(101): CC\util\common\widget\form\TextInput->createHtml()
+#2 D:\wamp64\www\cc2\util\common\widget\widget\view\formWidget.php(17): CC\util\common\widget\form\TextInput->onCreateInput()
+#3 D:\wamp64\www\cc2\util\common\widget\ViewRenderTrait.php(43): include()
+#4 D:\wamp64\www\cc2\util\common\widget\widget\Widget.php(16): CC\util\common\widget\widget\FormWidget->render()
+#5 D:\wamp64\www\cc2\util\common\widget\widget\WidgetBuilder.php(21): CC\util\common\widget\widget\FormWidget->build()
+#6 D:\wamp64\www\pms_test\protected\module\test\test\view\editAdmin.php(54): build()
+#7 D:\wamp64\www\cc2\response\CRenderData.php(187): include()
+#8 D:\wamp64\www\cc2\response\CRenderData.php(201): module\test\test\TestTestEditAdminAction->{closure}()
+#9 D:\wamp64\www\cc2\response\CRenderData.php(40): CRenderData->render()
+#10 D:\wamp64\www\cc2\response\CResponseData.php(16): CRenderData->onGetContent()
+#11 D:\wamp64\www\cc2\response\CResponse.php(99): CRenderData->getContent()
+#12 D:\wamp64\www\cc2\base\CApp.php(264): CResponse->send()
+#13 D:\wamp64\www\cc2\base\CApp.php(258): CApp->finish()
+#14 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+
+
+REQUEST_URI=  /pms_test/admin/test/test/edit?id=919
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-07 12:09:03 [error] 
+[exception.CInteriorException]  array_merge(): Argument #2 is not an array (D:\wamp64\www\cc2\action\SaveAction.php:150)
+Stack trace:
+#0 D:\wamp64\www\cc2\action\SaveAction.php(227): module\test\test\TestTestEditAdminAction->saveData()
+#1 D:\wamp64\www\cc2\action\base\CAction.php(129): module\test\test\TestTestEditAdminAction->execute()
+#2 unknown(0): module\test\test\TestTestEditAdminAction->executeInner()
+#3 D:\wamp64\www\cc2\route\process\CActionProcess.php(74): call_user_func_array()
+#4 D:\wamp64\www\cc2\route\process\CRequestProcess.php(100): CC\route\process\CActionProcess->onProcess()
+#5 D:\wamp64\www\cc2\base\CApp.php(285): CC\route\process\CActionProcess->process()
+#6 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#7 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+
+
+REQUEST_URI=  /pms_test/admin/test/test/edit?id=919
+
+POST 数据：   array (
+  'account' => 'asdasda',
+  'pwd' => 'dsadasd',
+  'name' => 'sadasda',
+  'sex' => '1',
+  'dept_id' => '374',
+  'id_card' => 'dsa',
+)
+
+==========================================================================
+
+2018-08-07 12:09:30 [error] 
+[exception.CInteriorException]  array_merge(): Argument #2 is not an array (D:\wamp64\www\cc2\action\SaveAction.php:150)
+Stack trace:
+#0 D:\wamp64\www\cc2\action\SaveAction.php(227): module\test\test\TestTestEditAdminAction->saveData()
+#1 D:\wamp64\www\cc2\action\base\CAction.php(129): module\test\test\TestTestEditAdminAction->execute()
+#2 unknown(0): module\test\test\TestTestEditAdminAction->executeInner()
+#3 D:\wamp64\www\cc2\route\process\CActionProcess.php(74): call_user_func_array()
+#4 D:\wamp64\www\cc2\route\process\CRequestProcess.php(100): CC\route\process\CActionProcess->onProcess()
+#5 D:\wamp64\www\cc2\base\CApp.php(285): CC\route\process\CActionProcess->process()
+#6 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#7 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+
+
+REQUEST_URI=  /pms_test/admin/test/test/edit?id=919
+
+POST 数据：   array (
+  'account' => 'liuhan',
+  'pwd' => 'saddddd',
+  'name' => 'lixu',
+  'sex' => '1',
+  'dept_id' => '370',
+  'id_card' => 'dsada',
+)
+
+==========================================================================
+
+2018-08-07 12:12:50 [error] 
+[exception.CInteriorException]  array_merge(): Argument #2 is not an array (D:\wamp64\www\cc2\action\SaveAction.php:150)
+Stack trace:
+#0 D:\wamp64\www\cc2\action\SaveAction.php(227): module\test\test\TestTestEditAdminAction->saveData()
+#1 D:\wamp64\www\cc2\action\base\CAction.php(129): module\test\test\TestTestEditAdminAction->execute()
+#2 unknown(0): module\test\test\TestTestEditAdminAction->executeInner()
+#3 D:\wamp64\www\cc2\route\process\CActionProcess.php(74): call_user_func_array()
+#4 D:\wamp64\www\cc2\route\process\CRequestProcess.php(100): CC\route\process\CActionProcess->onProcess()
+#5 D:\wamp64\www\cc2\base\CApp.php(285): CC\route\process\CActionProcess->process()
+#6 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#7 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+
+
+REQUEST_URI=  /pms_test/admin/test/test/edit?id=919
+
+POST 数据：   array (
+  'account' => 'liuhan',
+  'pwd' => 'saddddd',
+  'name' => 'lixu',
+  'sex' => '1',
+  'dept_id' => '370',
+  'id_card' => 'dsada',
+)
+
+==========================================================================
+
+2018-08-07 12:13:00 [error] 
+[exception.CInteriorException]  array_merge(): Argument #2 is not an array (D:\wamp64\www\cc2\action\SaveAction.php:150)
+Stack trace:
+#0 D:\wamp64\www\cc2\action\SaveAction.php(227): module\test\test\TestTestEditAdminAction->saveData()
+#1 D:\wamp64\www\cc2\action\base\CAction.php(129): module\test\test\TestTestEditAdminAction->execute()
+#2 unknown(0): module\test\test\TestTestEditAdminAction->executeInner()
+#3 D:\wamp64\www\cc2\route\process\CActionProcess.php(74): call_user_func_array()
+#4 D:\wamp64\www\cc2\route\process\CRequestProcess.php(100): CC\route\process\CActionProcess->onProcess()
+#5 D:\wamp64\www\cc2\base\CApp.php(285): CC\route\process\CActionProcess->process()
+#6 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#7 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+
+
+REQUEST_URI=  /pms_test/admin/test/test/edit?id=919
+
+POST 数据：   array (
+  'account' => 'liuhan',
+  'pwd' => 'dsadas',
+  'name' => 'lixu',
+  'sex' => '1',
+  'dept_id' => '374',
+  'id_card' => 'dsada',
+)
+
+==========================================================================
+
+2018-08-07 12:13:06 [error] 
+[exception.CInteriorException]  array_merge(): Argument #2 is not an array (D:\wamp64\www\cc2\action\SaveAction.php:150)
+Stack trace:
+#0 D:\wamp64\www\cc2\action\SaveAction.php(227): module\test\test\TestTestEditAdminAction->saveData()
+#1 D:\wamp64\www\cc2\action\base\CAction.php(129): module\test\test\TestTestEditAdminAction->execute()
+#2 unknown(0): module\test\test\TestTestEditAdminAction->executeInner()
+#3 D:\wamp64\www\cc2\route\process\CActionProcess.php(74): call_user_func_array()
+#4 D:\wamp64\www\cc2\route\process\CRequestProcess.php(100): CC\route\process\CActionProcess->onProcess()
+#5 D:\wamp64\www\cc2\base\CApp.php(285): CC\route\process\CActionProcess->process()
+#6 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#7 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+
+
+REQUEST_URI=  /pms_test/admin/test/test/edit?id=919
+
+POST 数据：   array (
+  'account' => 'liuhan',
+  'pwd' => 'dsadas',
+  'name' => 'lixu',
+  'sex' => '1',
+  'dept_id' => '374',
+  'id_card' => 'dsada',
+)
+
+==========================================================================
+
+2018-08-07 12:20:03 [error] 
+[exception.CInteriorException]  The use statement with non-compound name 'CRequest' has no effect (D:\wamp64\www\pms_test\protected\module\test\test\TestTestDeleteAdminAction.php:9)
+Stack trace:
+#0 D:\wamp64\www\cc2\route\process\CRequestProcess.php(57): CC\route\process\CActionProcess->onInit()
+#1 D:\wamp64\www\cc2\base\CApp.php(282): init()
+#2 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#3 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+
+
+REQUEST_URI=  /pms_test/admin/test/test/delete
+
+POST 数据：   array (
+  'id' => '954',
+)
+
+==========================================================================
+
+2018-08-07 12:22:33 [error] 
+[exception.CInteriorException]  The use statement with non-compound name 'CRequest' has no effect (D:\wamp64\www\pms_test\protected\module\test\test\TestTestDeleteAdminAction.php:9)
+Stack trace:
+#0 D:\wamp64\www\cc2\route\process\CRequestProcess.php(57): CC\route\process\CActionProcess->onInit()
+#1 D:\wamp64\www\cc2\base\CApp.php(282): init()
+#2 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#3 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+
+
+REQUEST_URI=  /pms_test/admin/test/test/delete
+
+POST 数据：   array (
+  'id' => '954',
+)
+
+==========================================================================
+
+2018-08-07 12:23:00 [error] 
+[exception.CInteriorException]  The use statement with non-compound name 'CRequest' has no effect (D:\wamp64\www\pms_test\protected\module\test\test\TestTestDeleteAdminAction.php:9)
+Stack trace:
+#0 D:\wamp64\www\cc2\route\process\CRequestProcess.php(57): CC\route\process\CActionProcess->onInit()
+#1 D:\wamp64\www\cc2\base\CApp.php(282): init()
+#2 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#3 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+
+
+REQUEST_URI=  /pms_test/admin/test/test/delete
+
+POST 数据：   array (
+  'id' => '954',
+)
+
+==========================================================================
+
+2018-08-07 12:25:06 [error] 
+[exception.CInteriorException]  The use statement with non-compound name 'CRequest' has no effect (D:\wamp64\www\pms_test\protected\module\test\test\TestTestDeleteAdminAction.php:9)
+Stack trace:
+#0 D:\wamp64\www\cc2\route\process\CRequestProcess.php(57): CC\route\process\CActionProcess->onInit()
+#1 D:\wamp64\www\cc2\base\CApp.php(282): init()
+#2 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#3 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+
+
+REQUEST_URI=  /pms_test/admin/test/test/delete
+
+POST 数据：   array (
+  'id' => '954',
+)
+
+==========================================================================
+
+2018-08-07 12:25:15 [error] 
+[exception.CInteriorException]  The use statement with non-compound name 'CRequest' has no effect (D:\wamp64\www\pms_test\protected\module\test\test\TestTestDeleteAdminAction.php:9)
+Stack trace:
+#0 D:\wamp64\www\cc2\route\process\CRequestProcess.php(57): CC\route\process\CActionProcess->onInit()
+#1 D:\wamp64\www\cc2\base\CApp.php(282): init()
+#2 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#3 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+
+
+REQUEST_URI=  /pms_test/admin/test/test/delete
+
+POST 数据：   array (
+  'id' => '954',
+)
+
+==========================================================================
+
+2018-08-07 12:26:22 [error] 
+[exception.CInteriorException]  The use statement with non-compound name 'CRequest' has no effect (D:\wamp64\www\pms_test\protected\module\test\test\TestTestDeleteAdminAction.php:9)
+Stack trace:
+#0 D:\wamp64\www\cc2\route\process\CRequestProcess.php(57): CC\route\process\CActionProcess->onInit()
+#1 D:\wamp64\www\cc2\base\CApp.php(282): init()
+#2 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#3 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+
+
+REQUEST_URI=  /pms_test/admin/test/test/delete
+
+POST 数据：   array (
+  'id' => '954',
+)
+
+==========================================================================
+
+2018-08-07 12:27:34 [error] 
+[exception.CInteriorException]  The use statement with non-compound name 'CRequest' has no effect (D:\wamp64\www\pms_test\protected\module\test\test\TestTestDeleteAdminAction.php:9)
+Stack trace:
+#0 D:\wamp64\www\cc2\route\process\CRequestProcess.php(57): CC\route\process\CActionProcess->onInit()
+#1 D:\wamp64\www\cc2\base\CApp.php(282): init()
+#2 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#3 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+
+
+REQUEST_URI=  /pms_test/admin/test/test/delete
+
+POST 数据：   array (
+  'id' => '954',
+)
+
+==========================================================================
+
+2018-08-07 15:29:59 [error] 
+[exception.CException]  exception 'CException' with message '未找到 module\test\test\TestTestDeleteAdminAction->get() 方法' in D:\wamp64\www\cc2\base\CComponent.php:15
+Stack trace:
+#0 D:\wamp64\www\pms_test\protected\module\test\test\TestTestDeleteAdminAction.php(23): CComponent->__get('')
+#1 D:\wamp64\www\cc2\action\DeleteAction.php(72): module\test\test\TestTestDeleteAdminAction->onAfterDelete(false)
+#2 D:\wamp64\www\cc2\action\base\CAction.php(129): CC\action\DeleteAction->execute(Object(CRequest))
+#3 [internal function]: CAction->executeInner(Object(CRequest))
+#4 D:\wamp64\www\cc2\route\process\CActionProcess.php(74): call_user_func_array(Array, Array)
+#5 D:\wamp64\www\cc2\route\process\CRequestProcess.php(100): CC\route\process\CActionProcess->onProcess(Object(module\test\test\TestTestDeleteAdminAction))
+#6 D:\wamp64\www\cc2\base\CApp.php(285): CC\route\process\CRequestProcess->process()
+#7 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#8 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#9 {main}
+
+REQUEST_URI=  /pms_test/admin/test/test/delete
+
+POST 数据：   array (
+  'id' => '923',
+)
+
+==========================================================================
+
+2018-08-07 15:48:42 [error] 
+[exception.CException]  exception 'CException' with message '未找到 module\test\test\TestTestDeleteAdminAction->get() 方法' in D:\wamp64\www\cc2\base\CComponent.php:15
+Stack trace:
+#0 D:\wamp64\www\pms_test\protected\module\test\test\TestTestDeleteAdminAction.php(23): CComponent->__get('')
+#1 D:\wamp64\www\cc2\action\DeleteAction.php(72): module\test\test\TestTestDeleteAdminAction->onAfterDelete(false)
+#2 D:\wamp64\www\cc2\action\base\CAction.php(129): CC\action\DeleteAction->execute(Object(CRequest))
+#3 [internal function]: CAction->executeInner(Object(CRequest))
+#4 D:\wamp64\www\cc2\route\process\CActionProcess.php(74): call_user_func_array(Array, Array)
+#5 D:\wamp64\www\cc2\route\process\CRequestProcess.php(100): CC\route\process\CActionProcess->onProcess(Object(module\test\test\TestTestDeleteAdminAction))
+#6 D:\wamp64\www\cc2\base\CApp.php(285): CC\route\process\CRequestProcess->process()
+#7 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#8 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#9 {main}
+
+REQUEST_URI=  /pms_test/admin/test/test/delete
+
+POST 数据：   array (
+  'id' => '924',
+)
+
+==========================================================================
+
+2018-08-07 15:48:46 [error] 
+[exception.CException]  exception 'CException' with message '未找到 module\test\test\TestTestDeleteAdminAction->get() 方法' in D:\wamp64\www\cc2\base\CComponent.php:15
+Stack trace:
+#0 D:\wamp64\www\pms_test\protected\module\test\test\TestTestDeleteAdminAction.php(23): CComponent->__get('')
+#1 D:\wamp64\www\cc2\action\DeleteAction.php(72): module\test\test\TestTestDeleteAdminAction->onAfterDelete(false)
+#2 D:\wamp64\www\cc2\action\base\CAction.php(129): CC\action\DeleteAction->execute(Object(CRequest))
+#3 [internal function]: CAction->executeInner(Object(CRequest))
+#4 D:\wamp64\www\cc2\route\process\CActionProcess.php(74): call_user_func_array(Array, Array)
+#5 D:\wamp64\www\cc2\route\process\CRequestProcess.php(100): CC\route\process\CActionProcess->onProcess(Object(module\test\test\TestTestDeleteAdminAction))
+#6 D:\wamp64\www\cc2\base\CApp.php(285): CC\route\process\CRequestProcess->process()
+#7 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#8 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#9 {main}
+
+REQUEST_URI=  /pms_test/admin/test/test/delete
+
+POST 数据：   array (
+  'id' => '922',
+)
+
+==========================================================================
+
+2018-08-07 15:51:41 [error] 
+[exception.CDBException]  exception 'CDBException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_delete' in 'field list'' in D:\wamp64\www\cc2\db\CModel.php:830
+SQL:UPDATE t_test as t SET `is_delete`='1' where 1 and (  `id`='921' ) 
+Params:array (
+  ':qp0' => '921',
+  ':qp1' => 1,
+)
+
+Stack trace:
+#0 D:\wamp64\www\cc2\db\CModel.php(539): CModel->_execIn(Array, 'bool')
+#1 D:\wamp64\www\cc2\db\base\core\CDbCommand.php(52): CModel->execSql('UPDATE t_test a...', Array)
+#2 D:\wamp64\www\cc2\db\base\update\UpdateModel.php(37): CC\db\base\core\CDbCommand::update(Array, Object(CC\db\base\update\UpdateModel), Array)
+#3 D:\wamp64\www\pms_test\protected\module\test\test\TestTestDeleteAdminAction.php(19): CC\db\base\update\UpdateModel->execute()
+#4 D:\wamp64\www\cc2\action\DeleteAction.php(70): module\test\test\TestTestDeleteAdminAction->deleteData(Object(CRequest))
+#5 D:\wamp64\www\cc2\action\base\CAction.php(129): CC\action\DeleteAction->execute(Object(CRequest))
+#6 [internal function]: CAction->executeInner(Object(CRequest))
+#7 D:\wamp64\www\cc2\route\process\CActionProcess.php(74): call_user_func_array(Array, Array)
+#8 D:\wamp64\www\cc2\route\process\CRequestProcess.php(100): CC\route\process\CActionProcess->onProcess(Object(module\test\test\TestTestDeleteAdminAction))
+#9 D:\wamp64\www\cc2\base\CApp.php(285): CC\route\process\CRequestProcess->process()
+#10 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#11 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#12 {main}
+
+REQUEST_URI=  /pms_test/admin/test/test/delete
+
+POST 数据：   array (
+  'id' => '921',
+)
+
+==========================================================================
+
+2018-08-07 15:57:52 [error] 
+[exception.CDBException]  exception 'CDBException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column '0' in 'where clause'' in D:\wamp64\www\cc2\db\CModel.php:346
+SQL:select t.* from t_user as t   where 1 and (  `0`='is_delete' and `1`='0' )      limit 0, 11 
+Params:array (
+  ':qp0' => 'is_delete',
+  ':qp1' => 0,
+)
+
+Stack trace:
+#0 D:\wamp64\www\cc2\db\CModel.php(275): CModel->_queryIn('ALL', Array)
+#1 D:\wamp64\www\cc2\db\CModel.php(558): CModel->queryAllSql('select t.* from...', Array)
+#2 D:\wamp64\www\cc2\db\CModel.php(246): CModel->_queryOn('1 and (  `0`=:q...', Array, 't.*', false, '', 11, 0)
+#3 D:\wamp64\www\cc2\db\base\core\CDbCommand.php(166): CModel->queryAll('1 and (  `0`=:q...', Array, 't.*', '', 11, 0, false)
+#4 D:\wamp64\www\cc2\db\base\select\ListModel.php(36): CC\db\base\core\CDbCommand::queryAll(Object(CC\db\base\core\CDbCondition), 0, NULL, Array)
+#5 D:\wamp64\www\cc2\action\ListAction.php(128): CC\db\base\select\ListModel->execute()
+#6 D:\wamp64\www\cc2\action\base\CAction.php(129): CC\action\ListAction->execute(Object(CRequest))
+#7 [internal function]: CAction->executeInner(Object(CRequest))
+#8 D:\wamp64\www\cc2\route\process\CActionProcess.php(74): call_user_func_array(Array, Array)
+#9 D:\wamp64\www\cc2\route\process\CRequestProcess.php(100): CC\route\process\CActionProcess->onProcess(Object(module\test\test\TestTestIndexAdminAction))
+#10 D:\wamp64\www\cc2\base\CApp.php(285): CC\route\process\CRequestProcess->process()
+#11 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#12 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#13 {main}
+
+REQUEST_URI=  /pms_test/admin/test/test/index?_is_for_nav=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-07 16:49:04 [error] 
+[exception.CDBException]  exception 'CDBException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_delete' in 'field list'' in D:\wamp64\www\cc2\db\CModel.php:830
+SQL:UPDATE t_test as t SET `is_delete`='1' where 1 and (  `id`='941' ) 
+Params:array (
+  ':qp0' => '941',
+  ':qp1' => 1,
+)
+
+Stack trace:
+#0 D:\wamp64\www\cc2\db\CModel.php(539): CModel->_execIn(Array, 'bool')
+#1 D:\wamp64\www\cc2\db\base\core\CDbCommand.php(52): CModel->execSql('UPDATE t_test a...', Array)
+#2 D:\wamp64\www\cc2\db\base\update\UpdateModel.php(37): CC\db\base\core\CDbCommand::update(Array, Object(CC\db\base\update\UpdateModel), Array)
+#3 D:\wamp64\www\pms_test\protected\module\test\test\TestTestDeleteAdminAction.php(19): CC\db\base\update\UpdateModel->execute()
+#4 D:\wamp64\www\cc2\action\DeleteAction.php(70): module\test\test\TestTestDeleteAdminAction->deleteData(Object(CRequest))
+#5 D:\wamp64\www\cc2\action\base\CAction.php(129): CC\action\DeleteAction->execute(Object(CRequest))
+#6 [internal function]: CAction->executeInner(Object(CRequest))
+#7 D:\wamp64\www\cc2\route\process\CActionProcess.php(74): call_user_func_array(Array, Array)
+#8 D:\wamp64\www\cc2\route\process\CRequestProcess.php(100): CC\route\process\CActionProcess->onProcess(Object(module\test\test\TestTestDeleteAdminAction))
+#9 D:\wamp64\www\cc2\base\CApp.php(285): CC\route\process\CRequestProcess->process()
+#10 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#11 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#12 {main}
+
+REQUEST_URI=  /pms_test/admin/test/test/delete
+
+POST 数据：   array (
+  'id' => '941',
+)
+
+==========================================================================
+
+2018-08-07 16:52:36 [error] 
+[exception.CDBException]  exception 'CDBException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_delete' in 'field list'' in D:\wamp64\www\cc2\db\CModel.php:830
+SQL:UPDATE t_test as t SET `is_delete`='1' where 1 and (  `id`='921' ) 
+Params:array (
+  ':qp0' => '921',
+  ':qp1' => 1,
+)
+
+Stack trace:
+#0 D:\wamp64\www\cc2\db\CModel.php(539): CModel->_execIn(Array, 'bool')
+#1 D:\wamp64\www\cc2\db\base\core\CDbCommand.php(52): CModel->execSql('UPDATE t_test a...', Array)
+#2 D:\wamp64\www\cc2\db\base\update\UpdateModel.php(37): CC\db\base\core\CDbCommand::update(Array, Object(CC\db\base\update\UpdateModel), Array)
+#3 D:\wamp64\www\pms_test\protected\module\test\test\TestTestDeleteAdminAction.php(19): CC\db\base\update\UpdateModel->execute()
+#4 D:\wamp64\www\cc2\action\DeleteAction.php(70): module\test\test\TestTestDeleteAdminAction->deleteData(Object(CRequest))
+#5 D:\wamp64\www\cc2\action\base\CAction.php(129): CC\action\DeleteAction->execute(Object(CRequest))
+#6 [internal function]: CAction->executeInner(Object(CRequest))
+#7 D:\wamp64\www\cc2\route\process\CActionProcess.php(74): call_user_func_array(Array, Array)
+#8 D:\wamp64\www\cc2\route\process\CRequestProcess.php(100): CC\route\process\CActionProcess->onProcess(Object(module\test\test\TestTestDeleteAdminAction))
+#9 D:\wamp64\www\cc2\base\CApp.php(285): CC\route\process\CRequestProcess->process()
+#10 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#11 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#12 {main}
+
+REQUEST_URI=  /pms_test/admin/test/test/delete
+
+POST 数据：   array (
+  'id' => '921',
+)
+
+==========================================================================
+
+2018-08-07 16:53:39 [error] 
+[exception.CDBException]  exception 'CDBException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_delete' in 'field list'' in D:\wamp64\www\cc2\db\CModel.php:830
+SQL:UPDATE t_test as t SET `is_delete`='1' where 1 and (  `id`='919' ) 
+Params:array (
+  ':qp0' => '919',
+  ':qp1' => 1,
+)
+
+Stack trace:
+#0 D:\wamp64\www\cc2\db\CModel.php(539): CModel->_execIn(Array, 'bool')
+#1 D:\wamp64\www\cc2\db\base\core\CDbCommand.php(52): CModel->execSql('UPDATE t_test a...', Array)
+#2 D:\wamp64\www\cc2\db\base\update\UpdateModel.php(37): CC\db\base\core\CDbCommand::update(Array, Object(CC\db\base\update\UpdateModel), Array)
+#3 D:\wamp64\www\pms_test\protected\module\test\test\TestTestDeleteAdminAction.php(20): CC\db\base\update\UpdateModel->execute()
+#4 D:\wamp64\www\cc2\action\DeleteAction.php(70): module\test\test\TestTestDeleteAdminAction->deleteData(Object(CRequest))
+#5 D:\wamp64\www\cc2\action\base\CAction.php(129): CC\action\DeleteAction->execute(Object(CRequest))
+#6 [internal function]: CAction->executeInner(Object(CRequest))
+#7 D:\wamp64\www\cc2\route\process\CActionProcess.php(74): call_user_func_array(Array, Array)
+#8 D:\wamp64\www\cc2\route\process\CRequestProcess.php(100): CC\route\process\CActionProcess->onProcess(Object(module\test\test\TestTestDeleteAdminAction))
+#9 D:\wamp64\www\cc2\base\CApp.php(285): CC\route\process\CRequestProcess->process()
+#10 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#11 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#12 {main}
+
+REQUEST_URI=  /pms_test/admin/test/test/delete
+
+POST 数据：   array (
+  'id' => '919',
+)
+
+==========================================================================
+
+2018-08-07 16:56:51 [error] 
+[exception.CDBException]  exception 'CDBException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_delete' in 'field list'' in D:\wamp64\www\cc2\db\CModel.php:830
+SQL:UPDATE t_test as t SET `is_delete`='1' where 1 and (  `id`='941' ) 
+Params:array (
+  ':qp0' => '941',
+  ':qp1' => 1,
+)
+
+Stack trace:
+#0 D:\wamp64\www\cc2\db\CModel.php(539): CModel->_execIn(Array, 'bool')
+#1 D:\wamp64\www\cc2\db\base\core\CDbCommand.php(52): CModel->execSql('UPDATE t_test a...', Array)
+#2 D:\wamp64\www\cc2\db\base\update\UpdateModel.php(37): CC\db\base\core\CDbCommand::update(Array, Object(CC\db\base\update\UpdateModel), Array)
+#3 D:\wamp64\www\pms_test\protected\module\test\test\TestTestDeleteAdminAction.php(20): CC\db\base\update\UpdateModel->execute()
+#4 D:\wamp64\www\cc2\action\DeleteAction.php(70): module\test\test\TestTestDeleteAdminAction->deleteData(Object(CRequest))
+#5 D:\wamp64\www\cc2\action\base\CAction.php(129): CC\action\DeleteAction->execute(Object(CRequest))
+#6 [internal function]: CAction->executeInner(Object(CRequest))
+#7 D:\wamp64\www\cc2\route\process\CActionProcess.php(74): call_user_func_array(Array, Array)
+#8 D:\wamp64\www\cc2\route\process\CRequestProcess.php(100): CC\route\process\CActionProcess->onProcess(Object(module\test\test\TestTestDeleteAdminAction))
+#9 D:\wamp64\www\cc2\base\CApp.php(285): CC\route\process\CRequestProcess->process()
+#10 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#11 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#12 {main}
+
+REQUEST_URI=  /pms_test/admin/test/test/delete
+
+POST 数据：   array (
+  'id' => '941',
+)
+
+==========================================================================
+
+2018-08-07 16:58:24 [error] 
+[exception.CDBException]  exception 'CDBException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_delete' in 'field list'' in D:\wamp64\www\cc2\db\CModel.php:830
+SQL:UPDATE t_test as t SET `is_delete`='1' where 1 and (  `id`='941' ) 
+Params:array (
+  ':qp0' => '941',
+  ':qp1' => 1,
+)
+
+Stack trace:
+#0 D:\wamp64\www\cc2\db\CModel.php(539): CModel->_execIn(Array, 'bool')
+#1 D:\wamp64\www\cc2\db\base\core\CDbCommand.php(52): CModel->execSql('UPDATE t_test a...', Array)
+#2 D:\wamp64\www\cc2\db\base\update\UpdateModel.php(37): CC\db\base\core\CDbCommand::update(Array, Object(CC\db\base\update\UpdateModel), Array)
+#3 D:\wamp64\www\pms_test\protected\module\test\test\TestTestDeleteAdminAction.php(22): CC\db\base\update\UpdateModel->execute()
+#4 D:\wamp64\www\cc2\action\DeleteAction.php(70): module\test\test\TestTestDeleteAdminAction->deleteData(Object(CRequest))
+#5 D:\wamp64\www\cc2\action\base\CAction.php(129): CC\action\DeleteAction->execute(Object(CRequest))
+#6 [internal function]: CAction->executeInner(Object(CRequest))
+#7 D:\wamp64\www\cc2\route\process\CActionProcess.php(74): call_user_func_array(Array, Array)
+#8 D:\wamp64\www\cc2\route\process\CRequestProcess.php(100): CC\route\process\CActionProcess->onProcess(Object(module\test\test\TestTestDeleteAdminAction))
+#9 D:\wamp64\www\cc2\base\CApp.php(285): CC\route\process\CRequestProcess->process()
+#10 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#11 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#12 {main}
+
+REQUEST_URI=  /pms_test/admin/test/test/delete
+
+POST 数据：   array (
+  'id' => '941',
+)
+
+==========================================================================
+
+2018-08-07 16:58:38 [error] 
+[exception.CDBException]  exception 'CDBException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_delete' in 'field list'' in D:\wamp64\www\cc2\db\CModel.php:830
+SQL:UPDATE t_test as t SET `is_delete`='1' where 1 and (  `id`='941' ) 
+Params:array (
+  ':qp0' => '941',
+  ':qp1' => 1,
+)
+
+Stack trace:
+#0 D:\wamp64\www\cc2\db\CModel.php(539): CModel->_execIn(Array, 'bool')
+#1 D:\wamp64\www\cc2\db\base\core\CDbCommand.php(52): CModel->execSql('UPDATE t_test a...', Array)
+#2 D:\wamp64\www\cc2\db\base\update\UpdateModel.php(37): CC\db\base\core\CDbCommand::update(Array, Object(CC\db\base\update\UpdateModel), Array)
+#3 D:\wamp64\www\pms_test\protected\module\test\test\TestTestDeleteAdminAction.php(22): CC\db\base\update\UpdateModel->execute()
+#4 D:\wamp64\www\cc2\action\DeleteAction.php(70): module\test\test\TestTestDeleteAdminAction->deleteData(Object(CRequest))
+#5 D:\wamp64\www\cc2\action\base\CAction.php(129): CC\action\DeleteAction->execute(Object(CRequest))
+#6 [internal function]: CAction->executeInner(Object(CRequest))
+#7 D:\wamp64\www\cc2\route\process\CActionProcess.php(74): call_user_func_array(Array, Array)
+#8 D:\wamp64\www\cc2\route\process\CRequestProcess.php(100): CC\route\process\CActionProcess->onProcess(Object(module\test\test\TestTestDeleteAdminAction))
+#9 D:\wamp64\www\cc2\base\CApp.php(285): CC\route\process\CRequestProcess->process()
+#10 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#11 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#12 {main}
+
+REQUEST_URI=  /pms_test/admin/test/test/delete
+
+POST 数据：   array (
+  'id' => '941',
+)
+
+==========================================================================
+
+2018-08-07 17:02:53 [error] 
+[exception.CDBException]  exception 'CDBException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_delete' in 'field list'' in D:\wamp64\www\cc2\db\CModel.php:830
+SQL:UPDATE t_test as t SET `is_delete`='1' where 1 and (  `id`='925' ) 
+Params:array (
+  ':qp0' => '925',
+  ':qp1' => 1,
+)
+
+Stack trace:
+#0 D:\wamp64\www\cc2\db\CModel.php(539): CModel->_execIn(Array, 'bool')
+#1 D:\wamp64\www\cc2\db\base\core\CDbCommand.php(52): CModel->execSql('UPDATE t_test a...', Array)
+#2 D:\wamp64\www\cc2\db\base\update\UpdateModel.php(37): CC\db\base\core\CDbCommand::update(Array, Object(CC\db\base\update\UpdateModel), Array)
+#3 D:\wamp64\www\pms_test\protected\module\test\test\TestTestDeleteAdminAction.php(20): CC\db\base\update\UpdateModel->execute()
+#4 D:\wamp64\www\cc2\action\DeleteAction.php(70): module\test\test\TestTestDeleteAdminAction->deleteData(Object(CRequest))
+#5 D:\wamp64\www\cc2\action\base\CAction.php(129): CC\action\DeleteAction->execute(Object(CRequest))
+#6 [internal function]: CAction->executeInner(Object(CRequest))
+#7 D:\wamp64\www\cc2\route\process\CActionProcess.php(74): call_user_func_array(Array, Array)
+#8 D:\wamp64\www\cc2\route\process\CRequestProcess.php(100): CC\route\process\CActionProcess->onProcess(Object(module\test\test\TestTestDeleteAdminAction))
+#9 D:\wamp64\www\cc2\base\CApp.php(285): CC\route\process\CRequestProcess->process()
+#10 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#11 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#12 {main}
+
+REQUEST_URI=  /pms_test/admin/test/test/delete
+
+POST 数据：   array (
+  'id' => '925',
+)
+
+==========================================================================
+
+2018-08-07 17:04:05 [error] 
+[exception.CDBException]  exception 'CDBException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_delete' in 'field list'' in D:\wamp64\www\cc2\db\CModel.php:830
+SQL:UPDATE t_test as t SET `is_delete`='1' where 1 and (  `id`='925' ) 
+Params:array (
+  ':qp0' => '925',
+  ':qp1' => 1,
+)
+
+Stack trace:
+#0 D:\wamp64\www\cc2\db\CModel.php(539): CModel->_execIn(Array, 'bool')
+#1 D:\wamp64\www\cc2\db\base\core\CDbCommand.php(52): CModel->execSql('UPDATE t_test a...', Array)
+#2 D:\wamp64\www\cc2\db\base\update\UpdateModel.php(37): CC\db\base\core\CDbCommand::update(Array, Object(CC\db\base\update\UpdateModel), Array)
+#3 D:\wamp64\www\pms_test\protected\module\test\test\TestTestDeleteAdminAction.php(20): CC\db\base\update\UpdateModel->execute()
+#4 D:\wamp64\www\cc2\action\DeleteAction.php(70): module\test\test\TestTestDeleteAdminAction->deleteData(Object(CRequest))
+#5 D:\wamp64\www\cc2\action\base\CAction.php(129): CC\action\DeleteAction->execute(Object(CRequest))
+#6 [internal function]: CAction->executeInner(Object(CRequest))
+#7 D:\wamp64\www\cc2\route\process\CActionProcess.php(74): call_user_func_array(Array, Array)
+#8 D:\wamp64\www\cc2\route\process\CRequestProcess.php(100): CC\route\process\CActionProcess->onProcess(Object(module\test\test\TestTestDeleteAdminAction))
+#9 D:\wamp64\www\cc2\base\CApp.php(285): CC\route\process\CRequestProcess->process()
+#10 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#11 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#12 {main}
+
+REQUEST_URI=  /pms_test/admin/test/test/delete
+
+POST 数据：   array (
+  'id' => '925',
+)
+
+==========================================================================
+
+2018-08-07 17:09:22 [error] 
+[exception.CDBException]  exception 'CDBException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_delete' in 'field list'' in D:\wamp64\www\cc2\db\CModel.php:830
+SQL:UPDATE t_test as t SET `is_delete`='1' where 1 and (  `id`='926' ) 
+Params:array (
+  ':qp0' => '926',
+  ':qp1' => 1,
+)
+
+Stack trace:
+#0 D:\wamp64\www\cc2\db\CModel.php(539): CModel->_execIn(Array, 'bool')
+#1 D:\wamp64\www\cc2\db\base\core\CDbCommand.php(52): CModel->execSql('UPDATE t_test a...', Array)
+#2 D:\wamp64\www\cc2\db\base\update\UpdateModel.php(37): CC\db\base\core\CDbCommand::update(Array, Object(CC\db\base\update\UpdateModel), Array)
+#3 D:\wamp64\www\pms_test\protected\module\test\test\TestTestDeleteAdminAction.php(20): CC\db\base\update\UpdateModel->execute()
+#4 D:\wamp64\www\cc2\action\DeleteAction.php(70): module\test\test\TestTestDeleteAdminAction->deleteData(Object(CRequest))
+#5 D:\wamp64\www\cc2\action\base\CAction.php(129): CC\action\DeleteAction->execute(Object(CRequest))
+#6 [internal function]: CAction->executeInner(Object(CRequest))
+#7 D:\wamp64\www\cc2\route\process\CActionProcess.php(74): call_user_func_array(Array, Array)
+#8 D:\wamp64\www\cc2\route\process\CRequestProcess.php(100): CC\route\process\CActionProcess->onProcess(Object(module\test\test\TestTestDeleteAdminAction))
+#9 D:\wamp64\www\cc2\base\CApp.php(285): CC\route\process\CRequestProcess->process()
+#10 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#11 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#12 {main}
+
+REQUEST_URI=  /pms_test/admin/test/test/delete
+
+POST 数据：   array (
+  'id' => '926',
+)
+
+==========================================================================
+
+2018-08-07 17:12:29 [error] 
+[exception.CDBException]  exception 'CDBException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_delete' in 'field list'' in D:\wamp64\www\cc2\db\CModel.php:830
+SQL:UPDATE t_test as t SET `is_delete`='1' where 1 and (  `id`='925' ) 
+Params:array (
+  ':qp0' => '925',
+  ':qp1' => 1,
+)
+
+Stack trace:
+#0 D:\wamp64\www\cc2\db\CModel.php(539): CModel->_execIn(Array, 'bool')
+#1 D:\wamp64\www\cc2\db\base\core\CDbCommand.php(52): CModel->execSql('UPDATE t_test a...', Array)
+#2 D:\wamp64\www\cc2\db\base\update\UpdateModel.php(37): CC\db\base\core\CDbCommand::update(Array, Object(CC\db\base\update\UpdateModel), Array)
+#3 D:\wamp64\www\pms_test\protected\module\test\test\TestTestDeleteAdminAction.php(20): CC\db\base\update\UpdateModel->execute()
+#4 D:\wamp64\www\cc2\action\DeleteAction.php(70): module\test\test\TestTestDeleteAdminAction->deleteData(Object(CRequest))
+#5 D:\wamp64\www\cc2\action\base\CAction.php(129): CC\action\DeleteAction->execute(Object(CRequest))
+#6 [internal function]: CAction->executeInner(Object(CRequest))
+#7 D:\wamp64\www\cc2\route\process\CActionProcess.php(74): call_user_func_array(Array, Array)
+#8 D:\wamp64\www\cc2\route\process\CRequestProcess.php(100): CC\route\process\CActionProcess->onProcess(Object(module\test\test\TestTestDeleteAdminAction))
+#9 D:\wamp64\www\cc2\base\CApp.php(285): CC\route\process\CRequestProcess->process()
+#10 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#11 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#12 {main}
+
+REQUEST_URI=  /pms_test/admin/test/test/delete
+
+POST 数据：   array (
+  'id' => '925',
+)
+
+==========================================================================
+
+2018-08-07 17:18:16 [error] 
+[exception.CDBException]  exception 'CDBException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_delete' in 'field list'' in D:\wamp64\www\cc2\db\CModel.php:830
+SQL:UPDATE t_test as t SET `is_delete`='1' where 1 and (  `id`='925' ) 
+Params:array (
+  ':qp0' => '925',
+  ':qp1' => 1,
+)
+
+Stack trace:
+#0 D:\wamp64\www\cc2\db\CModel.php(539): CModel->_execIn(Array, 'bool')
+#1 D:\wamp64\www\cc2\db\base\core\CDbCommand.php(52): CModel->execSql('UPDATE t_test a...', Array)
+#2 D:\wamp64\www\cc2\db\base\update\UpdateModel.php(37): CC\db\base\core\CDbCommand::update(Array, Object(CC\db\base\update\UpdateModel), Array)
+#3 D:\wamp64\www\pms_test\protected\module\test\test\TestTestDeleteAdminAction.php(20): CC\db\base\update\UpdateModel->execute()
+#4 D:\wamp64\www\cc2\action\DeleteAction.php(70): module\test\test\TestTestDeleteAdminAction->deleteData(Object(CRequest))
+#5 D:\wamp64\www\cc2\action\base\CAction.php(129): CC\action\DeleteAction->execute(Object(CRequest))
+#6 [internal function]: CAction->executeInner(Object(CRequest))
+#7 D:\wamp64\www\cc2\route\process\CActionProcess.php(74): call_user_func_array(Array, Array)
+#8 D:\wamp64\www\cc2\route\process\CRequestProcess.php(100): CC\route\process\CActionProcess->onProcess(Object(module\test\test\TestTestDeleteAdminAction))
+#9 D:\wamp64\www\cc2\base\CApp.php(285): CC\route\process\CRequestProcess->process()
+#10 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#11 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#12 {main}
+
+REQUEST_URI=  /pms_test/admin/test/test/delete
+
+POST 数据：   array (
+  'id' => '925',
+)
+
+==========================================================================
+
+2018-08-07 17:21:47 [error] 
+[exception.CInteriorException]  Argument 1 passed to CC\util\common\widget\widget\FormWidget::__construct() must be an instance of CC\util\common\widget\form\IFormViewBuilder, instance of module\test\test\TestTestEditAdminAction given, called in D:\wamp64\www\pms_test\protected\module\test\test\view\editAdmin.php on line 54 and defined (D:\wamp64\www\cc2\util\common\widget\widget\FormWidget.php:36)
+Stack trace:
+#0 D:\wamp64\www\cc2\response\CRenderData.php(187): include()
+#1 D:\wamp64\www\cc2\response\CRenderData.php(201): module\test\test\TestTestEditAdminAction->{closure}()
+#2 D:\wamp64\www\cc2\response\CRenderData.php(40): CRenderData->render()
+#3 D:\wamp64\www\cc2\response\CResponseData.php(16): CRenderData->onGetContent()
+#4 D:\wamp64\www\cc2\response\CResponse.php(99): CRenderData->getContent()
+#5 D:\wamp64\www\cc2\base\CApp.php(264): CResponse->send()
+#6 D:\wamp64\www\cc2\base\CApp.php(258): CApp->finish()
+#7 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+
+
+REQUEST_URI=  /pms_test/admin/test/test/edit?id=918
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-07 17:26:26 [error] 
+[exception.CDBException]  exception 'CDBException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_delete' in 'field list'' in D:\wamp64\www\cc2\db\CModel.php:830
+SQL:UPDATE t_test as t SET `is_delete`='1' where 1 and (  `id`='926' ) 
+Params:array (
+  ':qp0' => '926',
+  ':qp1' => 1,
+)
+
+Stack trace:
+#0 D:\wamp64\www\cc2\db\CModel.php(539): CModel->_execIn(Array, 'bool')
+#1 D:\wamp64\www\cc2\db\base\core\CDbCommand.php(52): CModel->execSql('UPDATE t_test a...', Array)
+#2 D:\wamp64\www\cc2\db\base\update\UpdateModel.php(37): CC\db\base\core\CDbCommand::update(Array, Object(CC\db\base\update\UpdateModel), Array)
+#3 D:\wamp64\www\pms_test\protected\module\test\test\TestTestDeleteAdminAction.php(20): CC\db\base\update\UpdateModel->execute()
+#4 D:\wamp64\www\cc2\action\DeleteAction.php(70): module\test\test\TestTestDeleteAdminAction->deleteData(Object(CRequest))
+#5 D:\wamp64\www\cc2\action\base\CAction.php(129): CC\action\DeleteAction->execute(Object(CRequest))
+#6 [internal function]: CAction->executeInner(Object(CRequest))
+#7 D:\wamp64\www\cc2\route\process\CActionProcess.php(74): call_user_func_array(Array, Array)
+#8 D:\wamp64\www\cc2\route\process\CRequestProcess.php(100): CC\route\process\CActionProcess->onProcess(Object(module\test\test\TestTestDeleteAdminAction))
+#9 D:\wamp64\www\cc2\base\CApp.php(285): CC\route\process\CRequestProcess->process()
+#10 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#11 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#12 {main}
+
+REQUEST_URI=  /pms_test/admin/test/test/delete
+
+POST 数据：   array (
+  'id' => '926',
+)
+
+==========================================================================
+
+2018-08-07 17:28:12 [error] 
+[exception.CDBException]  exception 'CDBException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_delete' in 'field list'' in D:\wamp64\www\cc2\db\CModel.php:830
+SQL:UPDATE t_test as t SET `is_delete`='1' where 1 and (  `id`='926' ) 
+Params:array (
+  ':qp0' => '926',
+  ':qp1' => 1,
+)
+
+Stack trace:
+#0 D:\wamp64\www\cc2\db\CModel.php(539): CModel->_execIn(Array, 'bool')
+#1 D:\wamp64\www\cc2\db\base\core\CDbCommand.php(52): CModel->execSql('UPDATE t_test a...', Array)
+#2 D:\wamp64\www\cc2\db\base\update\UpdateModel.php(37): CC\db\base\core\CDbCommand::update(Array, Object(CC\db\base\update\UpdateModel), Array)
+#3 D:\wamp64\www\pms_test\protected\module\test\test\TestTestDeleteAdminAction.php(20): CC\db\base\update\UpdateModel->execute()
+#4 D:\wamp64\www\cc2\action\DeleteAction.php(70): module\test\test\TestTestDeleteAdminAction->deleteData(Object(CRequest))
+#5 D:\wamp64\www\cc2\action\base\CAction.php(129): CC\action\DeleteAction->execute(Object(CRequest))
+#6 [internal function]: CAction->executeInner(Object(CRequest))
+#7 D:\wamp64\www\cc2\route\process\CActionProcess.php(74): call_user_func_array(Array, Array)
+#8 D:\wamp64\www\cc2\route\process\CRequestProcess.php(100): CC\route\process\CActionProcess->onProcess(Object(module\test\test\TestTestDeleteAdminAction))
+#9 D:\wamp64\www\cc2\base\CApp.php(285): CC\route\process\CRequestProcess->process()
+#10 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#11 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#12 {main}
+
+REQUEST_URI=  /pms_test/admin/test/test/delete
+
+POST 数据：   array (
+  'id' => '926',
+)
+
+==========================================================================
+
+2018-08-07 17:28:46 [error] 
+[exception.CDBException]  exception 'CDBException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_delete' in 'field list'' in D:\wamp64\www\cc2\db\CModel.php:830
+SQL:UPDATE t_test as t SET `is_delete`='1' where 1 and (  `id`='926' ) 
+Params:array (
+  ':qp0' => '926',
+  ':qp1' => 1,
+)
+
+Stack trace:
+#0 D:\wamp64\www\cc2\db\CModel.php(539): CModel->_execIn(Array, 'bool')
+#1 D:\wamp64\www\cc2\db\base\core\CDbCommand.php(52): CModel->execSql('UPDATE t_test a...', Array)
+#2 D:\wamp64\www\cc2\db\base\update\UpdateModel.php(37): CC\db\base\core\CDbCommand::update(Array, Object(CC\db\base\update\UpdateModel), Array)
+#3 D:\wamp64\www\pms_test\protected\module\test\test\TestTestDeleteAdminAction.php(20): CC\db\base\update\UpdateModel->execute()
+#4 D:\wamp64\www\cc2\action\DeleteAction.php(70): module\test\test\TestTestDeleteAdminAction->deleteData(Object(CRequest))
+#5 D:\wamp64\www\cc2\action\base\CAction.php(129): CC\action\DeleteAction->execute(Object(CRequest))
+#6 [internal function]: CAction->executeInner(Object(CRequest))
+#7 D:\wamp64\www\cc2\route\process\CActionProcess.php(74): call_user_func_array(Array, Array)
+#8 D:\wamp64\www\cc2\route\process\CRequestProcess.php(100): CC\route\process\CActionProcess->onProcess(Object(module\test\test\TestTestDeleteAdminAction))
+#9 D:\wamp64\www\cc2\base\CApp.php(285): CC\route\process\CRequestProcess->process()
+#10 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#11 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#12 {main}
+
+REQUEST_URI=  /pms_test/admin/test/test/delete
+
+POST 数据：   array (
+  'id' => '926',
+)
+
+==========================================================================
+
+2018-08-07 18:42:33 [error] 
+[exception.CInteriorException]  Argument 1 passed to module\test\test\TestTestIndexAdminAction::createOperateButtons() must be of the type array, null given, called in D:\wamp64\www\cc2\util\common\widget\widget\ListTableWidget.php on line 61 and defined (D:\wamp64\www\pms_test\protected\module\test\test\TestTestIndexAdminAction.php:76)
+Stack trace:
+#0 D:\wamp64\www\cc2\util\common\widget\widget\Widget.php(16): CC\util\common\widget\widget\ListTableWidget->onBuild()
+#1 D:\wamp64\www\cc2\util\common\widget\widget\WidgetBuilder.php(21): CC\util\common\widget\widget\ListTableWidget->build()
+#2 D:\wamp64\www\pms_test\protected\module\test\test\view\indexAdmin.php(93): build()
+#3 D:\wamp64\www\cc2\response\CRenderData.php(187): include()
+#4 D:\wamp64\www\cc2\response\CRenderData.php(201): module\test\test\TestTestIndexAdminAction->{closure}()
+#5 D:\wamp64\www\cc2\response\CRenderData.php(40): CRenderData->render()
+#6 D:\wamp64\www\cc2\response\CResponseData.php(16): CRenderData->onGetContent()
+#7 D:\wamp64\www\cc2\response\CResponse.php(99): CRenderData->getContent()
+#8 D:\wamp64\www\cc2\base\CApp.php(264): CResponse->send()
+#9 D:\wamp64\www\cc2\base\CApp.php(258): CApp->finish()
+#10 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+
+
+REQUEST_URI=  /pms_test/admin/test/test/index?_is_for_nav=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+

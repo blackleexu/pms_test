@@ -1,0 +1,612 @@
+2018-08-06 11:25:48 [error] 
+[exception.CInteriorException]  Argument 1 passed to module\test\test\TestTestIndexAdminAction::createOperateButtons() must be of the type array, null given, called in D:\wamp64\www\cc2\util\common\widget\widget\ListTableWidget.php on line 61 and defined (D:\wamp64\www\pms\protected\module\test\test\TestTestIndexAdminAction.php:91)
+Stack trace:
+#0 D:\wamp64\www\cc2\util\common\widget\widget\Widget.php(16): CC\util\common\widget\widget\ListTableWidget->onBuild()
+#1 D:\wamp64\www\cc2\util\common\widget\widget\WidgetBuilder.php(21): CC\util\common\widget\widget\ListTableWidget->build()
+#2 D:\wamp64\www\pms\protected\module\test\test\view\indexAdmin.php(96): build()
+#3 D:\wamp64\www\cc2\response\CRenderData.php(187): include()
+#4 D:\wamp64\www\cc2\response\CRenderData.php(201): module\test\test\TestTestIndexAdminAction->{closure}()
+#5 D:\wamp64\www\cc2\response\CRenderData.php(40): CRenderData->render()
+#6 D:\wamp64\www\cc2\response\CResponseData.php(16): CRenderData->onGetContent()
+#7 D:\wamp64\www\cc2\response\CResponse.php(99): CRenderData->getContent()
+#8 D:\wamp64\www\cc2\base\CApp.php(264): CResponse->send()
+#9 D:\wamp64\www\cc2\base\CApp.php(258): CApp->finish()
+#10 D:\wamp64\www\pms\index.php(29): CApp->run()
+
+
+REQUEST_URI=  /pms/admin/test/test/index?_is_for_nav=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-06 11:38:04 [error] 
+[exception.CInteriorException]  Argument 1 passed to module\test\test\TestTestIndexAdminAction::createOperateButtons() must be of the type array, null given, called in D:\wamp64\www\cc2\util\common\widget\widget\ListTableWidget.php on line 61 and defined (D:\wamp64\www\pms\protected\module\test\test\TestTestIndexAdminAction.php:91)
+Stack trace:
+#0 D:\wamp64\www\cc2\util\common\widget\widget\Widget.php(16): CC\util\common\widget\widget\ListTableWidget->onBuild()
+#1 D:\wamp64\www\cc2\util\common\widget\widget\WidgetBuilder.php(21): CC\util\common\widget\widget\ListTableWidget->build()
+#2 D:\wamp64\www\pms\protected\module\test\test\view\indexAdmin.php(96): build()
+#3 D:\wamp64\www\cc2\response\CRenderData.php(187): include()
+#4 D:\wamp64\www\cc2\response\CRenderData.php(201): module\test\test\TestTestIndexAdminAction->{closure}()
+#5 D:\wamp64\www\cc2\response\CRenderData.php(40): CRenderData->render()
+#6 D:\wamp64\www\cc2\response\CResponseData.php(16): CRenderData->onGetContent()
+#7 D:\wamp64\www\cc2\response\CResponse.php(99): CRenderData->getContent()
+#8 D:\wamp64\www\cc2\base\CApp.php(264): CResponse->send()
+#9 D:\wamp64\www\cc2\base\CApp.php(258): CApp->finish()
+#10 D:\wamp64\www\pms\index.php(29): CApp->run()
+
+
+REQUEST_URI=  /pms/admin/test/test/index?_is_for_nav=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-06 11:39:45 [error] 
+[exception.CInteriorException]  Argument 1 passed to module\test\test\TestTestIndexAdminAction::createOperateButtons() must be of the type array, null given, called in D:\wamp64\www\cc2\util\common\widget\widget\ListTableWidget.php on line 61 and defined (D:\wamp64\www\pms\protected\module\test\test\TestTestIndexAdminAction.php:91)
+Stack trace:
+#0 D:\wamp64\www\cc2\util\common\widget\widget\Widget.php(16): CC\util\common\widget\widget\ListTableWidget->onBuild()
+#1 D:\wamp64\www\cc2\util\common\widget\widget\WidgetBuilder.php(21): CC\util\common\widget\widget\ListTableWidget->build()
+#2 D:\wamp64\www\pms\protected\module\test\test\view\indexAdmin.php(96): build()
+#3 D:\wamp64\www\cc2\response\CRenderData.php(187): include()
+#4 D:\wamp64\www\cc2\response\CRenderData.php(201): module\test\test\TestTestIndexAdminAction->{closure}()
+#5 D:\wamp64\www\cc2\response\CRenderData.php(40): CRenderData->render()
+#6 D:\wamp64\www\cc2\response\CResponseData.php(16): CRenderData->onGetContent()
+#7 D:\wamp64\www\cc2\response\CResponse.php(99): CRenderData->getContent()
+#8 D:\wamp64\www\cc2\base\CApp.php(264): CResponse->send()
+#9 D:\wamp64\www\cc2\base\CApp.php(258): CApp->finish()
+#10 D:\wamp64\www\pms\index.php(29): CApp->run()
+
+
+REQUEST_URI=  /pms/admin/test/test/index?_is_for_nav=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-06 11:40:55 [error] 
+[exception.CInteriorException]  Argument 1 passed to module\test\test\TestTestIndexAdminAction::createOperateButtons() must be of the type array, null given, called in D:\wamp64\www\cc2\util\common\widget\widget\ListTableWidget.php on line 61 and defined (D:\wamp64\www\pms\protected\module\test\test\TestTestIndexAdminAction.php:91)
+Stack trace:
+#0 D:\wamp64\www\cc2\util\common\widget\widget\Widget.php(16): CC\util\common\widget\widget\ListTableWidget->onBuild()
+#1 D:\wamp64\www\cc2\util\common\widget\widget\WidgetBuilder.php(21): CC\util\common\widget\widget\ListTableWidget->build()
+#2 D:\wamp64\www\pms\protected\module\test\test\view\indexAdmin.php(96): build()
+#3 D:\wamp64\www\cc2\response\CRenderData.php(187): include()
+#4 D:\wamp64\www\cc2\response\CRenderData.php(201): module\test\test\TestTestIndexAdminAction->{closure}()
+#5 D:\wamp64\www\cc2\response\CRenderData.php(40): CRenderData->render()
+#6 D:\wamp64\www\cc2\response\CResponseData.php(16): CRenderData->onGetContent()
+#7 D:\wamp64\www\cc2\response\CResponse.php(99): CRenderData->getContent()
+#8 D:\wamp64\www\cc2\base\CApp.php(264): CResponse->send()
+#9 D:\wamp64\www\cc2\base\CApp.php(258): CApp->finish()
+#10 D:\wamp64\www\pms\index.php(29): CApp->run()
+
+
+REQUEST_URI=  /pms/admin/test/test/index?_is_for_nav=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-06 11:41:02 [error] 
+[exception.CInteriorException]  Argument 1 passed to module\test\test\TestTestIndexAdminAction::createOperateButtons() must be of the type array, null given, called in D:\wamp64\www\cc2\util\common\widget\widget\ListTableWidget.php on line 61 and defined (D:\wamp64\www\pms\protected\module\test\test\TestTestIndexAdminAction.php:91)
+Stack trace:
+#0 D:\wamp64\www\cc2\util\common\widget\widget\Widget.php(16): CC\util\common\widget\widget\ListTableWidget->onBuild()
+#1 D:\wamp64\www\cc2\util\common\widget\widget\WidgetBuilder.php(21): CC\util\common\widget\widget\ListTableWidget->build()
+#2 D:\wamp64\www\pms\protected\module\test\test\view\indexAdmin.php(96): build()
+#3 D:\wamp64\www\cc2\response\CRenderData.php(187): include()
+#4 D:\wamp64\www\cc2\response\CRenderData.php(201): module\test\test\TestTestIndexAdminAction->{closure}()
+#5 D:\wamp64\www\cc2\response\CRenderData.php(40): CRenderData->render()
+#6 D:\wamp64\www\cc2\response\CResponseData.php(16): CRenderData->onGetContent()
+#7 D:\wamp64\www\cc2\response\CResponse.php(99): CRenderData->getContent()
+#8 D:\wamp64\www\cc2\base\CApp.php(264): CResponse->send()
+#9 D:\wamp64\www\cc2\base\CApp.php(258): CApp->finish()
+#10 D:\wamp64\www\pms\index.php(29): CApp->run()
+
+
+REQUEST_URI=  /pms/admin/test/test/index?_is_for_nav=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-06 11:51:32 [error] 
+[exception.CInteriorException]  The use statement with non-compound name 'CRequest' has no effect (D:\wamp64\www\pms\protected\module\test\test\TestTestDeleteAdminAction.php:11)
+Stack trace:
+#0 D:\wamp64\www\cc2\route\process\CRequestProcess.php(57): CC\route\process\CActionProcess->onInit()
+#1 D:\wamp64\www\cc2\base\CApp.php(282): init()
+#2 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#3 D:\wamp64\www\pms\index.php(29): CApp->run()
+
+
+REQUEST_URI=  /pms/admin/test/test/delete
+
+POST 数据：   array (
+  'id' => '5',
+)
+
+==========================================================================
+
+2018-08-06 11:53:32 [error] 
+[exception.CInteriorException]  The use statement with non-compound name 'CRequest' has no effect (D:\wamp64\www\pms\protected\module\test\test\TestTestDeleteAdminAction.php:12)
+Stack trace:
+#0 D:\wamp64\www\cc2\route\process\CRequestProcess.php(57): CC\route\process\CActionProcess->onInit()
+#1 D:\wamp64\www\cc2\base\CApp.php(282): init()
+#2 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#3 D:\wamp64\www\pms\index.php(29): CApp->run()
+
+
+REQUEST_URI=  /pms/admin/test/test/delete
+
+POST 数据：   array (
+  'id' => '5',
+)
+
+==========================================================================
+
+2018-08-06 11:53:41 [error] 
+[exception.CInteriorException]  The use statement with non-compound name 'CRequest' has no effect (D:\wamp64\www\pms\protected\module\test\test\TestTestDeleteAdminAction.php:12)
+Stack trace:
+#0 D:\wamp64\www\cc2\route\process\CRequestProcess.php(57): CC\route\process\CActionProcess->onInit()
+#1 D:\wamp64\www\cc2\base\CApp.php(282): init()
+#2 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#3 D:\wamp64\www\pms\index.php(29): CApp->run()
+
+
+REQUEST_URI=  /pms/admin/test/test/delete
+
+POST 数据：   array (
+  'id' => '5',
+)
+
+==========================================================================
+
+2018-08-06 11:55:15 [error] 
+[exception.CInteriorException]  The use statement with non-compound name 'CRequest' has no effect (D:\wamp64\www\pms\protected\module\test\test\TestTestDeleteAdminAction.php:12)
+Stack trace:
+#0 D:\wamp64\www\cc2\route\process\CRequestProcess.php(57): CC\route\process\CActionProcess->onInit()
+#1 D:\wamp64\www\cc2\base\CApp.php(282): init()
+#2 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#3 D:\wamp64\www\pms\index.php(29): CApp->run()
+
+
+REQUEST_URI=  /pms/admin/test/test/delete
+
+POST 数据：   array (
+  'id' => '5',
+)
+
+==========================================================================
+
+2018-08-06 11:55:57 [error] 
+[exception.CInteriorException]  The use statement with non-compound name 'CRequest' has no effect (D:\wamp64\www\pms\protected\module\test\test\TestTestDeleteAdminAction.php:12)
+Stack trace:
+#0 D:\wamp64\www\cc2\route\process\CRequestProcess.php(57): CC\route\process\CActionProcess->onInit()
+#1 D:\wamp64\www\cc2\base\CApp.php(282): init()
+#2 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#3 D:\wamp64\www\pms\index.php(29): CApp->run()
+
+
+REQUEST_URI=  /pms/admin/test/test/delete
+
+POST 数据：   array (
+  'id' => '5',
+)
+
+==========================================================================
+
+2018-08-06 12:01:38 [error] 
+[exception.CDBException]  exception 'CDBException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_delete' in 'field list'' in D:\wamp64\www\cc2\db\CModel.php:830
+SQL:UPDATE t_test as t SET `is_delete`='1' where 1
+Params:array (
+  ':qp0' => 1,
+)
+
+Stack trace:
+#0 D:\wamp64\www\cc2\db\CModel.php(539): CModel->_execIn(Array, 'bool')
+#1 D:\wamp64\www\cc2\db\base\core\CDbCommand.php(52): CModel->execSql('UPDATE t_test a...', Array)
+#2 D:\wamp64\www\cc2\db\base\update\UpdateModel.php(37): CC\db\base\core\CDbCommand::update(Array, Object(CC\db\base\update\UpdateModel), Array)
+#3 D:\wamp64\www\pms\protected\module\test\test\TestTestDeleteAdminAction.php(22): CC\db\base\update\UpdateModel->execute()
+#4 D:\wamp64\www\cc2\action\DeleteAction.php(70): module\test\test\TestTestDeleteAdminAction->deleteData(Object(CRequest))
+#5 D:\wamp64\www\cc2\action\base\CAction.php(129): CC\action\DeleteAction->execute(Object(CRequest))
+#6 [internal function]: CAction->executeInner(Object(CRequest))
+#7 D:\wamp64\www\cc2\route\process\CActionProcess.php(74): call_user_func_array(Array, Array)
+#8 D:\wamp64\www\cc2\route\process\CRequestProcess.php(100): CC\route\process\CActionProcess->onProcess(Object(module\test\test\TestTestDeleteAdminAction))
+#9 D:\wamp64\www\cc2\base\CApp.php(285): CC\route\process\CRequestProcess->process()
+#10 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#11 D:\wamp64\www\pms\index.php(29): CApp->run()
+#12 {main}
+
+REQUEST_URI=  /pms/admin/test/test/delete
+
+POST 数据：   array (
+  'id' => '5',
+)
+
+==========================================================================
+
+2018-08-06 12:04:04 [error] 
+[exception.CInteriorException]  The use statement with non-compound name 'CRequest' has no effect (D:\wamp64\www\pms\protected\module\test\test\TestTestDeleteAdminAction.php:13)
+Stack trace:
+#0 D:\wamp64\www\cc2\route\process\CRequestProcess.php(57): CC\route\process\CActionProcess->onInit()
+#1 D:\wamp64\www\cc2\base\CApp.php(282): init()
+#2 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#3 D:\wamp64\www\pms\index.php(29): CApp->run()
+
+
+REQUEST_URI=  /pms/admin/test/test/delete
+
+POST 数据：   array (
+  'id' => '5',
+)
+
+==========================================================================
+
+2018-08-06 12:04:53 [error] 
+[exception.CInteriorException]  The use statement with non-compound name 'CRequest' has no effect (D:\wamp64\www\pms\protected\module\test\test\TestTestDeleteAdminAction.php:13)
+Stack trace:
+#0 D:\wamp64\www\cc2\route\process\CRequestProcess.php(57): CC\route\process\CActionProcess->onInit()
+#1 D:\wamp64\www\cc2\base\CApp.php(282): init()
+#2 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#3 D:\wamp64\www\pms\index.php(29): CApp->run()
+
+
+REQUEST_URI=  /pms/admin/test/test/delete
+
+POST 数据：   array (
+  'id' => '5',
+)
+
+==========================================================================
+
+2018-08-06 12:07:53 [error] 
+[exception.CInteriorException]  The use statement with non-compound name 'CRequest' has no effect (D:\wamp64\www\pms\protected\module\test\test\TestTestDeleteAdminAction.php:9)
+Stack trace:
+#0 D:\wamp64\www\cc2\route\process\CRequestProcess.php(57): CC\route\process\CActionProcess->onInit()
+#1 D:\wamp64\www\cc2\base\CApp.php(282): init()
+#2 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#3 D:\wamp64\www\pms\index.php(29): CApp->run()
+
+
+REQUEST_URI=  /pms/admin/test/test/delete
+
+POST 数据：   array (
+  'id' => '5',
+)
+
+==========================================================================
+
+2018-08-06 12:10:27 [error] 
+[exception.CInteriorException]  The use statement with non-compound name 'CRequest' has no effect (D:\wamp64\www\pms\protected\module\test\test\TestTestDeleteAdminAction.php:9)
+Stack trace:
+#0 D:\wamp64\www\cc2\route\process\CRequestProcess.php(57): CC\route\process\CActionProcess->onInit()
+#1 D:\wamp64\www\cc2\base\CApp.php(282): init()
+#2 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#3 D:\wamp64\www\pms\index.php(29): CApp->run()
+
+
+REQUEST_URI=  /pms/admin/test/test/delete
+
+POST 数据：   array (
+  'id' => '5',
+)
+
+==========================================================================
+
+2018-08-06 12:17:44 [error] 
+[exception.CInteriorException]  The use statement with non-compound name 'CRequest' has no effect (D:\wamp64\www\pms\protected\module\test\test\TestTestDeleteAdminAction.php:9)
+Stack trace:
+#0 D:\wamp64\www\cc2\route\process\CRequestProcess.php(57): CC\route\process\CActionProcess->onInit()
+#1 D:\wamp64\www\cc2\base\CApp.php(282): init()
+#2 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#3 D:\wamp64\www\pms\index.php(29): CApp->run()
+
+
+REQUEST_URI=  /pms/admin/test/test/delete
+
+POST 数据：   array (
+  'id' => '5',
+)
+
+==========================================================================
+
+2018-08-06 12:19:05 [error] 
+[exception.CInteriorException]  The use statement with non-compound name 'CRequest' has no effect (D:\wamp64\www\pms\protected\module\test\test\TestTestDeleteAdminAction.php:9)
+Stack trace:
+#0 D:\wamp64\www\cc2\route\process\CRequestProcess.php(57): CC\route\process\CActionProcess->onInit()
+#1 D:\wamp64\www\cc2\base\CApp.php(282): init()
+#2 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#3 D:\wamp64\www\pms\index.php(29): CApp->run()
+
+
+REQUEST_URI=  /pms/admin/test/test/delete
+
+POST 数据：   array (
+  'id' => '5',
+)
+
+==========================================================================
+
+2018-08-06 12:19:47 [error] 
+[exception.CInteriorException]  The use statement with non-compound name 'CRequest' has no effect (D:\wamp64\www\pms\protected\module\test\test\TestTestDeleteAdminAction.php:9)
+Stack trace:
+#0 D:\wamp64\www\cc2\route\process\CRequestProcess.php(57): CC\route\process\CActionProcess->onInit()
+#1 D:\wamp64\www\cc2\base\CApp.php(282): init()
+#2 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#3 D:\wamp64\www\pms\index.php(29): CApp->run()
+
+
+REQUEST_URI=  /pms/admin/test/test/delete
+
+POST 数据：   array (
+  'id' => '5',
+)
+
+==========================================================================
+
+2018-08-06 12:20:39 [error] 
+[exception.CInteriorException]  Declaration of TestTestDeleteAdminAction::execute() should be compatible with CAction::execute(CRequest $request) (D:\wamp64\www\pms\protected\module\test\test\TestTestDeleteAdminAction.php:14)
+Stack trace:
+#0 D:\wamp64\www\cc2\route\process\CRequestProcess.php(57): CC\route\process\CActionProcess->onInit()
+#1 D:\wamp64\www\cc2\base\CApp.php(282): init()
+#2 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#3 D:\wamp64\www\pms\index.php(29): CApp->run()
+
+
+REQUEST_URI=  /pms/admin/test/test/delete
+
+POST 数据：   array (
+  'id' => '5',
+)
+
+==========================================================================
+
+2018-08-06 12:21:02 [error] 
+[exception.CInteriorException]  The use statement with non-compound name 'CRequest' has no effect (D:\wamp64\www\pms\protected\module\test\test\TestTestDeleteAdminAction.php:9)
+Stack trace:
+#0 D:\wamp64\www\cc2\route\process\CRequestProcess.php(57): CC\route\process\CActionProcess->onInit()
+#1 D:\wamp64\www\cc2\base\CApp.php(282): init()
+#2 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#3 D:\wamp64\www\pms\index.php(29): CApp->run()
+
+
+REQUEST_URI=  /pms/admin/test/test/delete
+
+POST 数据：   array (
+  'id' => '5',
+)
+
+==========================================================================
+
+2018-08-06 14:17:09 [error] 
+[exception.CInteriorException]  The use statement with non-compound name 'CRequest' has no effect (D:\wamp64\www\pms\protected\module\test\test\TestTestDeleteAdminAction.php:9)
+Stack trace:
+#0 D:\wamp64\www\cc2\route\process\CRequestProcess.php(57): CC\route\process\CActionProcess->onInit()
+#1 D:\wamp64\www\cc2\base\CApp.php(282): init()
+#2 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#3 D:\wamp64\www\pms\index.php(29): CApp->run()
+
+
+REQUEST_URI=  /pms/admin/test/test/delete
+
+POST 数据：   array (
+  'id' => '5',
+)
+
+==========================================================================
+
+2018-08-06 14:34:29 [error] 
+[exception.CInteriorException]  Invalid argument supplied for foreach() (D:\wamp64\www\pms\protected\module\test\test\view\indexAdmin.php:81)
+Stack trace:
+#0 D:\wamp64\www\cc2\response\CRenderData.php(201): module\test\test\TestTestIndexAdminAction->{closure}()
+#1 D:\wamp64\www\cc2\response\CRenderData.php(40): CRenderData->render()
+#2 D:\wamp64\www\cc2\response\CResponseData.php(16): CRenderData->onGetContent()
+#3 D:\wamp64\www\cc2\response\CResponse.php(99): CRenderData->getContent()
+#4 D:\wamp64\www\cc2\base\CApp.php(264): CResponse->send()
+#5 D:\wamp64\www\cc2\base\CApp.php(258): CApp->finish()
+#6 D:\wamp64\www\pms\index.php(29): CApp->run()
+
+
+REQUEST_URI=  /pms/admin/test/test/index?_is_for_nav=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-06 15:32:13 [error] 
+[exception.CInteriorException]  The use statement with non-compound name 'CRequest' has no effect (D:\wamp64\www\pms\protected\module\test\test\TestTestDeleteAdminAction.php:9)
+Stack trace:
+#0 D:\wamp64\www\cc2\route\process\CRequestProcess.php(57): CC\route\process\CActionProcess->onInit()
+#1 D:\wamp64\www\cc2\base\CApp.php(282): init()
+#2 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#3 D:\wamp64\www\pms\index.php(29): CApp->run()
+
+
+REQUEST_URI=  /pms/admin/test/test/delete
+
+POST 数据：   array (
+  'id' => '946',
+)
+
+==========================================================================
+
+2018-08-06 15:41:26 [error] 
+[exception.CDBException]  exception 'CDBException' with message 'SQLSTATE[HY000]: General error: 1364 Field 'position_name' doesn't have a default value' in D:\wamp64\www\cc2\db\CModel.php:830
+SQL:INSERT INTO t_user (`account`,`pwd`,`name`,`gender`,`user_type`,`dept_id`,`signup_time`,`dept_name`,`dept_level`,`dept_sort_id`) VALUES ('lee','9798955695c538b7c013d0d9ae3cf293','李旭','1','1','368','1533541286','研发','2','2001')
+Params:array (
+  0 => 'lee',
+  1 => '9798955695c538b7c013d0d9ae3cf293',
+  2 => '李旭',
+  3 => '1',
+  4 => '1',
+  5 => '368',
+  6 => 1533541286,
+  7 => '研发',
+  8 => '2',
+  9 => '2001',
+)
+
+Stack trace:
+#0 D:\wamp64\www\cc2\db\CModel.php(659): CModel->_execIn(Array, 'last_id')
+#1 D:\wamp64\www\cc2\db\base\core\CDbCommand.php(24): CModel->insert(Array)
+#2 D:\wamp64\www\cc2\db\base\insert\InsertModel.php(75): CC\db\base\core\CDbCommand::insert('user', Array, 't_', Array)
+#3 D:\wamp64\www\cc2\action\SaveAction.php(146): CC\db\base\insert\InsertModel->execute()
+#4 D:\wamp64\www\cc2\action\SaveAction.php(227): CC\action\SaveAction->saveData()
+#5 D:\wamp64\www\cc2\action\base\CAction.php(129): CC\action\SaveAction->execute(Object(CRequest))
+#6 [internal function]: CAction->executeInner(Object(CRequest))
+#7 D:\wamp64\www\cc2\route\process\CActionProcess.php(74): call_user_func_array(Array, Array)
+#8 D:\wamp64\www\cc2\route\process\CRequestProcess.php(100): CC\route\process\CActionProcess->onProcess(Object(module\basic\user\BasicUserEditAdminAction))
+#9 D:\wamp64\www\cc2\base\CApp.php(285): CC\route\process\CRequestProcess->process()
+#10 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#11 D:\wamp64\www\pms\index.php(29): CApp->run()
+#12 {main}
+
+REQUEST_URI=  /pms/admin/basic/user/edit
+
+POST 数据：   array (
+  'account' => 'lee',
+  'pwd' => '12134243',
+  'name' => '李旭',
+  'gender' => '1',
+  'user_type' => '1',
+  'dept_id' => '368',
+)
+
+==========================================================================
+
+2018-08-06 15:41:36 [error] 
+[exception.CDBException]  exception 'CDBException' with message 'SQLSTATE[HY000]: General error: 1364 Field 'position_name' doesn't have a default value' in D:\wamp64\www\cc2\db\CModel.php:830
+SQL:INSERT INTO t_user (`account`,`pwd`,`name`,`gender`,`user_type`,`dept_id`,`signup_time`,`dept_name`,`dept_level`,`dept_sort_id`) VALUES ('lee','9798955695c538b7c013d0d9ae3cf293','李旭','1','1','368','1533541296','研发','2','2001')
+Params:array (
+  0 => 'lee',
+  1 => '9798955695c538b7c013d0d9ae3cf293',
+  2 => '李旭',
+  3 => '1',
+  4 => '1',
+  5 => '368',
+  6 => 1533541296,
+  7 => '研发',
+  8 => '2',
+  9 => '2001',
+)
+
+Stack trace:
+#0 D:\wamp64\www\cc2\db\CModel.php(659): CModel->_execIn(Array, 'last_id')
+#1 D:\wamp64\www\cc2\db\base\core\CDbCommand.php(24): CModel->insert(Array)
+#2 D:\wamp64\www\cc2\db\base\insert\InsertModel.php(75): CC\db\base\core\CDbCommand::insert('user', Array, 't_', Array)
+#3 D:\wamp64\www\cc2\action\SaveAction.php(146): CC\db\base\insert\InsertModel->execute()
+#4 D:\wamp64\www\cc2\action\SaveAction.php(227): CC\action\SaveAction->saveData()
+#5 D:\wamp64\www\cc2\action\base\CAction.php(129): CC\action\SaveAction->execute(Object(CRequest))
+#6 [internal function]: CAction->executeInner(Object(CRequest))
+#7 D:\wamp64\www\cc2\route\process\CActionProcess.php(74): call_user_func_array(Array, Array)
+#8 D:\wamp64\www\cc2\route\process\CRequestProcess.php(100): CC\route\process\CActionProcess->onProcess(Object(module\basic\user\BasicUserEditAdminAction))
+#9 D:\wamp64\www\cc2\base\CApp.php(285): CC\route\process\CRequestProcess->process()
+#10 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#11 D:\wamp64\www\pms\index.php(29): CApp->run()
+#12 {main}
+
+REQUEST_URI=  /pms/admin/basic/user/edit
+
+POST 数据：   array (
+  'account' => 'lee',
+  'pwd' => '12134243',
+  'name' => '李旭',
+  'gender' => '1',
+  'user_type' => '1',
+  'dept_id' => '368',
+)
+
+==========================================================================
+
+2018-08-06 15:44:27 [error] 
+[exception.CDBException]  exception 'CDBException' with message 'SQLSTATE[HY000]: General error: 1364 Field 'id_card' doesn't have a default value' in D:\wamp64\www\cc2\db\CModel.php:830
+SQL:INSERT INTO t_user (`account`,`pwd`,`name`,`gender`,`user_type`,`dept_id`,`signup_time`,`dept_name`,`dept_level`,`dept_sort_id`) VALUES ('lee','9798955695c538b7c013d0d9ae3cf293','李旭','1','1','368','1533541467','研发','2','2001')
+Params:array (
+  0 => 'lee',
+  1 => '9798955695c538b7c013d0d9ae3cf293',
+  2 => '李旭',
+  3 => '1',
+  4 => '1',
+  5 => '368',
+  6 => 1533541467,
+  7 => '研发',
+  8 => '2',
+  9 => '2001',
+)
+
+Stack trace:
+#0 D:\wamp64\www\cc2\db\CModel.php(659): CModel->_execIn(Array, 'last_id')
+#1 D:\wamp64\www\cc2\db\base\core\CDbCommand.php(24): CModel->insert(Array)
+#2 D:\wamp64\www\cc2\db\base\insert\InsertModel.php(75): CC\db\base\core\CDbCommand::insert('user', Array, 't_', Array)
+#3 D:\wamp64\www\cc2\action\SaveAction.php(146): CC\db\base\insert\InsertModel->execute()
+#4 D:\wamp64\www\cc2\action\SaveAction.php(227): CC\action\SaveAction->saveData()
+#5 D:\wamp64\www\cc2\action\base\CAction.php(129): CC\action\SaveAction->execute(Object(CRequest))
+#6 [internal function]: CAction->executeInner(Object(CRequest))
+#7 D:\wamp64\www\cc2\route\process\CActionProcess.php(74): call_user_func_array(Array, Array)
+#8 D:\wamp64\www\cc2\route\process\CRequestProcess.php(100): CC\route\process\CActionProcess->onProcess(Object(module\basic\user\BasicUserEditAdminAction))
+#9 D:\wamp64\www\cc2\base\CApp.php(285): CC\route\process\CRequestProcess->process()
+#10 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#11 D:\wamp64\www\pms\index.php(29): CApp->run()
+#12 {main}
+
+REQUEST_URI=  /pms/admin/basic/user/edit
+
+POST 数据：   array (
+  'account' => 'lee',
+  'pwd' => '12134243',
+  'name' => '李旭',
+  'gender' => '1',
+  'user_type' => '1',
+  'dept_id' => '368',
+)
+
+==========================================================================
+
+2018-08-06 15:45:03 [error] 
+[exception.CDBException]  exception 'CDBException' with message 'SQLSTATE[HY000]: General error: 1364 Field 'id_card' doesn't have a default value' in D:\wamp64\www\cc2\db\CModel.php:830
+SQL:INSERT INTO t_user (`account`,`pwd`,`name`,`gender`,`user_type`,`dept_id`,`signup_time`,`dept_name`,`dept_level`,`dept_sort_id`) VALUES ('lee','2f23e97eaba95f46f7c7f4c9cb8c3cf4','李旭','1','1','368','1533541503','研发','2','2001')
+Params:array (
+  0 => 'lee',
+  1 => '2f23e97eaba95f46f7c7f4c9cb8c3cf4',
+  2 => '李旭',
+  3 => '1',
+  4 => '1',
+  5 => '368',
+  6 => 1533541503,
+  7 => '研发',
+  8 => '2',
+  9 => '2001',
+)
+
+Stack trace:
+#0 D:\wamp64\www\cc2\db\CModel.php(659): CModel->_execIn(Array, 'last_id')
+#1 D:\wamp64\www\cc2\db\base\core\CDbCommand.php(24): CModel->insert(Array)
+#2 D:\wamp64\www\cc2\db\base\insert\InsertModel.php(75): CC\db\base\core\CDbCommand::insert('user', Array, 't_', Array)
+#3 D:\wamp64\www\cc2\action\SaveAction.php(146): CC\db\base\insert\InsertModel->execute()
+#4 D:\wamp64\www\cc2\action\SaveAction.php(227): CC\action\SaveAction->saveData()
+#5 D:\wamp64\www\cc2\action\base\CAction.php(129): CC\action\SaveAction->execute(Object(CRequest))
+#6 [internal function]: CAction->executeInner(Object(CRequest))
+#7 D:\wamp64\www\cc2\route\process\CActionProcess.php(74): call_user_func_array(Array, Array)
+#8 D:\wamp64\www\cc2\route\process\CRequestProcess.php(100): CC\route\process\CActionProcess->onProcess(Object(module\basic\user\BasicUserEditAdminAction))
+#9 D:\wamp64\www\cc2\base\CApp.php(285): CC\route\process\CRequestProcess->process()
+#10 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#11 D:\wamp64\www\pms\index.php(29): CApp->run()
+#12 {main}
+
+REQUEST_URI=  /pms/admin/basic/user/edit
+
+POST 数据：   array (
+  'account' => 'lee',
+  'pwd' => '456454545',
+  'name' => '李旭',
+  'gender' => '1',
+  'user_type' => '1',
+  'dept_id' => '368',
+)
+
+==========================================================================
+

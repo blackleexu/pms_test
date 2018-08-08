@@ -1,0 +1,172 @@
+2018-08-08 11:29:07 [error] 
+[exception.CDBException]  exception 'CDBException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sex' in 'field list'' in D:\wamp64\www\cc2\db\CModel.php:830
+SQL:INSERT INTO t_user (`name`,`account`,`pwd`,`sex`,`user_type`,`dept_id`) VALUES ('dssada','dsdas','dasda','1','1','365')
+Params:array (
+  0 => 'dssada',
+  1 => 'dsdas',
+  2 => 'dasda',
+  3 => '1',
+  4 => '1',
+  5 => '365',
+)
+
+Stack trace:
+#0 D:\wamp64\www\cc2\db\CModel.php(659): CModel->_execIn(Array, 'last_id')
+#1 D:\wamp64\www\cc2\db\base\core\CDbCommand.php(24): CModel->insert(Array)
+#2 D:\wamp64\www\cc2\db\base\insert\InsertModel.php(75): CC\db\base\core\CDbCommand::insert('user', Array, 't_', Array)
+#3 D:\wamp64\www\pms_test\protected\module\test\test\TestTestEditAdminAction.php(99): CC\db\base\insert\InsertModel->execute()
+#4 D:\wamp64\www\cc2\action\SaveAction.php(228): module\test\test\TestTestEditAdminAction->saveData()
+#5 D:\wamp64\www\cc2\action\base\CAction.php(129): CC\action\SaveAction->execute(Object(CRequest))
+#6 [internal function]: CAction->executeInner(Object(CRequest))
+#7 D:\wamp64\www\cc2\route\process\CActionProcess.php(74): call_user_func_array(Array, Array)
+#8 D:\wamp64\www\cc2\route\process\CRequestProcess.php(100): CC\route\process\CActionProcess->onProcess(Object(module\test\test\TestTestEditAdminAction))
+#9 D:\wamp64\www\cc2\base\CApp.php(285): CC\route\process\CRequestProcess->process()
+#10 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#11 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#12 {main}
+
+REQUEST_URI=  /pms_test/admin/test/test/edit
+
+POST 数据：   array (
+  'account' => 'dsdas',
+  'pwd' => 'dasda',
+  'name' => 'dssada',
+  'sex' => '1',
+  'user_type' => '1',
+  'dept_id' => '365',
+)
+
+==========================================================================
+
+2018-08-08 11:29:22 [error] 
+[exception.CDBException]  exception 'CDBException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sex' in 'field list'' in D:\wamp64\www\cc2\db\CModel.php:830
+SQL:INSERT INTO t_user (`name`,`account`,`pwd`,`sex`,`user_type`,`dept_id`) VALUES ('dssada','dsdas','dasda','','1','365')
+Params:array (
+  0 => 'dssada',
+  1 => 'dsdas',
+  2 => 'dasda',
+  3 => NULL,
+  4 => '1',
+  5 => '365',
+)
+
+Stack trace:
+#0 D:\wamp64\www\cc2\db\CModel.php(659): CModel->_execIn(Array, 'last_id')
+#1 D:\wamp64\www\cc2\db\base\core\CDbCommand.php(24): CModel->insert(Array)
+#2 D:\wamp64\www\cc2\db\base\insert\InsertModel.php(75): CC\db\base\core\CDbCommand::insert('user', Array, 't_', Array)
+#3 D:\wamp64\www\pms_test\protected\module\test\test\TestTestEditAdminAction.php(99): CC\db\base\insert\InsertModel->execute()
+#4 D:\wamp64\www\cc2\action\SaveAction.php(228): module\test\test\TestTestEditAdminAction->saveData()
+#5 D:\wamp64\www\cc2\action\base\CAction.php(129): CC\action\SaveAction->execute(Object(CRequest))
+#6 [internal function]: CAction->executeInner(Object(CRequest))
+#7 D:\wamp64\www\cc2\route\process\CActionProcess.php(74): call_user_func_array(Array, Array)
+#8 D:\wamp64\www\cc2\route\process\CRequestProcess.php(100): CC\route\process\CActionProcess->onProcess(Object(module\test\test\TestTestEditAdminAction))
+#9 D:\wamp64\www\cc2\base\CApp.php(285): CC\route\process\CRequestProcess->process()
+#10 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#11 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#12 {main}
+
+REQUEST_URI=  /pms_test/admin/test/test/edit
+
+POST 数据：   array (
+  'account' => 'dsdas',
+  'pwd' => 'dasda',
+  'name' => 'dssada',
+  'sex' => '1',
+  'user_type' => '1',
+  'dept_id' => '365',
+)
+
+==========================================================================
+
+2018-08-08 11:36:23 [error] 
+[exception.CDBException]  exception 'CDBException' with message 'SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'id' at row 1' in D:\wamp64\www\cc2\db\CModel.php:830
+SQL:INSERT INTO t_user (`id`,`name`,`account`,`pwd`,`gender`,`user_type`,`dept_id`) VALUES ('','sdadsad','dsadasd','asdasda','1','2','370')
+Params:array (
+  0 => '',
+  1 => 'sdadsad',
+  2 => 'dsadasd',
+  3 => 'asdasda',
+  4 => '1',
+  5 => '2',
+  6 => '370',
+)
+
+Stack trace:
+#0 D:\wamp64\www\cc2\db\CModel.php(659): CModel->_execIn(Array, 'last_id')
+#1 D:\wamp64\www\cc2\db\base\core\CDbCommand.php(24): CModel->insert(Array)
+#2 D:\wamp64\www\cc2\db\base\insert\InsertModel.php(75): CC\db\base\core\CDbCommand::insert('user', Array, 't_', Array)
+#3 D:\wamp64\www\pms_test\protected\module\test\test\TestTestEditAdminAction.php(106): CC\db\base\insert\InsertModel->execute()
+#4 D:\wamp64\www\cc2\action\SaveAction.php(228): module\test\test\TestTestEditAdminAction->saveData()
+#5 D:\wamp64\www\cc2\action\base\CAction.php(129): CC\action\SaveAction->execute(Object(CRequest))
+#6 [internal function]: CAction->executeInner(Object(CRequest))
+#7 D:\wamp64\www\cc2\route\process\CActionProcess.php(74): call_user_func_array(Array, Array)
+#8 D:\wamp64\www\cc2\route\process\CRequestProcess.php(100): CC\route\process\CActionProcess->onProcess(Object(module\test\test\TestTestEditAdminAction))
+#9 D:\wamp64\www\cc2\base\CApp.php(285): CC\route\process\CRequestProcess->process()
+#10 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#11 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+#12 {main}
+
+REQUEST_URI=  /pms_test/admin/test/test/edit
+
+POST 数据：   array (
+  'id' => '',
+  'account' => 'dsadasd',
+  'pwd' => 'asdasda',
+  'name' => 'sdadsad',
+  'sex' => '1',
+  'user_type' => '2',
+  'dept_id' => '370',
+)
+
+==========================================================================
+
+2018-08-08 12:21:07 [error] 
+[exception.CInteriorException]  Object of class CC\db\base\core\condition\EqualCondition could not be converted to string (D:\wamp64\www\cc2\db\CModel.php:407)
+Stack trace:
+#0 D:\wamp64\www\cc2\db\CModel.php(275): CModel->_queryIn()
+#1 D:\wamp64\www\cc2\db\CModel.php(558): CModel->queryAllSql()
+#2 D:\wamp64\www\cc2\db\CModel.php(246): CModel->_queryOn()
+#3 D:\wamp64\www\cc2\db\base\core\CDbCommand.php(166): CModel->queryAll()
+#4 D:\wamp64\www\cc2\db\base\select\ListModel.php(36): queryAll()
+#5 D:\wamp64\www\cc2\action\ListAction.php(128): CC\db\base\select\ListModel->execute()
+#6 D:\wamp64\www\cc2\action\base\CAction.php(129): module\test\test\TestTestIndexAdminAction->execute()
+#7 unknown(0): module\test\test\TestTestIndexAdminAction->executeInner()
+#8 D:\wamp64\www\cc2\route\process\CActionProcess.php(74): call_user_func_array()
+#9 D:\wamp64\www\cc2\route\process\CRequestProcess.php(100): CC\route\process\CActionProcess->onProcess()
+#10 D:\wamp64\www\cc2\base\CApp.php(285): CC\route\process\CActionProcess->process()
+#11 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#12 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+
+
+REQUEST_URI=  /pms_test/admin/test/test/index?_is_for_nav=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+
+2018-08-08 14:44:50 [error] 
+[exception.CInteriorException]  Object of class CC\db\base\core\condition\SubCondition could not be converted to string (D:\wamp64\www\cc2\db\CModel.php:407)
+Stack trace:
+#0 D:\wamp64\www\cc2\db\CModel.php(275): CModel->_queryIn()
+#1 D:\wamp64\www\cc2\db\CModel.php(558): CModel->queryAllSql()
+#2 D:\wamp64\www\cc2\db\CModel.php(246): CModel->_queryOn()
+#3 D:\wamp64\www\cc2\db\base\core\CDbCommand.php(166): CModel->queryAll()
+#4 D:\wamp64\www\cc2\db\base\select\ListModel.php(36): queryAll()
+#5 D:\wamp64\www\cc2\action\ListAction.php(128): CC\db\base\select\ListModel->execute()
+#6 D:\wamp64\www\cc2\action\base\CAction.php(129): module\test\test\TestTestIndexAdminAction->execute()
+#7 unknown(0): module\test\test\TestTestIndexAdminAction->executeInner()
+#8 D:\wamp64\www\cc2\route\process\CActionProcess.php(74): call_user_func_array()
+#9 D:\wamp64\www\cc2\route\process\CRequestProcess.php(100): CC\route\process\CActionProcess->onProcess()
+#10 D:\wamp64\www\cc2\base\CApp.php(285): CC\route\process\CActionProcess->process()
+#11 D:\wamp64\www\cc2\base\CApp.php(253): CApp->processRequest()
+#12 D:\wamp64\www\pms_test\index.php(29): CApp->run()
+
+
+REQUEST_URI=  /pms_test/admin/test/test/index?_is_for_nav=1
+
+POST 数据：   array (
+)
+
+==========================================================================
+
